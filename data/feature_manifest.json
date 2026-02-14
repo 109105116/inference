@@ -1,0 +1,19 @@
+{
+  "rna_features": {
+    "rinalmo": "/workspace/ash/code/c/inference/data/processed/rinalmo",
+    "mxfold2": "/workspace/ash/code/c/inference/data/processed/mxfold2",
+    "rna_onehot": "/workspace/ash/code/c/inference/data/processed/rna_onehot"
+  },
+  "mol_features": {
+    "unimol_cls": "/workspace/ash/code/c/inference/data/processed/unimol/cls",
+    "unimol_atomic": "/workspace/ash/code/c/inference/data/processed/unimol/atomic",
+    "mol_onehot": "/workspace/ash/code/c/inference/data/processed/mol_features/onehot",
+    "mol_graph": "/workspace/ash/code/c/inference/data/processed/mol_features/graph"
+  },
+  "dataset": "/workspace/ash/code/c/inference/data/model_ready_dataset.csv",
+  "stats": {
+    "num_rnas": 323,
+    "num_molecules": 1014,
+    "num_pairs": 1732
+  }
+}

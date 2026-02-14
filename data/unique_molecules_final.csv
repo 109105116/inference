@@ -1,0 +1,1015 @@
+mol_canonical_id,mol_id,mol_name,smiles
+MOL_7d9317918049,Target_lig_70,riboflavin,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O
+MOL_ba8ce2f7c701,Target_lig_31,lysine,C(CCN)C[C@@H](C(=O)O)N
+MOL_df171fcef026,Target_lig_1151,Tetramethylrosamine (TMR),CN(C)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](C)C)C=C3O2)C4=CC=CC=C4
+MOL_5689c11cb746,Target_lig_697,DB75,C1=CC(=CC=C1C2=CC=C(O2)C3=CC=C(C=C3)C(=[NH2+])N)C(=[NH2+])N
+MOL_4fc5b6530fe0,Target_lig_731,Aniline_analog_7,OC(Cn1c2ccc(cc2c2c1ccc(c2)Br)Br)CNc1ccc(cc1)N1CCOCC1
+MOL_6bfd66f233f5,Target_lig_1018,CMBL-3aL,NCCCC(=O)NCCCN1Cc2ccc3c(n2)nc(cc3)NC(=O)OCC/C=C/CCOC(=O)Nc2nc3nc(C1)ccc3cc2
+MOL_dc1532bcaba4,Target_lig_652,DCC 4 (2012),CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](C\C=C/C[C@H](NC(=O)[C@@H]1CCCN1C(=O)C1=C(CC)N=C2C=C3C=CC=CC3=CC2=C1)C(=O)N[C@@H](CCCC[NH3+])C(=O)NCCC[NH3+])C(=O)N[C@@H](CCCC[NH3+])C(=O)NCCC[NH3+]
+MOL_b7372cc9fa51,Target_lig_746,Carbazole_analog_24,CCOc1ccc(cc1)NCC(Cn1c2ccc(cc2c(c1C)C)Br)O
+MOL_b9157f5fcbf1,Target_lig_767,Neomycin-4b,NCC1OC(OC2C(Cn3nnc(c3)CCCCCC(=O)Nc3cccc(c3)c3csc(n3)NC(=O)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_0de40b91d2c6,Target_lig_634,2H-4,CCCN(CC(=O)N(CCC)CC(=O)N(CCC)CC(=O)N(CCC)CC(=O)N(CC(N)=O)CC1=CN(CCCNC(=O)CCCOC2=CC=CC(=C2)C2=NC3=CC(=CC=C3N2)C2=NC3=CC(=CC=C3N2)N2CC[NH+](C)CC2)N=N1)C(=O)CNCC1=CN(CCCNC(=O)CCCOC2=CC=CC(=C2)C2=NC3=CC(=CC=C3N2)C2=NC3=CC(=CC=C3N2)N2CC[NH+](C)CC2)N=N1
+MOL_7515c78c3de2,Target_lig_748,Carbazole_analog_26,OC(CN(c1ccc(cc1)Br)c1ccc(cc1)Br)CNc1ccc(cc1)N1CCOCC1
+MOL_f81c33b53e93,Target_lig_230,Minocycline,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C
+MOL_a6e4b837e161,Target_lig_122,N-(4-bromo-3-methylphenyl)-3-(4-ethylpiperazin-1-yl)propanamide,CCN1CCN(CC1)CCC(=O)NC2=CC(=C(C=C2)Br)C
+MOL_775b5f9e4ef8,Target_lig_1021,DMA-155,CN(c1nc(N)c(nc1c1ccc(cc1)c1ccccc1)C(=O)NC(=[NH2+])N)C
+MOL_7d2b307ff92b,Target_lig_1124,Rbt427,NCCCOc1ccc(cc1CNCCCCNC(=N)N)c1cscc1
+MOL_27266f92a3aa,Target_lig_331,preQ1 (7-Aminomethyl-7-deazaguanine),C1=C(C2=C(N1)N=C(NC2=O)N)CN
+MOL_9a96f1533764,Target_lig_234,Pristinamycin IIA,CC1C=CC(=O)NCC=CC(=CC(CC(=O)CC2=NC(=CO2)C(=O)N3CCC=C3C(=O)OC1C(C)C)O)C
+MOL_5ac1670183df,Target_lig_359,Bifunctional_aminoglycoside_derivative_7,[C@H]1([C@H]([C@@H]([C@H]([C@@H](C1)N)OC[C@@H](CN(CCCCCCN(C)C[C@H](CO[C@@H]1O[C@H]([C@@H]([C@@H]([C@H]1N)O)O)CN)O)C)O)O)O)N
+MOL_d52e62a0e2a9,Target_lig_282,Perazidoparomomycin derivative 9,[C@@H]1([C@@H]([C@H]([C@H](O[C@H]1CNN)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_f42c2c9342a1,Target_lig_770,Neomycin-4e,NCC1OC(OC2C(Cn3nnc(c3)Oc3ccc(cc3)C(=O)Nc3cccc(c3)c3csc(n3)NC(=O)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_7fe16d33c9f4,Target_lig_627,Targaprimir-96,CCCN(CC(=O)N(CCC)CC(=O)N(CC(N)=O)CC1=CN(CCCNC(=O)CCCOC2=C(C=C(C=C2C(C)(C)C)C2=NC3=CC(=CC=C3N2)N2CC[NH+](C)CC2)C(C)(C)C)N=N1)C(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1
+MOL_466bf90ab091,Target_lig_571,dicarba_analog_1,N([C@H](C(=O)N1[C@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)C/C=C/C[C@H](NC(=O)c1c(nc2c(c1)cccc2)CC)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)C(=O)c1c2c(nc(c1)CC)cccc2
+MOL_40c11f79aa5d,Target_lig_1233,SL3_compound_6,C[N+](CCN[N+]1(C)CCCc2c1cccc2)(C)C
+MOL_dd08018a0f93,Target_lig_723,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1
+MOL_e84191b43f4f,Target_lig_176,Acetylpromazine,CC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN(C)C
+MOL_af4950dde78d,Target_lig_1130,Rbt551,NCCCOc1ccc(cc1CNCCC1CCNCC1)c1ccc2c(c1)oc(c2)C(=O)NC
+MOL_21130ab98c78,Target_lig_1202,Neamine_derivative_15,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OCn1c2ccccc2nc1C(F)(F)F)O)O
+MOL_6b2532da2c71,Target_lig_97,methylpyridine_der_6,CC1=NC(=CC=C1)NCCN
+MOL_be9f27d32893,Target_lig_314,S-adenosyl methionine,C[S+](CCC(C(=O)[O-])N)CC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)O
+MOL_4917cf09b3e3,Target_lig_1260,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O
+MOL_34523ebb8cb7,Target_lig_1283,Compd 43,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1OC1OC(CO)C(C(C1N)O)O)N)O
+MOL_203281ca3973,Target_lig_449,benzimidazole_analog_rRNA_33,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CC=C(C=C4)Br)Cl)Cl
+MOL_b2d01ba94218,Target_lig_781,Compound 1b,CCCN(C(=O)CNCc1nnn(c1)N=[N+]=Nn1nnc(c1)CO)CC(=O)N(CC(=O)N(CC(=O)N(CC(=O)N(CC(=O)N)CCC)CCC)CCC)CCC
+MOL_412b9b646fdf,Target_lig_708,Targaprimir-18a,C[NH+]1CCN(CC1)C1=CC=C(C=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C
+MOL_e9fc58653da1,Target_lig_306,Sparsomycin,CC1=C(C(=O)NC(=O)N1)C=CC(=O)NC(CO)CS(=O)CSC
+MOL_28bb9ed8acb4,Target_lig_514,butanediamide derivative_1,CCc1nc2c(cccc2)cc1C(=O)N1CCC[C@@H]1C(=O)N[C@H](CSSC[C@@H](NC(=O)[C@H](NC(=O)c1c(CC)nc2c(cccc2)c1)CC(=O)N)C(=O)N[C@@H](CCCCN)C(=O)NCCCN)C(=O)N[C@@H](CCCCN)C(=O)NCCCN
+MOL_66a6d532363d,Target_lig_563,MBNL CCUG ligand 3,c12cc(ccc1c(c1c(n2)ccc(c1)OC)NCCCCc1c(nc(nc1N)N)N)Cl
+MOL_9b8b0abaed1d,Target_lig_5,Paromomycin,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)O)O)N)O)O)N
+MOL_99e48d6a013f,Target_lig_1137,B-11,N[C@@H]1C[C@H](N)[C@H]([C@H]([C@H]1OCCCc1nnn(c1)Cc1ccc(cc1)Cn1nnc(c1)CCCO[C@@H]1[C@H](N)C[C@H]([C@@H]([C@H]1O)O)N)O)O
+MOL_463b7a8d5dbc,Target_lig_7,kanamycin,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)O)O)OC3C(C(C(C(O3)CO)O)N)O)N
+MOL_45b22ec1446d,Target_lig_4,Neomycin,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)O)O)N)O)O)N
+MOL_a544caf07851,Target_lig_621,ligand 3-3,O1COc2c1cc(C(=O)N1[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CSSC[C@H](NC(=O)[C@@H]3CCCN3C(=O)c3cc4OCOc4cc3)C(=O)N[C@H](C(=O)NCCCN)CCCCN)CCC1)cc2
+MOL_2e2cfa96d3dc,Target_lig_719,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O
+MOL_04fe6d3be6ce,Target_lig_8,KANAMYCIN B,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)N)N
+MOL_5423d879be34,Target_lig_966,Compound9,CN1CCN(CC1)c1ccc(cc1)c1ccc2c(c1)[nH]c(n2)c1ccc(cc1)OCCCC(=O)N1CCN(CC1)c1nncc2c1ccs2
+MOL_36139c21dbd9,Target_lig_264,Aminoglycoside derivative 15,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CO)O[C@H]1[C@@H]([C@@H]([C@@H](C[C@H]1N)N)O)O[C@H]1OC[C@@H]([C@H]1OCCNCCc1ccccc1)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_d5a9cf8de329,Target_lig_1247,Lividomycin A,C1C(C(C(C(C1N)OC2C(CC(C(O2)CO)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)OC5C(C(C(C(O5)CO)O)O)O)O)N)O)O)N
+MOL_a307ea538c8f,Target_lig_502,Thiamine_mol,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO
+MOL_8fc33b3027f6,Target_lig_676,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1
+MOL_c772385f3540,Target_lig_160,7-methylxanthine,CN1C=NC2=C1C(=O)NC(=O)N2
+MOL_5a24795ab889,Target_lig_308,Malachite green,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=CC=C3.[Cl-]
+MOL_9ccf99c44ffe,Target_lig_1008,miR-21 binder compound 1,N=[N+]=NCCCNC(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C
+MOL_e644c1e41c27,Target_lig_736,Aniline_analog_12,OC(Cn1c2ccc(cc2c2c1ccc(c2)Br)Br)CNc1ccc2c(c1)cccc2
+MOL_2fd86b8afdf7,Target_lig_1067,Hit S1,C1COCC1C2=NOC(=N2)C3=CC(=CC(=C3)CN)NC(=O)C4=CC=CC=N4
+MOL_906da28fcba7,Target_lig_132,1-(4-chlorobenzyl)-N-(2-morpholinoethyl)piperidine-4-carboxamide,C1CN(CCC1C(=O)NCCN2CCOCC2)CC3=CC=C(C=C3)Cl
+MOL_c73a5e7d3412,Target_lig_210,3_phenothiazine_analog_1,c1c(ccc2Sc3ccccc3N(c12)CCCNCN(CO)CO)C(=O)C
+MOL_619e8262b569,Target_lig_1057,NRAS SAR 7,C1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCC5=CC=CS5
+MOL_cec15e58db02,Target_lig_717,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+]
+MOL_49f61a2f8ea6,Target_lig_658,DCC 3 (2017),CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N[C@@H](CCN1C=C(C[C@H](NC(=O)C2=C(CC)N=C3C=C4C=CC=CC4=CC3=C2)C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)NCCC[NH3+])N=N1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+]
+MOL_e3e9d1e7e7c0,Target_lig_168,"2,6- diaminopurine",C1=NC2=NC(=NC(=C2N1)N)N
+MOL_c8c1318f2c84,Target_lig_540,Tobramycin,[C@H]1([C@H](C[C@H]([C@H]([C@H]1O)O[C@@H]1[C@@H](C[C@@H]([C@@H](O1)CN)O)N)N)N)O[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)CNc1c2ccccc2nc2c1cccc2)O)N)O
+MOL_9012440eee65,Target_lig_280,Perazidoparomomycin derivative 6,[C@@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCCCCN)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_74c8da9b7d4e,Target_lig_63,Streptomycin,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O
+MOL_54f8c2c3afbb,Target_lig_209,hydroxymethyl_piperidinyl_pentyl,c1c(ccc2Sc3ccccc3N(c12)CCCCCN1CCC[C@H](C1)CO)C(=O)C
+MOL_00284f166e1e,Target_lig_1138,B-13,N[C@@H]1C[C@H](N)[C@H]([C@H]([C@H]1OCCCc1nnn(c1)Cc1c(C)cc(c(c1C)Cn1nnc(c1)CCCO[C@@H]1[C@H](N)C[C@H]([C@@H]([C@H]1O)O)N)C)O)O
+MOL_c6957db1821d,Target_lig_618,SL3 RNA_ligand15,CC1=CC=CN2C1=NC3=C(C2=O)C=C(C(=N)N3C[C@H]4CCCO4)C(=O)N5CCN(CC5)C
+MOL_efd9222aefba,Target_lig_607,SL3 RNA_ligand4,COC1=C(C=C(C=C1)NCC2=CC=C(S2)[N+](=O)[O-])OC
+MOL_3a486f0fe9d5,Target_lig_761,Neomycin-S,NCC1OC(OC2C(Cn3nnc(c3)CCC(=O)Nc3cccc(c3)c3csc(n3)NC(=O)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_78828b1bf1b1,Target_lig_387,Acyclic DOS mimic 1_biphenyl substituent,c1cccc(c1)c1ccc(cc1)CO[C@H](CO[C@@H]1O[C@@H]([C@H](O)[C@@H](O)[C@H]1N)CN)CN
+MOL_337c7cb9d43e,Target_lig_701,DPQ,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CC[NH2+]CC3)N)OC
+MOL_e8afed2c9e1c,Target_lig_293,Perazidoparomomycin derivative 20,[C@@H]1([C@@H]([C@H]([C@H](O[C@H]1CN[C@@H]([C@@H](c1ccccc1)O)C)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_90032740eb3f,Target_lig_722,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1
+MOL_884d1b0f3dfb,Target_lig_10,sisomicin,CC1(COC(C(C1NC)O)OC2C(CC(C(C2O)OC3C(CC=C(O3)CN)N)N)N)O
+MOL_15b74d1713f0,Target_lig_81,"1H-1,3-benzodiazol-2-amine",C1=CC=C2C(=C1)NC(=N2)N
+MOL_9d154e1b8108,Target_lig_993,Tobramycin-CRT,OCC1OC(OC2C(N)CC(C(C2O)OC2OC(CNC(=O)c3ccc(c(c3)C(=O)O)c3c4ccc(=[N+](C)C)cc4oc4c3ccc(c4)N(C)C)C(CC2N)O)N)C(C(C1O)N)O
+MOL_f4d763001f6e,Target_lig_1236,CRG,CNC1C(O)C(OCC1(C)O)OC1C(N)CC(C(C1O)OC1OC(CCC1N)C(CCNC(=O)c1ccc(c(c1)C(=O)O)c1c2ccc(=[N+](C)C)cc2oc2c1ccc(c2)N(C)C)C)N
+MOL_fb54fd023272,Target_lig_148,neocarzinostatin,CC1C(C(C(C(O1)OC2C3CC#CC4C(O4)(C#CC3=CC2OC(=O)C5=C(C=CC6=C5C=C(C=C6C)OC)O)C7COC(=O)O7)NC)O)O
+MOL_faed6a8621cd,Target_lig_373,Neamine mimic_7,[C@H]1([C@H]([C@@H]([C@@H](O[C@@H]1CN)O[C@@H]1[C@@H]([C@H](O[C@H]([C@@H]1N)OC)CN)O[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)C)N)O)O)N)O)O
+MOL_a4695668072b,Target_lig_997,Compound C2-Ak,C#CCc1nc(Nc2nccc(c2)Nc2ccc3c(n2)cccc3)cc(n1)N1CCN(CC1)C
+MOL_c4e87517a068,Target_lig_419,Halogen substituted benzimidazole,C1CNCCC1C2=NC3=CC(=C(C=C3N2)Cl)Cl
+MOL_978e3b79ec86,Target_lig_751,Neomycin_nucleobase_3a,NCC1OC(OC2C(Cn3nnc(c3)Cn3cnc4c3ncnc4N)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_1727b522baa5,Target_lig_110,3-(azepan-1-ylmethyl)-2-methylquinolin-4-ol,CC1=C(C(=O)C2=CC=CC=C2N1)CN3CCCCCC3
+MOL_e31c007cab21,Target_lig_1263,Targapremir-210-RL,CN1CCN(CC1)C2=CC3=C(C=C2)N=C(N3)C4=CC5=C(C=C4)N=C(N5)C6=CC(=CC=C6)OCCCC(=O)NCCCN=[N+]=[N-]
+MOL_e46fee9a5126,Target_lig_175,Amikacin,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N
+MOL_47df134e0c32,Target_lig_311,Paromamine,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)O)N)O)O)N
+MOL_4e714d66c62c,Target_lig_1163,Compd 36,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(COC3OC(CO)C(C(C3N)O)O)C(C(C2N)O)O)N)C(CC1O)N
+MOL_f8d6b5363b65,Target_lig_1159,Compd 37,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1O)OC1OC(CO)C(C(C1O)O)N)O
+MOL_71aa8d77dfad,Target_lig_170,quinolinediamine_trimethyl_der,CC1=CC(=NC2=C1C=CC(=C2)N)N(C)C
+MOL_6d0c74b5e60c,Target_lig_426,benzimidazole_analog_rRNA_9,C1CC(CCC1C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-])N
+MOL_83c1766df5b2,Target_lig_851,AU-azide,N=[N+]=NCCCNC(=N)c1ccc(cc1)c1ccc(o1)c1ccc(cc1)C(=N)N
+MOL_0cd098a0f815,Target_lig_119,"8-methyl-3-(2-(pyrrolidin-1-yl)ethyl)-3H-pyrimido[5,4-b]indol-4(5H)-one",CC1=CC2=C(C=C1)NC3=C2N=CN(C3=O)CCN4CCCC4
+MOL_dd8b5280f1cf,Target_lig_654,Compound 4E,CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N(C)[C@@H](C\C=C\C[C@H](N(C)C(=O)C1=C(CC)N=C2C=C3C=CC=CC3=CC2=C1)C(=O)N1CCC[C@H]1C(=O)N(C)[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+])C(=O)N1CCC[C@H]1C(=O)N(C)[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+]
+MOL_db2797169a54,Target_lig_92,methylpyridine_der_1,CC1=C(N=CC=C1)NCCN
+MOL_0ab787b26bea,Target_lig_1015,ATMND-C4-NH2,NCCCCNc1ccc2c(n1)nc(c(c2C)C)C
+MOL_89066f5c6773,Target_lig_318,Thiamine_Pyrophosphate(TPP),CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)[O-]
+MOL_b24e573d9d95,Target_lig_317,Telithromycin,CCC1C2(C(C(C(=O)C(CC(C(C(C(=O)C(C(=O)O1)C)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCN4C=C(N=C4)C5=CN=CC=C5)C
+MOL_0bbab7aaaeb1,Target_lig_657,S-Amino acid conjugate 14b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])=CC=C1
+MOL_3342bb606392,Target_lig_67,FAD,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=NC6=C(N=CN=C65)N)O)O)O)O)O
+MOL_65c67886c8f5,Target_lig_700,ST4133609,CC1=NC2=C(C=C1)C(=C(S2)C(=O)NC3=CC=CC(=C3)C(F)(F)F)N
+MOL_f187bac3d24d,Target_lig_1092,Curcumin,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O
+MOL_1ed42f674019,Target_lig_778,Targapremir-515/885,N=[N+]=NCCCNC(=O)CCCOc1c(cc(cc1C(C)(C)C)c1nc2c([nH]1)ccc(c2)c1nc2c([nH]1)cc(cc2)N1CCN(CC1)C)C(C)(C)C
+MOL_340df21d4ef0,Target_lig_549,DOS_der_4,OCc1ccc(cc1)CCc1ccc(cc1)CO[C@H]1[C@@H](C[C@H](N)[C@@H](O)[C@@H]1O)N
+MOL_f74a445aa64b,Target_lig_684,H1,C1=CC(=CC(=C1)N)C2=NC3=C(N2)C=C(C=C3)C4=CC5=C(C=C4)N=C(N5)C6=CC(=CC=C6)N
+MOL_77f27efc7a74,Target_lig_114,"4,6-bis(piperidin-1-ylmethyl)-2-p-tolylpyridin-3-ol",CC1=CC=C(C=C1)C2=C(C(=CC(=N2)CN3CCCCC3)CN4CCCCC4)O
+MOL_70e3e96a70e7,Target_lig_222,Anisomycin,CC(=O)OC1C(CNC1CC2=CC=C(C=C2)OC)O
+MOL_f789c07e4ce8,Target_lig_74,tetracyclin,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O
+MOL_0b24a4790a4f,Target_lig_277,Perazidoparomomycin derivative 3,[C@@H]1([C@@H]([C@H]([C@H](O[C@H]1CCN1CCOCC1)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_114d7b0aee8c,Target_lig_1266,2AU-2,CCCN(C(=O)CN(C(=O)CNCc1nnn(c1)CCCNC(=N)c1ccc(cc1)c1ccc(o1)c1ccc(cc1)C(=N)N)CCC)CC(=O)N(Cc1nnn(c1)CCCNC(=N)c1ccc(cc1)c1ccc(o1)c1ccc(cc1)C(=N)N)CC(=O)N
+MOL_ef70321e36c3,Target_lig_245,CMC8_diphenylfuran,CN(C)CCCN=C(C1=CC=CC(=C1)C2=CC=C(O2)C3=CC(=CC=C3)C(=NCCCN(C)C)N)N
+MOL_326015a554d5,Target_lig_660,DCC 5 (2017),CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N[C@@H](CC1=CN(CC[C@H](N(C)C(=O)C2=C(CC)N=C3C=C4C=CC=CC4=CC3=C2)C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)NCCC[NH3+])N=N1)C(=O)N1CCC[C@H]1C(=O)N(C)[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+]
+MOL_8349922a9f67,Target_lig_1238,CRK,OCC1OC(OC2C(N)CC(C(C2O)OC2OC(CNC(=O)c3ccc(c(c3)C(=O)O)c3c4ccc(=[N+](C)C)cc4oc4c3ccc(c4)N(C)C)C(C(C2N)O)O)N)C(C(C1O)N)O
+MOL_3f8aa3b61fa5,Target_lig_116,"6-methyl-3-((4-methyl-1,4-diazepan-1-yl)methyl)-4H-chromen-4-one",CC1=CC2=C(C=C1)OC=C(C2=O)CN3CCCN(CC3)C
+MOL_351558744966,Target_lig_567,disulfide_der_3,N([C@@H](C(=O)N1[C@@H](CCC1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCCN)CSSC[C@@H](NC(=O)c1cnc2c(cccc2)c1)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)C(=O)c1c2c(ncc1)cccc2
+MOL_a696ef2d77cc,Target_lig_1161,Compd 39,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(COC3OC(CN)C(C(C3O)O)O)C(C(C2N)O)N)N)C(CC1O)N
+MOL_828d726370a1,Target_lig_9,ribostamycin,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)OC3C(C(C(O3)CO)O)O)O)N
+MOL_665954d2d254,Target_lig_497,ethylquinoline_carboxamide derivative,c1cc(ccc1)C[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)c1cc2ccccc2nc1CC)CSSC[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)NCCCN)Cc1ccccc1)NC(=O)c1c(nc2c(c1)cccc2)CC)C(=O)NCCCN
+MOL_98f42973d9f6,Target_lig_1139,B-14,N[C@@H]1C[C@H](N)[C@H]([C@H]([C@H]1OCCCc1nnn(c1)Cc1cccc(n1)Cn1nnc(c1)CCCO[C@@H]1[C@H](N)C[C@H]([C@@H]([C@H]1O)O)N)O)O
+MOL_b439d18f478d,Target_lig_729,Aniline_analog_5,CCOc1ccc(cn1)NCC(Cn1c2ccc(cc2c2c1ccc(c2)Br)Br)O
+MOL_8a84f2f294f7,Target_lig_965,Compound1,N=[N+]=NCCCNC(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)cc(cc2)c1ccc(cc1)N1CCN(CC1)C
+MOL_a128899b8ea9,Target_lig_615,SL3 RNA_ligand12,c12ccccc1C(=O)[C@H]1[C@H](C2=O)C(=CC=C1NCCO)NCCO
+MOL_be67401bed93,Target_lig_775,PA-1,CC1(C(C2=CC=CC=C2NC1=NCCCNCCCCNCCCN)N(C)C3=CC=CC=C3)C
+MOL_cde35e3a4c02,Target_lig_187,Rbt550,C1CN(CCN1)CCNCC2=C(C=CC(=C2)C3=CC4=C(C=C3)NC=C4)OCCCN
+MOL_1851a8b99042,Target_lig_28,Reactive Blue 4,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3NC4=CC(=C(C=C4)S(=O)(=O)O)NC5=NC(=NC(=N5)Cl)Cl)S(=O)(=O)O)N
+MOL_50d0182e3435,Target_lig_850,Compound_2,C1=CC(=CC=C1C2=CC=C(O2)C3=CC=C(C=C3)C(=N)N)C(=N)N
+MOL_385a521e6c62,Target_lig_300,Acetyl parmomycin derivative,[C@@H]1([C@@H]([C@H]([C@@H](C[C@@H]1CO)O[C@@H]1[C@H]([C@H]([C@@H](C[C@@H]1N)N)O)O[C@H]1O[C@H]([C@H]([C@@H]1OCCN(CCc1ccccc1)C(=O)C)O[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)N)O)O)N)CO)N)O)O
+MOL_c914a2c59e0f,Target_lig_562,biotin PEO Amine,N=C1N[C@H]2CS[C@H]([C@@H]2N1)CCCCC(=O)NCCOCCOCCN
+MOL_3635154379ce,Target_lig_182,Mitoxantrone,C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO
+MOL_98987ae9df57,Target_lig_612,SL3 RNA_ligand9,C1=CC2=C(C=CC(=C2N=C1)SCCO)[N+](=O)[O-]
+MOL_d05ef72ed6fe,Target_lig_505,Roseoflavin,CC1=CC2=C(C=C1N(C)C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O
+MOL_8b9da21a34e2,Target_lig_76,gentamicin_mol,CC1(COC(C(C1NC)O)OC2C(CC(C(C2O)OC3C(CCC(O3)CN)N)N)N)O
+MOL_3282bf89ee9d,Target_lig_454,benzimidazole_analog_rRNA_38,CN1C2=CC(=C(C=C2N=C1C3CCNCC3)Cl)Cl
+MOL_0bd234b96215,Target_lig_1175,Lincomycin,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)O
+MOL_7349e207fc4c,Target_lig_434,benzimidazole_analog_rRNA_17,C1CNCCC1C2=NC3=C(N2)C=C(C=C3)C(F)(F)F
+MOL_4db9fb3aba21,Target_lig_423,benzimidazole_analog_rRNA_6,C1=CC(=CN=C1)C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-]
+MOL_b88c34773b2e,Target_lig_150,Neocarzinostatin_chromophore_derivative_2,c12c(cccc1)[C@]1(C(=O)C=C2)[C@@H](O[C@@H]2[C@@H]1c1c(C2=O)cc2c(c1)cccc2)O[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)CO)O)O)N
+MOL_e9dccbf84c6e,Target_lig_1012,ATMND-C2-NH2,CC1=C(C2=C(N=C1C)N=C(C=C2)NCCN)C
+MOL_c775998c482b,Target_lig_1040,B9,CCN(CC)CC(=O)NC1=CC=CC2=C1C(=O)C3=C(C4=CC=CC=C4C(=C3C2=O)O)O
+MOL_aa8cffea653b,Target_lig_100,"2-N,2-N-dimethylquinoline-2,4-diamine",CN(C)C1=NC2=CC=CC=C2C(=C1)N
+MOL_221d28cd7382,Target_lig_79,apramycin,CNC1C(C2C(CC(C(O2)OC3C(CC(C(C3O)O)N)N)N)OC1OC4C(C(C(C(O4)CO)N)O)O)O
+MOL_be8f2f88bfd3,Target_lig_1253,Phenothiazine 5,c1ccc2c(c1)Sc1c(N2CCCN(C)C)cc(cc1)C(=O)C
+MOL_7590de9f824a,Target_lig_1169,otc,CN(C1C(=O)C(=C(C2(C1C(O)C1C(=C(O)c3c(C1(C)O)cccc3O)C2=O)O)O)C(=O)N)C
+MOL_080302227122,Target_lig_619,SL3 RNA_ligand16,C1=CC=C(C=C1)N2C=C(C(=N2)C3=CC4=C(C=CC5=CC=CC=C54)OC3=O)C=C6C(=O)NC(=S)NC6=O
+MOL_b9d25e7e89cd,Target_lig_307,Linezolid,CC(=O)NCC1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCOCC3)F
+MOL_5a4877b96183,Target_lig_358,Bifunctional_aminoglycoside_derivative_6,[C@H]1([C@H]([C@@H]([C@H]([C@@H](C1)N)OC[C@@H](CN(CCCCCCN(C)C[C@H](CO[C@@H]1O[C@@H]([C@H]([C@H]([C@H]1N)O)O)CO)O)C)O)O)O)N
+MOL_3281c91a19ca,Target_lig_869,SMN2_compound_11,COc1ncc2n(c1)cc(n2)c1cc2ccc(cc2oc1=O)N1CCNCC1
+MOL_07525ecd8c44,Target_lig_183,Rbt203,COC1=CC(=C(C=C1)OCCN=C(N)N)CNCCCCN=C(N)N
+MOL_d55c12b55f9b,Target_lig_823,Compound 3,C1=CC(=CC=C1/C=N/N=C(N)N)C2=CC3=C(S2)C=C(C=C3)/C=N/N=C(N)N
+MOL_09573982ba09,Target_lig_204,"N,N-dimethyl-3-(2-(trifluoromethyl)-10H-phenothiazin-10-yl)propan-1-amine",CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)C(F)(F)F
+MOL_2cef37c4c4b9,Target_lig_152,Neocarzinostatin_chromophore_derivative_5,c12c(cc(cc1)OC)[C@@]1(C(=O)C=C2)C=C[C@@H]2[C@@H]1c1c([C@H]2O[C@@H]2[C@H]([C@@H]([C@@H]([C@@H](O2)C)O)O)NC)cc2c(c1)cccc2
+MOL_1824be9f7900,Target_lig_288,Perazidoparomomycin derivative 15,[C@H]1([C@H]([C@H]([C@H](O[C@H]1CNCCc1ccc(cc1)F)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_632dd3b310a7,Target_lig_626,Triptycene 2,NC(=[NH2+])NCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])=C2
+MOL_fe5d0c5a4526,Target_lig_1017,ADMND-C2-NH2,NCCNc1ccc2c(n1)nc(cc2C)C
+MOL_a9bba9cf1079,Target_lig_620,SL3 RNA_ligand17,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F
+MOL_eea3ec0dd215,Target_lig_224,B-12,[C@@H]1([C@H]([C@H](O)[C@H]([C@@H](C1)N)O)OCCCc1cn(nn1)Cc1cccc(Cn2cc(nn2)CCCO[C@H]2[C@@H](C[C@@H]([C@@H](O)[C@H]2O)N)N)c1)N
+MOL_5823f277ebdc,Target_lig_246,B3,CN(C)CCCN=C(C1=CC=C(C=C1)C2=CC=C(O2)C3=NC4=C(N3)C=C(C=C4)C(=NCCCN(C)C)N)N
+MOL_1eba3b8e74b4,Target_lig_3,Hygromycin,CNC1CC(C(C(C1O)OC2C3C(C(C(O2)CO)O)OC4(O3)C(C(C(C(O4)C(CO)N)O)O)O)O)N
+MOL_03c4543b2a47,Target_lig_650,Bisamidinium 2a,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=NC(NCC3=CN(CCCNC4=[NH+]C(N)=[NH+]C(NCCCCNC(=[NH2+])C5=CC=C(C=C5)C(=[NH2+])NCCCCNC5=NC(N)=[NH+]C(N)=N5)=N4)N=N3)=NC(N)=[NH+]2)=N1
+MOL_c361f8f50917,Target_lig_1254,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1
+MOL_8e29cc8d348d,Target_lig_424,benzimidazole_analog_rRNA_7,C1=CC(=CC=C1C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-])N
+MOL_71cbf68252ca,Target_lig_753,Neomycin_nucleobase_3c,NCC1OC(OC2C(Cn3nnc(c3)Cn3ccc(nc3=O)N)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_a050834a9183,Target_lig_1048,AIZA analog 8,C1CNCCC1N2C=NC(=C2N)C(=O)N
+MOL_4b04cb25bdc5,Target_lig_655,DCC 5 (2012),CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N[C@@H](C\C=C\C[C@H](NC(=O)C1=C(CC)N=C2C=C3C=CC=CC3=CC2=C1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+])C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+]
+MOL_1fc1f880660a,Target_lig_704,DPQ8,CCCC(=O)N1CCN(CC1)C1=NC(N)=C2C=C(OC)C(OC)=CC2=[NH+]1
+MOL_7fc616e2e8a5,Target_lig_181,Quinacridone,C1=CC=C2C(=C1)C(=O)C3=CC4=C(C=C3N2)C(=O)C5=CC=CC=C5N4
+MOL_6543ab664bea,Target_lig_543,Oxazolidinone 2,COC1=CC=C(C=C1)N2[C@@H]([C@H](OC2=O)COC(=O)CC3=CC=CC=C3)CC4=CC=CC=C4
+MOL_c82c0479902a,Target_lig_154,Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+MOL_0968cf5704d2,Target_lig_398,Diamino_piperidinyl_triazine_2,C1[C@H](CN(C[C@H]1N)c1nc(nc(N2C[C@H](C[C@@H](C2)N)N)n1)Nc1ccc(cc1)NC(=O)c1c(cc2c(c1)cccc2)O)N
+MOL_8c5f1e656378,Target_lig_367,Neamine mimic_1,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CO)O[C@H]1[C@@H]([C@H](O[C@H]([C@@H]1N)OC)CN)O)N)O)O
+MOL_bb1e0005645e,Target_lig_581,NSC121848,C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)O)O)O)O)C.[Br-]
+MOL_e5bea8b92db0,Target_lig_624,ligand 3-4,O1COc2c1cc(C(=O)N1[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCCCN)CCCCN)CSSC[C@H](NC(=O)[C@@H]3CCCN3C(=O)c3cc4c(nc3CC)cccc4)C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CCC1)cc2
+MOL_33c74aa43fa2,Target_lig_383,DOS,C1[C@@H](N)[C@@H](O)[C@H]([C@@H]([C@H]1N)OCSc1ccnc2c1ccc(c2)C(F)(F)F)O
+MOL_80c2ab11701f,Target_lig_1031,Bisantrene,C1CN=C(N1)NN=CC2=C3C=CC=CC3=C(C4=CC=CC=C42)C=NNC5=NCCN5
+MOL_52c051a5a62a,Target_lig_547,DOS_der_2,[C@H]1([C@H](OCc2ccc(cc2)CCc2ccc(cc2)CO[C@H]2[C@@H](C[C@H](N)[C@@H](O)[C@@H]2O)N)[C@@H](O)[C@@H]([C@H](C1)N)O)N
+MOL_217cba1acb3a,Target_lig_269,Aminoglycoside derivative 20,[C@H]1([C@H]([C@@H]([C@@H](O[C@H]1CO)O[C@@H]1[C@H]([C@@H]([C@H](C[C@@H]1N)N)O)O[C@H]1OC[C@@H]([C@@H]1OCCNc1ncccc1)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_d31a6444936c,Target_lig_743,Carbazole_analog_21,OC(Cn1c2cc(Br)ccc2c2c1cc(Br)cc2)CNc1ccc(cc1)N1CCOCC1
+MOL_0fcfffb000cd,Target_lig_1158,Compd 35,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(C(C2O)N)O)N)C(CC1O)N
+MOL_41ea291e50d7,Target_lig_623,ligand 2-4,n1c2c(cc(C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCCCN)CCCCN)CSSC[C@H](NC(=O)[C@@H]3CCCN3C(=O)c3cc4c(nc3CC)cccc4)C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CC(=O)N)c1CC)cccc2
+MOL_d480abed2a2f,Target_lig_218,choro_imidazole_phenothiazine_der,c1cccc2Sc3ccc(cc3N(c12)CCn1cncc1)Cl
+MOL_13757853f4a3,Target_lig_827,Compound 7,OC1CN(C1)Cc1ccc(cc1)C1CCN(CC1)C(=O)c1c(C)nc2n1ccs2
+MOL_23b627b23868,Target_lig_1114,Azepane aminoglycoside mimic 2,O1[C@H](O[C@@H]2C[C@@H](NCC[C@H]2N)CO)[C@H]([C@@H]([C@H]([C@@H]1CN)O)O)N
+MOL_177dd1aa7803,Target_lig_120,biphenyl_derivative,N=C(N)CCCOC1=C=C=C=C=C1C1=C=C=C=C=C1
+MOL_9acfb48676e1,Target_lig_711,p-Terphenyl 6b,COC1=CC(CC[NH3+])=C(C(CC[NH3+])=C1)C1=CC(C)=C(C(C)=C1)C1=CC(CC[NH3+])=C(O)C(CC[NH3+])=C1
+MOL_230ac8971c7a,Target_lig_1274,Compound1a,Oc1ccc2c(c1)c1c(C)c3c[n+](CCN4CCCCC4)ccc3c(c1[nH]2)C
+MOL_d55736944e23,Target_lig_653,DCC 11 (2012),CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC\C=C\CCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)C1=C(CC)N=C2C=C3C=CC=CC3=CC2=C1)C(=O)N[C@@H](CCCC[NH3+])C(=O)NCCC[NH3+])C(=O)N[C@@H](CCCC[NH3+])C(=O)NCCC[NH3+]
+MOL_43ad56aa9d92,Target_lig_289,Perazidoparomomycin derivative 16,[C@H]1([C@H]([C@H]([C@H](O[C@@H]1CN[C@@H](Cc1ccccc1)C)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_bc480e10f4b5,Target_lig_1035,B4,CC(C)C1=CC2=C(C=C1)N=C3C=CC(=CN3C2=O)C(=O)NCCN(C)C
+MOL_6360231558fa,Target_lig_165,Adenine,C1=NC2=NC=NC(=C2N1)N
+MOL_df633cc8617c,Target_lig_453,benzimidazole_analog_rRNA_37,CCCCN1C2=CC(=C(C=C2N=C1C3CCNCC3)Cl)Cl
+MOL_e50d5979c5c1,Target_lig_312,Puromycin,CN(C)C1=NC=NC2=C1N=CN2C3C(C(C(O3)CO)NC(=O)C(CC4=CC=C(C=C4)OC)N)O
+MOL_71898d30d8c8,Target_lig_651,Bisamidinium 9,NC1=NC(NCCN(CC[NH3+])CC[NH3+])=NC(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=NC(NCCN(CC[NH3+])CC[NH3+])=NC(N)=[NH+]2)=[NH+]1
+MOL_b8f1db953f01,Target_lig_270,Aminoglycoside derivative 21,[C@@H]1([C@@H]([C@H]([C@H](O[C@H]1CO)O[C@H]1[C@@H]([C@H]([C@@H](C[C@H]1N)N)O)O[C@@H]1OC[C@@H]([C@H]1OCCNCCC(C)(C)C)O[C@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_db3fa64960a5,Target_lig_1070,Hit S4,CN1C2=C(C(=CC=C2)Cl)C(=N1)CN3CCCCC(C3)N
+MOL_fa97c051fa20,Target_lig_260,Aminoglycoside derivative 10,[C@@H]1([C@H]([C@@H]([C@H](O[C@@H]1CO)O[C@H]1[C@@H]([C@@H]([C@H](C[C@@H]1N)N)O)O[C@H]1OC[C@H]([C@@H]1OCCNC[C@H]1CNCCC1)O[C@@H]1[C@@H]([C@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_d3236e01ceef,Target_lig_140,Geneticin,CC(C1C(C(C(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)O)O)O
+MOL_32e1a0734537,Target_lig_738,Aniline_analog_14,CC1=CC(=C(C=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O)C
+MOL_bfa04ac36e59,Target_lig_1132,Rbt555,NCCCOc1ccc(cc1CNCCC1CCNCC1)c1ccc2c(c1)c(=O)cco2
+MOL_5e04f0a2929a,Target_lig_1065,NRAS SAR 24,CC1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCN5CCCC5
+MOL_9be0036569f8,Target_lig_302,Ether paromomycin derivative 4,[C@H]1([C@@H]([C@H]([C@@H](C[C@H]1CO)O[C@@H]1[C@@H]([C@H]([C@@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@@H]([C@@H]1OCCN)O)CO)N)O)O
+MOL_cc0beaf5ed8f,Target_lig_261,Aminoglycoside derivative 12,[C@H]1([C@H]([C@H]([C@@H](O[C@@H]1CO)O[C@@H]1[C@@H]([C@H]([C@@H](C[C@@H]1N)N)O)O[C@@H]1OC[C@@H]([C@H]1OCCNc1ccnc2c1cccc2)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_327d6bf48cf2,Target_lig_370,Neamine mimic_4,[C@@H]1([C@@H]([C@@H]([C@H](O[C@@H]1CO)O[C@H]1[C@H]([C@@H]([C@H](O[C@@H]1CN)OC)N)O)N)O)O
+MOL_1a1a1ae0f8f7,Target_lig_579,NSC123111,CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H](C3=C2COC(=O)N)N4C)OC
+MOL_37fef0500345,Target_lig_193,Yohimbine,COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4)O
+MOL_1cb297b3a4c1,Target_lig_716,B1,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+]
+MOL_29ec05ef625e,Target_lig_568,disulfide_der_6,N([C@@H](C(=O)N1[C@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)CSSC[C@@H](NC(=O)c1c(nc2c(cc3c(c2)OCO3)c1)CC)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)C(=O)c1c2c(nc(c1)CC)cc1c(c2)OCO1
+MOL_b91c1c64bcf1,Target_lig_749,Carbazole_analog_27,OC(CN(c1ccc(cc1)Br)c1ccc(cc1)Br)CNc1ccccc1C
+MOL_733ee3740f3e,Target_lig_220,Butirosin,C1C(C(C(C(C1NC(=O)C(CCN)O)O)OC2C(C(C(O2)CO)O)O)OC3C(C(C(C(O3)CN)O)O)N)N
+MOL_d4afacef5e45,Target_lig_437,benzimidazole_analog_rRNA_21,C1CNCCC1C2=NC3=C(N2)C=NC=C3
+MOL_ef7e20cfe267,Target_lig_447,benzimidazole_analog_rRNA_31,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CC=C(C=C4)I)Cl)Cl
+MOL_387aeac8339f,Target_lig_768,Neomycin-4c,NCC1OC(OC2C(Cn3nnc(c3)c3ccc(cc3)C(=O)Nc3cccc(c3)c3csc(n3)NC(=O)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_8a2d7aeb4a8b,Target_lig_112,"4-(4,5-bis(azepan-1-ylmethyl)-1H-1,2,3-triazol-1-yl)-1,2,5-oxadiazol-3-amine",C1CCCN(CC1)CC2=C(N(N=N2)C3=NON=C3N)CN4CCCCCC4
+MOL_03d7204e6256,Target_lig_694,Clomiphene,CC[NH+](CC)CCOC1=CC=C(C=C1)/C(=C(\C2=CC=CC=C2)/Cl)/C3=CC=CC=C3
+MOL_147326d615ad,Target_lig_496,dox,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+MOL_ff4794ff7f99,Target_lig_610,SL3 RNA_ligand7,CC1CCN(CC1)C2=CC=C(C=C2)N
+MOL_e131567b6492,Target_lig_389,Acyclic DOS mimic 3_benzyl substituent,C(O[C@@H](CO[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1N)CN)CN)c1ccccc1
+MOL_460398962b41,Target_lig_969,Compound3,CCN(CC)CCNC(=O)C1=CC2=C(N1)C=CC(=C2)NC(=O)C3=CC4=C(N3)C=CC(=C4)N
+MOL_8497aee88605,Target_lig_503,Pyrithiamine,CC1=C(C=CC=[N+]1CC2=CN=C(N=C2N)C)CCO.Br.[Br-]
+MOL_59fc9c56a9e6,Target_lig_1077,Hit S12,C1CCCN(CC1)CC2=NC(=NC(=N2)NC3=CC=C(C=C3)F)N
+MOL_0e095a7abfc4,Target_lig_622,ligand 4-4,n1c2c(cc(C(=O)N3[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CSSC[C@H](NC(=O)[C@@H]4CCCN4C(=O)c4cc5c(nc4CC)cccc5)C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CCC3)c1CC)cccc2
+MOL_7c96e0d11102,Target_lig_772,Apramycin-6a,CNC1C(OC2OC(Cn3nnc(c3)CCC(=O)Nc3cccc(c3)c3csc(n3)NC(=O)C)C(C(C2O)O)N)OC2C(C1O)OC(C(C2)N)OC1C(N)CC(C(C1O)O)N
+MOL_a998c882ab65,Target_lig_680,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1
+MOL_77366f708302,Target_lig_202,dimethylamino_propyl_phenothiazin_der_2,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)O
+MOL_32337e71d4be,Target_lig_1053,NRAS SAR 1,C1CCN(CC1)C2CCN(CC2)CCCNC3=NC(=NC4=CC=CC=C43)C5=NN=C(O5)C6=CC=CC=C6
+MOL_df6adbb74333,Target_lig_544,Oxazolidinone 6,C1=CC=C(C=C1)C[C@@H]2[C@H](OC(=O)N2)COC(=O)CC3=CC=CC=C3
+MOL_687c558a8b86,Target_lig_1162,Compd 41,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1O)OC1OC(CO)C(C(C1N)O)O)N
+MOL_817b68cd4d06,Target_lig_267,Aminoglycoside derivative 18,[C@H]1([C@H]([C@@H]([C@@H](O[C@@H]1CO)O[C@@H]1[C@@H]([C@H]([C@H](C[C@@H]1N)N)O)O[C@@H]1OC[C@H]([C@H]1OCCNCc1cnc(cc1)N)O[C@@H]1[C@@H]([C@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_4e6ff4d95b40,Target_lig_69,ADENOSINE,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N
+MOL_7e7c2d3099a8,Target_lig_720,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O
+MOL_d43a8b68d34a,Target_lig_1155,Compd 32,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(C(C2O)O)N)N)C(CC1O)N
+MOL_c53d133a30ba,Target_lig_1066,NRAS SAR 25,CC1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCCN5CCC6=CC=CC=C6C5
+MOL_be31b0ed098c,Target_lig_305,Deoxy fluoro paromomycin,[C@H]1([C@H]([C@@H]([C@@H](C[C@H]1CO)O[C@@H]1[C@H]([C@H]([C@@H](C[C@@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@H]1O)O[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CN)O)O)N)COF)N)O)O
+MOL_cbdf03945870,Target_lig_1168,cmt2,N#CC1=C(O)C2(C(C(C1=O)N(C)C)CC1C(=C(O)c3c(C1(C)O)cccc3O)C2=O)O
+MOL_2a86894294b8,Target_lig_364,Neamine derivative_5,[C@H]1([C@@H]([C@H]([C@H](O[C@@H]1CN)O[C@@H]1[C@@H]([C@@H]([C@H](C[C@H]1N)NC(=O)[C@H](CCN)O)OCCN(CCCN)C(=O)[C@H](CCN)O)O)N)O)O
+MOL_bc884df8e4d5,Target_lig_762,Neomycin-3a,NCC1OC(OC2C(Cn3nnc(c3)CCC(=O)Nc3cccc(c3)c3csc(n3)NC(=O)c3ccc(cc3)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_aa2217122269,Target_lig_451,benzimidazole_analog_rRNA_35,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CC=NC=C4)Cl)Cl
+MOL_7a2990c17517,Target_lig_251,Phenyl ether paromomycin derivative 1,[C@@H]1([C@H]([C@@H]([C@H](O[C@@H]1CO)O[C@@H]1[C@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@H]([C@H]([C@@H]1OCCc1ccccc1)O[C@@H]1[C@H]([C@@H]([C@@H]([C@@H](O1)N)O)O)N)CO)N)O)O
+MOL_45b90591f588,Target_lig_616,SL3 RNA_ligand13,CC1=CC=CN2C1=NC3=C(C2=O)C=C(C(=N)N3CCCO)C(=O)NC
+MOL_bd053f9081d7,Target_lig_957,B5,COC1=CC(=CC(=C1O)OC)C2=NC3=C(N2)C=C4C(=C3)NC(=O)N4
+MOL_0ea35f0ad12c,Target_lig_1075,Hit S9,C1=CN=CC=C1C2=NC(=NC=C2)NCCCC3=NN=C(S3)N
+MOL_38b72f96245f,Target_lig_117,"7-(2-(azocan-1-yl)ethyl)-3-methyl-1H-purine-2,6(3H,7H)-dione",N1(CCCCCCC1)CCN1C=NC=2N(C(NC(C12)=O)=O)C
+MOL_d992ff649b1b,Target_lig_1156,Compd 33,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1OC1OC(CO)C(C(C1O)O)N)N)O
+MOL_90294e313747,Target_lig_169,"2,4-diaminopurine",C1=NC(=NC2(C1=NC=N2)N)N
+MOL_16b30685bc7d,Target_lig_1270,Gentamycin,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC
+MOL_0cc0946eeebe,Target_lig_1136,Rbt605,CN(CCCCOc1ccc(cc1CNCCCN1CCNCC1)c1cc2c(s1)cccc2)C
+MOL_ec2a3632c46a,Target_lig_580,NSC154020,CN1C2=NC=NC3=C2C(=CN3C4C(C(C(O4)CO)O)O)C(=N1)N
+MOL_23943d6507f9,Target_lig_551,D_Adenosine,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N
+MOL_cb35b67885c1,Target_lig_161,CP-theophylline,CN1C2=C(C(=O)N(C1=O)CCC(=O)O)NC=N2
+MOL_bc60f75d0b57,Target_lig_1047,AIZA analog 7,C1=CN=CC=C1N2C=NC(=C2N)C(=O)N
+MOL_5009e270e14e,Target_lig_664,Ribocil-C,C1C[C@@H](CN(C1)CC2=CN(C=N2)C3=NC=CC=N3)C4=NC(=CC(=O)N4)C5=CC=CS5
+MOL_ae0e657ab873,Target_lig_228,Chloramphenicol,C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
+MOL_31d2c301ce01,Target_lig_186,Rbt428,C1=CC=C2C(=C1)C=C(S2)C3=CC(=C(C=C3)OCCCN)CNCCCCN=C(N)N
+MOL_89ed7f587647,Target_lig_448,benzimidazole_analog_rRNA_32,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CC(=CC=C4)I)Cl)Cl
+MOL_e8f5730843c5,Target_lig_248,GUANINE,C1=NC2=C(N1)C(=O)NC(=N2)N
+MOL_697b388c5901,Target_lig_1225,ethylquinoline_carboxamide derivative 3,NCCCNC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1C(=O)[C@H](NC(=O)c1cnc2c(c1)cccc2)CSSC[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)NCCCN)Cc1ccccc1)NC(=O)c1cnc2c(c1)cccc2
+MOL_dd6562687303,Target_lig_73,cobinamide dicyanide,C/C/1=C/2\[C@@]([C@@H](C(=N2)/C=C\3/C([C@@H](C(=N3)/C(=C\4/[C@]([C@H](C([N-]4)[C@]5([C@@]([C@@H](C1=N5)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)(C)CCC(=O)NCC(C)O)/C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N.[C-]#N.[C-]#N.[Co]
+MOL_554ee7afb5bb,Target_lig_1157,Compd 34,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1OC1OC(CO)C(C(C1O)N)O)O)N
+MOL_1e876c3b29e5,Target_lig_732,Aniline_analog_8,CC1=C(C=CC=C1Cl)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O
+MOL_2deb72176265,Target_lig_826,Compound 6,OC1CN(C1)Cc1ccc(cc1)C1CCN(CC1)C(=O)c1cn(c2c1cccc2)C
+MOL_b84da084a9b8,Target_lig_271,Aminoglycoside derivative 22,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CO)O[C@@H]1[C@H]([C@H]([C@@H](C[C@H]1N)N)O)O[C@H]1OC[C@H]([C@@H]1OCCNCCCc1ccccc1)O[C@@H]1[C@@H]([C@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_4e86c5941d5f,Target_lig_718,Myricetin,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+MOL_4c41087aa714,Target_lig_611,SL3 RNA_ligand8,C1=CC=C(C=C1)OCCNC2=CC=CC=C2N
+MOL_1455c29c0931,Target_lig_756,Neomycin_nucleobase_3f,NCC1OC(OC2C(Cn3nnc(c3)Cc3nc4c(o3)ccc(c4)NC(=O)Nc3ccccc3)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_8a9a459c4614,Target_lig_693,DB213,C[NH+](C)CCC[NH+]=C(C1=CC=C(C=C1)C(=[NH+]CCC[NH+](C)C)N)N
+MOL_c7026457f1b7,Target_lig_686,Naphthyridine 2,C1CCN(C1)C2=NC(=C3C(=C2)C(=C(N=C3N)N4CCCC4)C#N)N
+MOL_c2a8844639bb,Target_lig_1042,B11,C1COCCN1CCNC2=C3C(=C(C=C2)NCCN4CCOCC4)C(=O)C5=CC=CC=C5C3=O
+MOL_1225a0f4debd,Target_lig_147,CRP,CC(C)CC(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)N3CCCC3C(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C4CCCN4C(=O)C(CCCCN)N
+MOL_34706a0f2120,Target_lig_84,4-methylquinolin-2-amine,CC1=CC(=NC2=CC=CC=C12)N
+MOL_f170e0f77dff,Target_lig_275,Perazidoparomomycin derivative 1,[C@@H]1([C@H]([C@H]([C@@H](O[C@H]1CN(C)C)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_894b993afd6a,Target_lig_6,Ethidium bromide,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N
+MOL_8c708b0c72aa,Target_lig_149,Neocarzinostatin_chromophore_derivative_1,c12c(cc(cc1C)OC)[C@@]1(C(=O)C=C2)C(=O)O[C@@H]2[C@H]1c1c([C@@H]2O[C@H]2[C@@H]([C@@H]([C@H]([C@H](O2)C)O)O)NC)cc2c(c1)[C@](C=C2)([C@H]1OC(=O)OC1)O
+MOL_5a85129a89c4,Target_lig_179,CMC3_Hoechst33258,CN1CCN(CC1)C2=CC3=C(C=C2)N=C(N3)C4=CC5=C(C=C4)N=C(N5)C6=CC(=C(C(=C6)O)O)O
+MOL_6ef0df8d611f,Target_lig_291,Perazidoparomomycin derivative 18,[C@@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCCc1ccc(cc1)OC)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_90f873a51fda,Target_lig_687,p7,C1=CC(=CC=C1C(=O)NC2=NC=C(C=C2)NC(=O)C3=CC=NC=C3)F
+MOL_927862c8beb8,Target_lig_566,disulfide_der_2,N([C@H](C(=O)N1[C@H](CCC1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCCN)CSSC[C@@H](NC(=O)c1c(nc2c(cccc2)c1)C)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)C(=O)c1c2c(nc(c1)C)cccc2
+MOL_01bfd10b8407,Target_lig_553,D-guanosine,C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N=C(NC2=O)N
+MOL_36e8cdb14747,Target_lig_281,Perazidoparomomycin derivative 8,[C@H]1([C@@H]([C@H]([C@H](O[C@@H]1CNCC(C)C)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_e67e70968a35,Target_lig_1129,Rbt549,NCCCOc1ccc(cc1CNCCC1CCNCC1)c1ccc2c(c1)[nH]cc2
+MOL_496b8a808e9f,Target_lig_628,2-AU-2,CCCN(CC(=O)N(CCC)CC(=O)N(CC(N)=O)CC1=CN(CCCNC(=[NH2+])C2=CC=C(C=C2)C2=CC=C(O2)C2=CC=C(C=C2)C(N)=[NH2+])N=N1)C(=O)CNCC1=CN(CCCNC(=[NH2+])C2=CC=C(C=C2)C2=CC=C(O2)C2=CC=C(C=C2)C(N)=[NH2+])N=N1
+MOL_8dfdf2a9aa22,Target_lig_442,benzimidazole_analog_rRNA_26,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=C(C=C(C=C4)C(F)(F)F)C(F)(F)F)Cl)Cl
+MOL_da1b877aadf5,Target_lig_1277,MPED,Cc1cc(NCCN)ncc1
+MOL_bb2438f789d1,Target_lig_1205,Neamine_derivative_20,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OSc1cnc(nc1)C(F)(F)F)O)O
+MOL_4eef72672a54,Target_lig_259,Aminoglycoside derivative 9,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CO)O[C@H]1[C@@H]([C@H]([C@@H](C[C@@H]1N)N)O)O[C@@H]1OC[C@H]([C@H]1OCCNC1CCNCC1)O[C@H]1[C@@H]([C@H](C[C@H](O1)CN)O)N)N)O)O
+MOL_d7a1b368df7f,Target_lig_999,Compound 3ab,NCCCCC(C(=O)OCOC[C@H]1O[C@H](C[C@@H]1O)C(=O)Nc1cccc(c1)c1csc(n1)NC(=O)C)N
+MOL_b7fec5c1a27c,Target_lig_776,PA-2,C(CCNCCCCNCCCCN)CN
+MOL_5279585537af,Target_lig_1166,cmt6,NC(=O)C1=C(O)C2(C(C(C1=O)O)CC1C(=C(O)c3c(C1(C)O)cccc3O)C2=O)O
+MOL_93ddf562fc76,Target_lig_665,2-Amino-N6-Hydroxyadenine,C1=NC2=C(N1)C(=NC(=N2)N)NO
+MOL_6ebef80c9943,Target_lig_1261,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O
+MOL_0dbf7ad27821,Target_lig_1223,Idarubicin,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O
+MOL_5f53f6ffe60d,Target_lig_378,Paromomycin_mol derivative 3 16S A-site RNA,C1[C@@H]([C@@H]([C@@H]([C@H]([C@@H]1N)O[C@@H]1O[C@H]([C@@H]([C@H]([C@@H]1N)O)O)CO)O[C@@H]1[C@H]([C@@H]([C@H](O1)CO)O[C@H]1O[C@H]([C@@H]([C@H]([C@@H]1N)O)O)CN)OCc1cccnc1)O)N
+MOL_eeaffd7f2f84,Target_lig_1145,Josamycin,CC1CC=CC=CC(C(CC(C(C(C(CC(=O)O1)OC(=O)C)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)OC(=O)CC(C)C)(C)O)N(C)C)O)CC=O)C)O
+MOL_53557ceed908,Target_lig_279,Perazidoparomomycin derivative 5,[C@H]1([C@H]([C@H]([C@H](O[C@H]1CNC)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_422a7165618c,Target_lig_88,dimethylamino_quinolinyl_pyridinyl_acetamide,CN(C)C1=NC2=CC=CC=C2C(=C1)NC(=O)CC3=CC=C(C=C3)O
+MOL_592ec03048e3,Target_lig_207,[3-(2-chloro-10H-phenothiazin-10,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl
+MOL_b5eb112c3ba9,Target_lig_1153,SAH,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CSCCC(C(=O)O)N)O)O)N
+MOL_bb3f923d4455,Target_lig_151,Neocarzinostatin_chromophore_derivative_3,c12c(cccc1)[C@]1([C@@H](C=C2)O[C@H]2[C@@H]([C@H]([C@@H]([C@@H](O2)CO)O)O)N)C(=O)O[C@H]2[C@@H]1c1c(C2=O)cc2c(c1)cccc2
+MOL_ab911ca5d0be,Target_lig_334,SB-280080,CC1CCC23CCC(=O)C2C1(C(CC(C(C3C)O)(C)C=C)OC(=O)CSC4CCNCC4)C
+MOL_03825f1b730c,Target_lig_771,Neomycin-4f,NCC1OC(OC2C(Cn3nnc(c3)Oc3cccc(c3)C(=O)Nc3cccc(c3)c3csc(n3)NC(=O)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_9fbf144d770b,Target_lig_757,Neomycin_nucleobase_3g,CCCCNC(=O)Nc1ccc2c(c1)nc(o2)Cc1nnn(c1)CC1OC(C(C1OC1OC(CN)C(C(C1N)O)O)O)OC1C(O)C(N)CC(C1OC1OC(CN)C(C(C1N)O)O)N
+MOL_33db0b19e4e6,Target_lig_586,racemic_oxazolidinones_2,C1(=O)O[C@H]([C@H](N1)CN1CCN(CC1)c1ccccc1)COC(=O)Nc1ccc(cc1)C(=O)C
+MOL_78ae06b1fd76,Target_lig_678,Benzimidazole 1 (2014),CC(C)(C)C1=CC(=CC(=C1OCCCC(=O)NCCCN=[N+]=[N-])C(C)(C)C)C2=NC3=C(N2)C=C(C=C3)N4CCN(CC4)C
+MOL_99655edbe484,Target_lig_734,Aniline_analog_10,C1=CC=C(C=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O
+MOL_96e66b6f983c,Target_lig_368,Neamine mimic_2,[C@@H]1([C@@H]([C@H]([C@H](O[C@@H]1CN)O[C@@H]1[C@H]([C@@H](O[C@@H]([C@H]1N)OC)CN)O)N)O)O
+MOL_76f89f61f7f2,Target_lig_475,Phenothiazine 2,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
+MOL_c7065479a649,Target_lig_225,Benzimidazole13ibis,c1c2OC[C@@H](Cc2c2c(c1)N=C1[C@H]2C[C@@H](CN1)CN(C)C)CN(C)C
+MOL_a4110ab70063,Target_lig_527,HTP 20,c12c(c(c3c(n1)cccc3)Nc1ccc(cc1)CNC(=O)[C@H](C(C)C)NC(=O)[C@H](NC(=O)CCCN)CO)cccc2C(=O)N[C@@H](C(=O)N)CCCNC(=N)N
+MOL_eeea4b740895,Target_lig_862,SMN2_compound_4,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2)c1cccc(c1)Cl
+MOL_7a8055552815,Target_lig_446,benzimidazole_analog_rRNA_3,COC(=O)C1=CC=C(C=C1)CN2C3=CC(=C(C=C3N=C2C4CCNCC4)Cl)Cl
+MOL_21deb10dbb2b,Target_lig_696,B6,C1C[NH+]=C(N1)C2=CC=C(C=C2)C3=CC=C(O3)C4=CC=C(C=C4)C5=[NH+]CCN5
+MOL_7d45025bca36,Target_lig_672,Methylquinolinium 22,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC=C(C=C2)N2CCOCC2)=C1
+MOL_0220ce1a1234,Target_lig_320,Tylosin,CCC1C(C=C(C=CC(=O)C(CC(C(C(C(CC(=O)O1)O)C)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)O)N(C)C)O)CC=O)C)C)COC4C(C(C(C(O4)C)O)OC)OC
+MOL_8655042c9f9e,Target_lig_93,methylpyridine_der_2,CC1=CC(=NC=C1)NCCN
+MOL_4244c8b2f2d1,Target_lig_498,methylpiperazine derivative,CC1=NC2=NC(=NN2C(=C1)N3CCN(CC3)C)C4=CC=C(C=C4)Cl
+MOL_1296111e8029,Target_lig_128,"6-chloro-3-((4-methyl-1,4-diazepan-1-yl)methyl)-4H-chromen-4-one",CN1CCCN(CC1)CC2=COC3=C(C2=O)C=C(C=C3)Cl
+MOL_9541587d38ae,Target_lig_86,"6,7-dimethyl-1H-1,3-benzodiazol-2-amine",CC1=C(C2=C(C=C1)NC(=N2)N)C
+MOL_d96324e75077,Target_lig_552,3-O-methyl-D-Adenosine,CO[C@@H]1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C(N=CN=C32)N)CO
+MOL_cda52c0a5f56,Target_lig_865,SMN2_compound_7,CN1CCN(CC1)c1cc(F)c2c(c1)oc(=O)c(c2)c1ccc(cc1)Cl
+MOL_ea7727e7658c,Target_lig_858,SMN-C5,CC1=CN2C=C(C=C(C2=N1)F)C3=CC(=O)N4C=C(C=CC4=N3)N5CCN(CC5)C
+MOL_c56cfea3528a,Target_lig_174,Cethromycin,CCC1C2(C(C(C(=O)C(CC(C(C(C(=O)C(C(=O)O1)C)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OCC=CC4=CC5=CC=CC=C5N=C4)C)C)NC(=O)O2)C
+MOL_aa5c733a083c,Target_lig_184,Rbt417,C1=CC=C2C(=C1)C=C(S2)C3=CC(=C(C=C3)OCCN=C(N)N)CNCCCCN=C(N)N
+MOL_6fa405a978cb,Target_lig_1046,AIZA analog 5,C1=NC(=C(N1C2C(C(C(O2)CO)O)O)N)C(=O)N
+MOL_e50aff8e8597,Target_lig_75,Spectinomycin,CC1CC(=O)C2(C(O1)OC3C(C(C(C(C3O2)NC)O)NC)O)O
+MOL_a495c4080509,Target_lig_438,benzimidazole_analog_rRNA_22,C1CNCCC1C2=NC3=C(N2)C=CC=N3
+MOL_4555585934ab,Target_lig_362,Neamine derivative_3,[C@H]1([C@H]([C@@H]([C@@H](O[C@@H]1CN)O[C@H]1[C@H]([C@@H]([C@H](C[C@H]1N)NC(=O)[C@@H](CCN)O)OCCNCCCCN)O)N)O)O
+MOL_cbc49294a93c,Target_lig_329,LINEZOLID_DERIVATIVE_4,CC(=S)NC[C@@H]1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCS(=O)CC3)F
+MOL_82641925e181,Target_lig_386,Quinolinyl_DOS_paromomycin_der_3,C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)OCSC2=C3C=CC(=CC3=NC=C2)C(F)(F)F)OCCNCCCN)O)N
+MOL_5a91a4b55994,Target_lig_457,benzimidazole_analog_rRNA_41,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CSC5=C4C=C(C=C5)Cl)Cl)Cl
+MOL_2824f8c4049f,Target_lig_649,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1
+MOL_e93dfa3ca648,Target_lig_526,Neocarzinostatin_chromophore_derivative_4,c12c(cc(cc1)OC)[C@@]1(C(=O)C=C2)C=C[C@@H]2[C@@H]1c1c([C@H]2O[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)CO)O)O)N)cc2c(c1)cccc2
+MOL_7befaba6e722,Target_lig_740,Carbazole_analog_18,CCOC1=CC=C(C=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=CC=CC=C42)O
+MOL_c93285cb4752,Target_lig_565,disulfide_der_1,N([C@@H](C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)CSSC[C@@H](NC(=O)c1c(nc2c(cccc2)c1)CC)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)C(=O)c1c2c(nc(c1)CC)cccc2
+MOL_cafc851ac353,Target_lig_1258,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1
+MOL_7cd606fd2a55,Target_lig_315,Spiramycin A,CC1CC=CC=CC(C(CC(C(C(C(CC(=O)O1)O)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)O)N(C)C)O)CC=O)C)OC4CCC(C(O4)C)N(C)C
+MOL_87e1e36e06f1,Target_lig_998,Targapremir-377,CCCN(C(=O)CN(C(=O)CN(C(=O)CN(C(=O)CCCOc1cc(cc(c1)c1[nH]c2c(n1)cc(cc2)N)c1[nH]c2c(n1)ccc(c2)N)CCC)CCC)CCC)CC(=O)N(CC(=O)N)CCCn1cnc(c1)CN1CCN(CC1)c1nc(CC)nc(c1)Nc1nccc(c1)Nc1ccc2c(n1)cccc2
+MOL_2cb5c873672f,Target_lig_996,Compound C1-COOEt,CCOC(=O)CCCOC1=CC(=CC(=C1)C2=NC3=C(N2)C=C(C=C3)N)C4=NC5=C(N4)C=C(C=C5)N
+MOL_b2b3dd47cfe9,Target_lig_614,SL3 RNA_ligand11,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3NC4=CC=C(C=C4)S(=O)(=O)N)S(=O)(=O)O)N
+MOL_288a0e111460,Target_lig_87,dimethylamino_methylquinolinyl_pyridinyl_acetamide,CC1=CC(=NC2=C1C=CC(=C2)NC(=O)CC3=CC=NC=C3)N(C)C
+MOL_14e9553ad642,Target_lig_1127,Rbt489,NCCCOc1ccc(cc1CNCCCCN(C)C)c1cc2c(s1)cccc2
+MOL_74b1ce001c8c,Target_lig_326,LINEZOLID_DERIVATIVE_1,CC(=O)NC[C@H]1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCN(CC3)C(=O)CO)F
+MOL_d5082ae4976a,Target_lig_574,Ruthenium_der,C1=C(N(C(=C=1)c1c(cc(cc1C)C)C)[Ru](=Cc1ccccc1)(Cl)(Cl)P(C1CCCCC1)(C1CCCCC1)C1CCCCC1)c1c(cc(cc1C)C)C
+MOL_6fc200a701d5,Target_lig_760,Neomycin_nucleobase_3j,NCC1OC(OC2C(Cn3nnc(c3)CCC(=O)NCC(=O)Nc3nc4c([nH]3)cccc4)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_c882f5199a37,Target_lig_752,Neomycin_nucleobase_3b,NCC1OC(OC2C(Cn3nnc(c3)Cn3ccc(=O)[nH]c3=O)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_dcfa00e3b700,Target_lig_276,Perazidoparomomycin derivative 2,[C@@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCCCN)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_ce57e96fa8d1,Target_lig_382,Heterocyclic paromomycin derivative 4,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)OCN2C=NC=N2)O)O)N
+MOL_6939629770c9,Target_lig_481,Phenothiazine 9,[C@@H]1(C[C@H]([C@H]2[C@@H]([C@@H]1C(=O)C)O[C@H]1[C@@]2(C(=O)[C@@H](C(=O)C1)C(=O)C)C)O)O
+MOL_ca146894874b,Target_lig_439,benzimidazole_analog_rRNA_23,C1CNCCC1C2=NC3=NC=NC=C3N2
+MOL_82f005ddb6d9,Target_lig_608,SL3 RNA_ligand5,C1=CC=C2C=C(C=CC2=C1)/C=C/3\C(=O)NC(=S)N3
+MOL_4d41cfe54e3d,Target_lig_1020,DMA-001,O=C(c1nc(Cl)c(nc1N)N(C)C)NC(=[NH2+])N
+MOL_954d12091f1b,Target_lig_1201,Neamine_derivative_14,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OCn1cnc2c1cccc2)O)O
+MOL_f8a89dbf63e6,Target_lig_360,Neamine derivative_1,[C@H]1([C@H]([C@@H]([C@@H](O[C@@H]1CN)O[C@@H]1[C@@H]([C@H]([C@@H](C[C@@H]1N)NC(=O)[C@@H](CCN)O)OCCNCCN)O)N)O)O
+MOL_f972a74a1ead,Target_lig_1003,Compound 3aa,NCCCCC(C(=O)OCOC[C@H]1OC(C[C@@H]1O)C(=O)Nc1cccc(c1)c1csc(n1)NC(=O)C)N
+MOL_17256dd2c981,Target_lig_613,SL3 RNA_ligand10,C1=CC=C(C(=C1)/C=C\2/C(=O)N(C(=O)N2)/C=C/3\C(=O)C4=CC=CC=C4OC3=O)O
+MOL_cae673bd3c7a,Target_lig_309,Micrococcin,CC=C1C2=NC(=CS2)C(=O)NC(C3=NC(=CS3)C(=O)NC(C4=NC(=CS4)C5=C(C=CC(=N5)C6=NC(=CS6)C7=NC(=CS7)C(=O)NC(=CC)C(=O)NCC(C)O)C8=NC(=CS8)C(=O)NC(C(=O)N1)C(C)O)C(C)O)C(C)C
+MOL_1ef5b9c97aa5,Target_lig_759,Neomycin_nucleobase_3i,CCCCNC(=O)Nc1cccc(c1)c1ncn(c1)Cc1nnn(c1)CC1OC(C(C1OC1OC(CN)C(C(C1N)O)O)O)OC1C(O)C(N)CC(C1OC1OC(CN)C(C(C1N)O)O)N
+MOL_7471175492e7,Target_lig_656,S-Amino acid conjugate 13b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCC[NH3+])NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1
+MOL_286dd2c4c120,Target_lig_68,FMN,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O
+MOL_ea4be70fcca1,Target_lig_1131,Rbt552,NCCCOc1ccc(cc1CNCCC1CCNCC1)c1ccccn1
+MOL_e769fd4e3e54,Target_lig_1135,Rbt603,N1CCN(CC1)CCCNCc1cc(ccc1OCc1cc2c(s1)cccc2)c1cc2c(s1)cccc2
+MOL_93ed2f3071eb,Target_lig_859,SMN2_compound_1,C[C@H]1CN(CCN1)C2=CC3=C(C=C2)C=C(C(=O)O3)C4=CN5C=C(N=C(C5=N4)C)C
+MOL_8c1b45b23e23,Target_lig_1115,benzimidazole_analog_rRNA_19,c1(c(cc2c(c1)[nH]c(n2)C1CCNCC1)Cl)Cl
+MOL_c3c874512496,Target_lig_253,Aminoglycoside derivative 2,[C@@H]1([C@@H]([C@@H]([C@@H](O[C@H]1CO)O[C@@H]1[C@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@H]1OC[C@@H]([C@@H]1OCCNCc1ncccc1)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_35404da6576d,Target_lig_216,chloro_piperidine_propyl_der,C1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
+MOL_6f42c23d5796,Target_lig_1122,"2,4-diaminopyrimidine",C1=CN=C(N=C1N)N
+MOL_b3edef6dca04,Target_lig_257,Aminoglycoside derivative 7,[C@H]1([C@H]([C@@H]([C@@H](O[C@H]1CO)O[C@@H]1[C@@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@@H]1OC[C@@H]([C@H]1OCCNCCNCCN)O[C@@H]1[C@@H]([C@H](C[C@H](O1)CN)O)N)N)O)O
+MOL_acfa42d18ae1,Target_lig_764,Neomycin-3c,NCC1OC(OC2C(Cn3nnc(c3)CCC(=O)Nc3cccc(c3)c3csc(n3)NC(=O)c3ccc(cc3)F)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_38016fd76a85,Target_lig_584,acridine_new_derv,c1c(cc2c(c1)c(c1c(n2)cc(c(c1)OC)C)Nc1ccc(c(c1)CN1CCN(CC1)C)O)Cl
+MOL_1ba9a173f8af,Target_lig_237,Valnemulin,CC1CCC23CCC(=O)C2C1(C(CC(C(C3C)O)(C)C=C)OC(=O)CSC(C)(C)CNC(=O)C(C(C)C)N)C
+MOL_e9d04fd3b473,Target_lig_109,"3-(3-(4-methylpiperazin-1-yl)propyl)-3H-pyrimido[5,4-b]indol-4(5H)-one",CN1CCN(CC1)CCCN2C=NC3=C(C2=O)NC4=CC=CC=C43
+MOL_addde74f2ab3,Target_lig_1134,Rbt567,NCCCOc1ccc(cc1CNCCC1CCNCC1)c1ccccc1
+MOL_f724c2633ce4,Target_lig_80,Neamine,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)O)O)N
+MOL_8d93c4028d04,Target_lig_1241,"Compound (4R,5S)-2",O=C(Nc1ccc(cc1)C(=O)C)OC[C@H]1OC(=O)NC1CN1CCN(CC1)c1ccccc1
+MOL_1892749ce38e,Target_lig_780,Compound 1a,CCCN(C(=O)CN(C(=O)CNCc1nnn(c1)N=[N+]=N)CCC)CC(=O)N(CC(=O)N(CC(=O)N(CC(=O)N)CCC)CCC)CCC
+MOL_2b9c7caceb0d,Target_lig_690,Benzimidazole 11 / Isis-11,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(CC[NH+](C)C)CC3=C12
+MOL_5040c5d68a72,Target_lig_546,DOS_der_1,[C@H]1([C@H](OCCCCCCCCCCCCO[C@H]2[C@@H](C[C@H](N)[C@@H](O)[C@H]2O)N)[C@H](O)[C@H]([C@@H](C1)N)O)N
+MOL_f273b440c145,Target_lig_585,racemic_oxazolidinones,C1(=O)O[C@H]([C@H](N1)CN1CCN(CC1)c1ccccc1)COC(=O)Cc1ccccc1
+MOL_c38ad2fdde1d,Target_lig_286,Perazidoparomomycin derivative 13,[C@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCCc1ccc(cc1)C1CCCCC1)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_1265f08baeb0,Target_lig_1226,ethylquinoline_carboxamide derivative 4,NCCCNC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1C(=O)[C@H](NC(=O)c1cc2cc3OCOc3cc2nc1CC)CSSC[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)NCCCN)Cc1ccccc1)NC(=O)c1cc2cc3OCOc3cc2nc1CC
+MOL_9f603e7e8598,Target_lig_421,benzimidazole_analog_rRNA_4,C1CCC(CC1)C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-]
+MOL_e9e9b9fd3a26,Target_lig_103,"1,3-bis(piperidin-1-ylmethyl)imidazolidine-2-thione",C1CCN(CC1)CN2CCN(C2=S)CN3CCCCC3
+MOL_9935ca6b054d,Target_lig_118,"8-bromo-3-(2-(piperazin-1-yl)ethyl)-3H-pyrimido[5,4-b]indol-4(5H)-one",C1CN(CCN1)CCN2C=NC3=C(C2=O)NC4=C3C=C(C=C4)Br
+MOL_9cc66349fcbe,Target_lig_1058,NRAS SAR 8,Clc1ccc(cc1)c1nnc(o1)c1nc2ccccc2c(n1)c1ccc(cc1)N(C)C
+MOL_8e5d0d95774b,Target_lig_111,"3-methyl-7-(2-(piperidin-1-yl)ethyl)-1H-purine-2,6(3H,7H)-dione",CN1C2=C(C(=O)NC1=O)N(C=N2)CCN3CCCCC3
+MOL_717d3e0430f5,Target_lig_861,SMN2_compound_3,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2)c1ccccc1Cl
+MOL_411d8b60d1ef,Target_lig_208,hydroxymethyl_piperidinyl_butyl,c1c(ccc2Sc3ccccc3N(c12)CCCCN1CCC[C@H](C1)CO)C(=O)C
+MOL_7c7a7d387d71,Target_lig_728,Aniline_analog_4,COC1=C(C=C(C=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O)OC
+MOL_5bcb03f1c059,Target_lig_1204,Neamine_derivative_19,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OSc1cncnc1)O)O
+MOL_e10130997e5c,Target_lig_765,Neomycin-3d,NCC1OC(OC2C(Cn3nnc(c3)CCC(=O)Nc3cccc(c3)c3csc(n3)NC(=O)c3ccc(cc3)N)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_984038fc42ea,Target_lig_1257,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1
+MOL_1620ea31f6e5,Target_lig_857,DM1_compound5,CN(CCCNc1nc(NCCCCCCNC(=O)CC2=CCC(=N2)NC(=O)CC2=CCC(=N2)NC(=O)CCCCCCNc2nc(N)nc(n2)N)nc(n1)N)C
+MOL_f826dd8811e8,Target_lig_82,"5,6-dimethyl-1H-1,3-benzodiazole",CC1=CC2=C(C=C1C)N=CN2
+MOL_80b7147571c1,Target_lig_223,Azithromycin,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O
+MOL_28065cf0db5d,Target_lig_609,SL3 RNA_ligand6,C1=CC=C(C=C1)C[N+]2=CC=C(C=C2)C(=O)N/N=C\C3=CC=C(C=C3)Br
+MOL_9666dc4f0fa5,Target_lig_65,ATP,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N
+MOL_c5a03613c6c5,Target_lig_554,3-deoxy-D-Adenosine,C1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C(N=CN=C32)N)CO
+MOL_0b17ad5b755c,Target_lig_156,xanthine,CN1C(=O)C2=C(NC1=O)N=CN2
+MOL_a2c2790e2d7a,Target_lig_1024,SMC1,OC(COP(=O)(OC1C(O)C(OC1n1cnc2c1ncnc2N)COP(=O)(OC1C(O)C(OC1n1cnc2c1ncnc2N)COP(=O)(OC1C(O)C(OC1n1cnc2c1ncnc2N)COP(=O)(OC1C(O)C(OC1n1cnc2c1ncnc2N)COP(=O)(O)O)O)O)O)O)COCCCNC(=O)CCCOc1cccc(c1)c1nc2c([nH]1)ccc(c2)c1nc2c([nH]1)cc(cc2)N1CCN(CC1)C
+MOL_444153c0b9f3,Target_lig_396,Azepane aminoglycoside mimic 3,O1[C@H](O[C@@H]2C[C@H](NCC[C@H]2N)CO)[C@H]([C@@H]([C@H]([C@@H]1CN)O)O)N
+MOL_b9fa4c0fee5e,Target_lig_1154,SAC,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CSCC(C(=O)O)N)O)O)N
+MOL_1dda5ccdf6d7,Target_lig_1255,PC1,NC1=NC(=O)C(N)=C(N)N1
+MOL_acc3f5fdd50e,Target_lig_725,Aniline_analog_1,CC1=CC=CC=C1NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O
+MOL_7b764d3ddb85,Target_lig_1133,Rbt556,NCCCOc1ccc(cc1CNCCC1CCNCC1)c1ccc2c(n1)cccc2
+MOL_74d0b20d49d1,Target_lig_1054,NRAS SAR 2,Fc1ccc(cc1)c1nnc(o1)c1nc(NCCc2ccco2)c2c(n1)cccc2
+MOL_6a9de1add8e0,Target_lig_668,Harmane,CC1=NC=CC2=C1NC3=CC=CC=C23
+MOL_40f6d0b985de,Target_lig_1232,NSC119236,CCOC(=O)C1=C2C=CC=CN2C3=C1C(=O)C4=CC=CC=C4C3=O
+MOL_0f35c273adfc,Target_lig_278,Perazidoparomomycin derivative 4,[C@@H]1([C@H]([C@H]([C@H](O[C@H]1CNNC(=O)OC(C)(C)C)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_3e25ea942eea,Target_lig_356,Bifunctional_aminoglycoside_derivative_4,[C@@H]1([C@H]([C@H]([C@@H]([C@@H](C1)N)OC[C@@H](CN(CCCCCCN(C)C[C@@H](CO[C@@H]1[C@@H](C[C@H]([C@@H]([C@H]1O)O)N)N)O)C)O)O)O)N
+MOL_025cb6703474,Target_lig_1002,Compound 3db,CC(=O)Nc1scc(n1)c1cccc(c1)NC(=O)[C@H]1C[C@@H]([C@H](O1)COCOC(=O)C(CCCN=C(N)N)N)OCOC(=O)C(CCCN=C(N)N)N
+MOL_ebe621f6f513,Target_lig_583,NSC61809,C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4)C
+MOL_08113ac12150,Target_lig_1121,"2,4,5,6-tetraaminopyrimidine",C1(=C(N=C(N=C1N)N)N)N
+MOL_1cc02cb4c39e,Target_lig_521,N-propylbutanamide derivative,CCCNC(=O)CCCOC1=CC=CC(=C1)C2=NC3=C(N2)C=C(C=C3)C4=NC5=C(N4)C=C(C=C5)N6CCN(CC6)C
+MOL_5a28881cde30,Target_lig_754,Neomycin_nucleobase_3d,NCC1OC(OC2C(Cn3nnc(c3)Cn3cnc4c3[nH]c(N)nc4=O)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_fcb74dcdc6cf,Target_lig_105,"2-((2,2,6,6-tetramethylpiperidin-4-ylamino)methyl)phenol",CC1(CC(CC(N1)(C)C)NCC2=CC=CC=C2O)C
+MOL_8f31a40722ea,Target_lig_78,Kasugamycin,CC1C(CC(C(O1)OC2C(C(C(C(C2O)O)O)O)O)N)N=C(C(=O)O)N
+MOL_33c9d681ac2d,Target_lig_462,benzimidazole_analog_rRNA_46,c1(c(cc2c(c1)nc(n2CC(=O)Oc1ccc(cc1)C)C1CCNCC1)Cl)Cl
+MOL_18dcc70c7cf4,Target_lig_1074,Hit S8,COC1=C(C=C(C=C1)CN2CCC(CC2)N3CCN(CC3)CCO)OCC4=CC=CC=C4
+MOL_8459adca34c0,Target_lig_157,"1,3-dimethyluric acid",CN1C2=C(C(=O)N(C1=O)C)NC(=O)N2
+MOL_b84a93b8f34c,Target_lig_258,Aminoglycoside derivative 8,[C@@H]1([C@@H]([C@H]([C@@H](O[C@@H]1CO)O[C@@H]1[C@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@@H]1OC[C@H]([C@@H]1OCCNCCN1CCNCC1)O[C@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_7370607b0657,Target_lig_1221,Cinchonidine,C=CC1CN2CCC1CC2C(C3=CC=NC4=CC=CC=C34)O
+MOL_056176b249b6,Target_lig_1165,cmt1,NC(=O)C1=C(O)C2(C(CC1=O)CC1C(=C(O)c3c(C1(C)O)cccc3O)C2=O)O
+MOL_82e68f35b194,Target_lig_773,Neamine-6b,NCC1OC(OC2C(N)CC(C(C2O)O)N)C(C(C1OCn1nnc(c1)CC(=O)Nc1cccc(c1)c1csc(n1)NC(=O)C)O)N
+MOL_1ba7064647e8,Target_lig_231,Tigecycline_mol,CC(C)(C)NCC(=O)NC1=CC(=C2CC3CC4C(C(=O)C(=C(C4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C
+MOL_4958fbf8cc4c,Target_lig_1278,SMB1,N=[N+]=NCCCNC(=O)CCCOc1cccc(c1)c1nc2c([nH]1)ccc(c2)c1nc2c([nH]1)cc(cc2)N1CCN(CC1)C
+MOL_2c7b2a6bd00e,Target_lig_432,benzimidazole_analog_rRNA_15,C1CNCCC1C2=NC3=C(N2)C=C(C=C3)Br
+MOL_575b5352b330,Target_lig_733,Aniline_analog_9,CCOc1ccc(cc1Cl)NCC(Cn1c2ccc(cc2c2c1ccc(c2)Br)Br)O
+MOL_5ad3077e0f36,Target_lig_730,Aniline_analog_6,CCCOc1ccc(cc1)NCC(Cn1c2ccc(cc2c2c1ccc(c2)Br)Br)O
+MOL_fe753b14bb8e,Target_lig_1224,ethylquinoline_carboxamide derivative 2,NCCCNC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1C(=O)[C@H](NC(=O)c1cc2ccccc2nc1C)CSSC[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)NCCCN)Cc1ccccc1)NC(=O)c1cc2ccccc2nc1C
+MOL_33b177c893d5,Target_lig_233,Eryrthromycin,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+MOL_da607d4a4e24,Target_lig_243,CMC6_diphenylfuran,CC(C)N=C(C1=CC=CC(=C1)C2=CC=C(O2)C3=CC(=CC=C3)C(=NC(C)C)N)N
+MOL_a8cad36325dd,Target_lig_91,"N,N-dimethylquinolin-2-amine",CN(C)C1=NC2=CC=CC=C2C=C1
+MOL_87677612b338,Target_lig_90,"N,N,4-trimethylquinolin-2-amine",CC1=C(C2=C(C=C1)C(=CC(=N2)N)C)C
+MOL_b4b5199fe2e8,Target_lig_707,Compound 1 (2017),CCN(CC)CCOC1=CC=C(C=C1)NC2=NC(=NC3=CC=CC=C32)C4=CC=CC=C4NC(=O)CCN5CCN(CC5)C
+MOL_1b0892560428,Target_lig_1210,Neamine_derivative_30,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OCn1nccc1C(F)(F)F)O)O
+MOL_cffef22018f5,Target_lig_444,benzimidazole_analog_rRNA_28,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=C(C(=C(C(=C4F)F)C(F)(F)F)F)F)Cl)Cl
+MOL_c5907b8c2161,Target_lig_72,cyanocobalamine,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]
+MOL_eea118297bd5,Target_lig_705,DPQ10,COC1=CC2=[NH+]C(=NC(N)=C2C=C1OC)N1CCN(CC1)C(=O)C1CC1
+MOL_732dddba2d02,Target_lig_1271,Netilmicin,CCNC1CC(C(C(C1OC2C(C(C(CO2)(C)O)NC)O)O)OC3C(CC=C(O3)CN)N)N
+MOL_e51032a313bf,Target_lig_605,SL3 RNA_ligand1,CC1=CC=CN2C1=NC3=C(C2=O)C=C(C(=N)N3CCOCCO)C(=O)N[C@@H](C)C4=CC=CC=C4
+MOL_9bccbdbcaed9,Target_lig_727,Aniline_analog_3,COC1=CC(=C(C=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O)OC
+MOL_45e5dea42c1b,Target_lig_211,3_phenothiazine_analog_2,c1c(ccc2Sc3ccccc3N(c12)CCCN[C@H](CCSC)O)C(=O)C
+MOL_0456b65ca5e3,Target_lig_450,benzimidazole_analog_rRNA_34,CC(C)(C)C1=CC=C(C=C1)CN2C3=CC(=C(C=C3N=C2C4CCNCC4)Cl)Cl
+MOL_5854fa942a24,Target_lig_428,benzimidazole_analog_rRNA_11,CC(=O)N1CCC(CC1)C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-]
+MOL_fd6c3bc00267,Target_lig_625,Triptycene 1,[NH3+]CCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCC[NH3+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=C2
+MOL_71b9b158ccdc,Target_lig_699,S-Amino acid conjugate 3b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CC2=CNC=N2)=CC=C1
+MOL_0f31f76cdeb4,Target_lig_769,Neomycin-4d,NCC1OC(OC2C(Cn3nnc(c3)c3cccc(c3)C(=O)Nc3cccc(c3)c3csc(n3)NC(=O)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_a3b5e16f0f82,Target_lig_229,Streptogramin_B,CC[C@@H]1C(=O)N2CCC[C@H]2C(=O)N([C@H](C(=O)N3CCC(=O)C[C@H]3C(=O)N[C@H](C(=O)O[C@@H]([C@@H](C(=O)N1)NC(=O)C4=C(C=CC=N4)O)C)C5=CC=CC=C5)CC6=CC=C(C=C6)N(C)C)C
+MOL_6ee798420f39,Target_lig_1016,AMND-C2-NH2,NCCNc1ccc2c(n1)nccc2
+MOL_9519ada715fb,Target_lig_214,2-chloro-10-methylpyrrolidin_phenothiazine_der,c1cccc2Sc3ccc(cc3N(c12)CCN1CCCC1)Cl
+MOL_ed44492be56e,Target_lig_663,Ribocil-B,CNC1=NC=C(C=N1)CN2CCC[C@@H](C2)C3=NC(=CC(=O)N3)C4=CC=CS4
+MOL_3ad909eedab0,Target_lig_1060,NRAS SAR 12,CC1=CC(=CC=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCN5CCOCC5
+MOL_e1dd4ba1f366,Target_lig_226,Benzimidazole3ibis,CN(C)CCCN1C2=C(C=CC(=C2)OCCCN(C)C)N=C1N
+MOL_739c38202c04,Target_lig_195,hydroxymethyl_piperidinyl_propyl_phenothiazinyl_ethanone,c1c(ccc2Sc3ccccc3N(c12)CCCN1CCC[C@H](C1)CO)C(=O)C
+MOL_c3c33ecd45ec,Target_lig_742,Carbazole_analog_20,CCOc1ccc(cc1)NCC(Cn1c2cc(Br)ccc2c2c1cc(Br)cc2)O
+MOL_ea79961d00f8,Target_lig_366,Neamine derivative_7,[C@H]1([C@H]([C@@H]([C@@H](O[C@@H]1CN)O[C@H]1[C@H]([C@H]([C@@H](C[C@H]1N)NC(=O)Cc1cccc(c1)N)OCCNCCCCN)O)N)O)O
+MOL_db409ad7a4c4,Target_lig_572,dicarba_analog_2,N([C@H](C(=O)N1[C@H](CCC1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCCN)CCCC[C@H](NC(=O)c1c(nc2c(c1)cccc2)CC)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)C(=O)c1c2c(nc(c1)CC)cccc2
+MOL_80ed5e7caaf2,Target_lig_745,Carbazole_analog_23,CCOC1=CC=C(C=C1)NCC(CN2C3=C(C=C(C=C3)Cl)C4=C2C=CC(=C4)Cl)O
+MOL_2fbd1cb45039,Target_lig_1125,Rbt429,NCCCOc1ccc(cc1CNCCCCNC(=N)N)c1cc2c(o1)cccc2
+MOL_975b3eeff2ee,Target_lig_433,benzimidazole_analog_rRNA_16,C1CNCCC1C2=NC3=C(N2)C=C(C=C3)Cl
+MOL_4d7eee8a4ca2,Target_lig_455,benzimidazole_analog_rRNA_39,COC(=O)CN1C2=CC(=C(C=C2N=C1C3CCNCC3)Cl)Cl
+MOL_346d7a0a377b,Target_lig_477,Phenothiazine 4,C1=CC=C2C(=C1)C(=O)OC2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O
+MOL_4763dd77f671,Target_lig_121,N-(2-morpholinoethyl)-1-(naphthalen-1-ylmethyl)piperidine-4-carboxamide,C1CN(CCC1C(=O)NCCN2CCOCC2)CC3=CC=CC4=CC=CC=C43
+MOL_40b1efc21521,Target_lig_755,Neomycin_nucleobase_3e,NCC1OC(OC2C(Cn3nnc(c3)CCCC(=O)Nc3cccc(c3)c3ncc(s3)NC(=O)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_e7ae568e3ab0,Target_lig_335,SB-571519,[C@@H]1(C[C@]([C@@H]([C@@H]([C@]23[C@@H]([C@]1([C@@H](CC3)C)C)C(=O)[C@H](C2)O)C)O)(C)C=C)OC(=O)NC(=O)c1ccc(nn1)N
+MOL_e6a64e0b21eb,Target_lig_256,Aminoglycoside derivative 6,[C@@H]1([C@@H]([C@H]([C@@H](O[C@@H]1CO)O[C@@H]1[C@H]([C@@H]([C@H](C[C@@H]1N)N)O)O[C@H]1OC[C@H]([C@@H]1OCCN)O[C@H]1[C@@H]([C@H](C[C@H](O1)CN)O)N)N)O)O
+MOL_9839e434508f,Target_lig_1063,NRAS SAR 17,Cc1ccc(cc1)c1nnc(o1)c1nc(NCc2cccc3c2OCO3)c2c(n1)cccc2
+MOL_1e739225b5ff,Target_lig_1240,"Compound (4S,5R)-1",O=C(Cc1ccccc1)OCC1OC(=O)N[C@H]1CN1CCN(CC1)c1ccccc1
+MOL_e7a1cc21499e,Target_lig_124,benzodiazolyl_methyl_sulfanylmethanimidamide,N=C(N)SCc1nc2C=C=C=Cc2n1CCC1=C=C=C=C=C1
+MOL_e2b8967ce4fe,Target_lig_336,Proflavin,C1=CC(=CC2=NC3=C(C=CC(=C3)N)C=C21)N
+MOL_8f4cded8630e,Target_lig_561,biotin dimer,N=C1N[C@@H]2CS[C@@H]([C@H]2N1)CCCCC(=O)NCCOCCOCCNC(=O)CCCC[C@H]1[C@@H]2NC(=N)N[C@H]2CS1
+MOL_d51fa3a3c735,Target_lig_420,benzimidazole_analog_rRNA_1,C1C[C@@H](C[C@@H]1C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-])N
+MOL_b7ecdd730432,Target_lig_737,Aniline_analog_13,CCOC1=CC=C(C=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O
+MOL_2a4b637d8532,Target_lig_1023,SMB3,CCCN(C(=O)CN(C(=O)NCc1nnn(c1)CCCCC(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C)CCC)CC(=O)N(CC(=O)N(Cc1nnn(c1)CCCCC(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C)CC(=O)N)CCC
+MOL_33e4e8cd20d0,Target_lig_763,Neomycin-3b,NCC1OC(OC2C(Cn3nnc(c3)CCC(=O)Nc3cccc(c3)c3csc(n3)NC(=O)c3ccc(cc3)Cl)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_d2e2e4f550e3,Target_lig_162,Hypoxanthine,C1=NC2=C(N1)C(=O)N=CN2
+MOL_7ee64aa909e0,Target_lig_1239,"Compound (4R,5S)-1",O=C(Cc1ccccc1)OC[C@H]1OC(=O)NC1CN1CCN(CC1)c1ccccc1
+MOL_4d912a4fe25c,Target_lig_758,Neomycin_nucleobase_3h,NCC1OC(OC2C(Cn3nnc(c3)Cn3cnc(c3)c3cccc(c3)NC(=O)c3ccccc3)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_6d08971e3056,Target_lig_558,D-Cytidine,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
+MOL_411f98b68f65,Target_lig_135,"4-hydroxy-2-oxo-N-(3-(piperidin-1-yl)propyl)-1,2,3,4,5,6,7,8-octahydroquinoline-3-carboxamide",OC1C(C(NC=2CCCCC12)=O)C(=O)NCCCN1CCCCC1
+MOL_606b576d67f2,Target_lig_273,Aminoglycoside derivative 25,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CO)O[C@@H]1[C@H]([C@H]([C@@H](C[C@H]1N)N)O)O[C@@H]1OC[C@@H]([C@@H]1OCCNCCc1ccc(cc1)c1ccccc1)O[C@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_6ff295383b51,Target_lig_440,benzimidazole_analog_rRNA_24,C1CNCCC1C2=NC3=CC=CC=C3S2
+MOL_f56ab2a73af2,Target_lig_361,Neamine derivative_2,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@H](CCN)O)OCCNCCCN)O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)N)N
+MOL_92539ee6eb38,Target_lig_706,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N2CCCN(CC2)CC3=CSC(=N3)C
+MOL_fb273c5f20fa,Target_lig_304,Ethyl paromomycin derivative 2,[C@H]1([C@@H]([C@H]([C@H](C[C@@H]1CO)O[C@H]1[C@@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@H]1O)O[C@H]1[C@@H]([C@H]([C@@H]([C@@H](O1)CN)O)O)N)COCN(C)C)N)O)O
+MOL_515a6bb609c5,Target_lig_435,benzimidazole_analog_rRNA_18,CC1=CC2=C(C=C1Cl)N=C(N2)C3CCNCC3
+MOL_e3ba273f3d97,Target_lig_695,Cyproheptadine,C[NH+]1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1
+MOL_cd3ce5dc8ba9,Target_lig_1026,SMC2-2,CCCN(C(=O)N(Cc1nnn(c1)CCCCC(=O)CCCOc1c(cc(cc1C(C)(C)C)c1nc2c([nH]1)ccc(c2)N1CCN(CC1)C)C(C)(C)C)CC(=O)NCCCCNCCCNC(=O)c1csc(n1)c1csc(n1)CCNC(=O)C(C(O)C)NC(=O)C(C(C(NC(=O)C(C(c1cnc[nH]1)OC1OC(CO)C(C(C1OC1OC(CO)C(C(C1O)OC(=O)N)O)O)O)NC(=O)c1nc(nc(c1C)N)C(CC(=O)N)NCC(C(=O)N)N)C)O)C)CC(=O)N(C(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)N1CCN(CC1)C)CCC
+MOL_6bfabc6a2fdb,Target_lig_674,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2
+MOL_d1afa1cb69ce,Target_lig_155,caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+MOL_7355338372ff,Target_lig_1039,B8,C1N(C2=CC=CC=C2N(C1)C(=O)/C=C/C3=CC=CC=C3)C(=O)/C=C/C4=CC=CC=C4
+MOL_9ef2417415f0,Target_lig_355,Bifunctional_aminoglycoside_derivative_3,[C@@H]1([C@H]([C@H]([C@@H](O[C@@H]1CN)OC[C@@H](CN(CCCCCCN(C)C[C@H](CO[C@@H]1O[C@H]([C@@H]([C@@H]([C@H]1N)O)O)CN)O)C)O)N)O)O
+MOL_185dfe5ae60c,Target_lig_606,SL3 RNA_ligand3,C1=CC=C2C=C(C=CC2=C1)/C=C/3\C(=O)N=C(S3)N
+MOL_626a5450a736,Target_lig_266,Aminoglycoside derivative 17,[C@H]1([C@H]([C@H]([C@@H](O[C@H]1CO)O[C@H]1[C@@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@@H]1OC[C@H]([C@H]1OCCNc1cccc(c1)O)O[C@@H]1[C@@H]([C@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_b3a664429d5a,Target_lig_635,2H-5,CCCN(CC(=O)N(CCC)CC(=O)N(CCC)CC(=O)N(CCC)CC(=O)N(CCC)CC(=O)N(CC(N)=O)CC1=CN(CCCNC(=O)CCCOC2=CC=CC(=C2)C2=NC3=CC(=CC=C3N2)C2=NC3=CC(=CC=C3N2)N2CC[NH+](C)CC2)N=N1)C(=O)CNCC1=CN(CCCNC(=O)CCCOC2=CC=CC(=C2)C2=NC3=CC(=CC=C3N2)C2=NC3=CC(=CC=C3N2)N2CC[NH+](C)CC2)N=N1
+MOL_02b414cdca8d,Target_lig_1208,Neamine_derivative_28,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OCn1nc2c(n1)cccn2)O)O
+MOL_ccbc988208d6,Target_lig_268,Aminoglycoside derivative 19,[C@H]1([C@H]([C@@H]([C@H](O[C@@H]1CO)O[C@@H]1[C@H]([C@H]([C@@H](C[C@H]1N)N)O)O[C@H]1OC[C@@H]([C@H]1OCCNCc1ccnc(c1)N)O[C@H]1[C@H]([C@@H](C[C@H](O1)CN)O)N)N)O)O
+MOL_7d1bb69bddd7,Target_lig_515,hexanamide derivative_2,CCc1nc2c(cccc2)cc1C(=O)N1CCC[C@@H]1C(=O)N[C@H](CSSC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)NCCCN)NC(=O)[C@@H]1CCCN1C(=O)c1cc2c(OCO2)cc1)C(=O)N[C@H](CCCCN)C(=O)NCCCN
+MOL_7448cbbca165,Target_lig_860,SMN2_compound_2,O=C(OC(C)(C)C)NCCN1CCN(C[C@@H]1C)c1ccc2c(c1)oc(=O)c(c2)c1cn2c(n1)c(C)nc(c2)C
+MOL_2f7b88de43d5,Target_lig_106,2-(hydroxymethyl)-5-(5-phenyl-4-(quinolin-3-yl)-1H-imidazol-2-yl)phenol,OCC1=C=C=C(c2nc(C3=C=NC4=C(C=C=C=C4)C3)c(C3=C=C=C=C=C3)[nH]2)C=C1O
+MOL_e2b82c23538d,Target_lig_667,Dequalinium,CC1=[N+](C2=CC=CC=C2C(=C1)N)CCCCCCCCCC[N+]3=C(C=C(C4=CC=CC=C43)N)C
+MOL_127ab54db1da,Target_lig_254,Aminoglycoside derivative 3,[C@H]1([C@@H]([C@H]([C@@H](O[C@H]1CO)O[C@H]1[C@@H]([C@@H]([C@H](C[C@@H]1N)N)O)O[C@@H]1OC[C@H]([C@@H]1OCCNCCCN)O[C@H]1[C@@H]([C@H](C[C@H](O1)CN)O)N)N)O)O
+MOL_f8a506d7ae0c,Target_lig_201,"3-(4-methoxy-10H-phenothiazin-10-yl)-N,N-dimethylpropan-1-amine",COC1=CC=CC=2N(C3=CC=CC=C3SC12)CCCN(C)C
+MOL_6377ca0d901c,Target_lig_659,DCC 4 (2017),CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N[C@@H](CC1=CN(CC[C@H](N(C)C(=O)C2=C(CC)N=C3C=C4C=CC=CC4=CC3=C2)C(=O)N2CCC[C@H]2C(=O)N(C)[C@@H](CC2=CC=CC=C2)C(=O)NCCC[NH3+])N=N1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+]
+MOL_77be8ac2254d,Target_lig_741,Carbazole_analog_19,OC(Cn1c2ccc(cc2c2c1cccc2)Br)CNc1ccc(cc1)N1CCOCC1
+MOL_f5093420e77d,Target_lig_516,"triazine-2,4,6-triamine derivative",COC1=CC2=C(C3=C(C=C(C=C3)Cl)N=C2C=C1)NCCCCNC4=NC(=NC(=N4)N)N
+MOL_03ce8d83601c,Target_lig_569,disulfide_der_7,N([C@H](C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)CSSC[C@H](NC(=O)c1c(nc2c(c1)C(=O)[C@@H]1[C@@H](C2=O)C=CC=C1)CC)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN)C(=O)c1c2c(nc(c1)CC)C(=O)[C@@H]1[C@H](C2=O)C=CC=C1
+MOL_16fa0f99ec4d,Target_lig_689,Benzimidazole 10,C[NH+](C)CCCOC1=CC=C2N=C3NCC(C[NH+](C)C)CN3C2=C1
+MOL_054f3b629802,Target_lig_474,Phenothiazine 1,C1(=O)N(C(=O)c2c([C@H]1C)ncn2C[C@H](O)N(C)C)C
+MOL_89884839354f,Target_lig_522,butanamide derivative_1,C(CNC(=O)CCCOc1cccc(c1)c1nc2c([nH]1)cc(cc2)c1nc2ccc(cc2[nH]1)N1CCN(C)CC1)n1cc(CN(CC(=O)N)C(=O)CN(CCC)C(=O)CN(CCC)C(=O)CN(C(=O)CN(C(=O)CN(Cc2nnn(c2)CCNC(=O)CCCOc2cccc(c2)c2nc3c([nH]2)cc(cc3)c2nc3ccc(cc3[nH]2)N2CCN(C)CC2)C)CCC)CCC)nn1
+MOL_b9e9af928bee,Target_lig_153,Neocarzinostatin_chromophore_derivative_6,c12c(cc(cc1)OC)[C@@]1(C(=O)C=C2)C=C[C@H]2[C@H]1c1c([C@@H]2O[C@@H]2[C@H]([C@@H]([C@@H]([C@@H](O2)C)O)O)NC)cc2c(c1)cccc2
+MOL_669fb254cd45,Target_lig_560,L_Adenosine,C1=NC(=C2C(=N1)N(C=N2)[C@@H]3[C@H]([C@H]([C@@H](O3)CO)O)O)N
+MOL_03aa4fc93ec6,Target_lig_221,N_N_dimethyl_amiloride,CN(C)C1=NC(=C(N=C1Cl)C(=O)N=C(N)N)N
+MOL_853eae0d7fc6,Target_lig_774,2-DOS-6c,O=C(Cc1nnn(c1)COC1C(N)CC(C(C1O)O)N)Nc1cccc(c1)c1csc(n1)NC(=O)C
+MOL_d9859c7903b7,Target_lig_524,pentanamide derivative_2,[C@H]1([C@@H]([C@H]([C@H](O[C@@H]1CNC(=O)CCCCc1nnn(CCCN(CC(=O)N(CC(=O)N(CC(=O)N(CC(=O)N)CCCn2nnc(c2)CCCCC(=O)NC[C@H]2[C@@H]([C@H]([C@@H]([C@@H](O2)O[C@@H]2[C@@H]([C@@H]([C@H](C[C@H]2N)N)O[C@@H]2O[C@@H]([C@H]([C@H]([C@H]2O)N)O)CO)O)O)O)O)CCC)CCC)C)c1)O[C@@H]1[C@H]([C@@H]([C@H](C[C@@H]1N)N)O[C@H]1O[C@H]([C@@H]([C@@H]([C@@H]1O)N)O)CO)O)O)O)O
+MOL_de8493086d19,Target_lig_1000,Compound 3bb,NCCCCC(C(=O)OCO[C@H]1C[C@@H](O[C@@H]1COCOC(=O)C(CCCCN)N)C(=O)Nc1cccc(c1)c1csc(n1)NC(=O)C)N
+MOL_6327fc0d0e2a,Target_lig_388,Acyclic DOS mimic 2_naphthyl substituent,C(O[C@@H](CO[C@@H]1O[C@H]([C@@H](O)[C@H](O)[C@H]1N)CN)CN)c1cc2ccccc2cc1
+MOL_d2a88b088003,Target_lig_495,guanidinoneomycin_B,[C@@H]1([C@H]([C@H]([C@H](O[C@@H]1CNC(=N)N)O[C@@H]1[C@@H]([C@@H]([C@H](C[C@H]1NC(=N)N)NC(=N)N)O)O[C@H]1[C@@H]([C@H]([C@@H](O1)CO)O[C@H]1O[C@H]([C@H]([C@@H]([C@@H]1NC(=N)N)O)O)CNC(=N)N)O)NC(=N)N)O)O
+MOL_c6cc5752ad7d,Target_lig_353,Bifunctional_aminoglycoside_derivative_1,[C@H]1([C@@H]([C@@H]([C@@H](O[C@@H]1CN)O[C@@H]1[C@@H]([C@@H]([C@@H](C[C@@H]1N)N)O)OCC(=O)NCCCCCNC(=O)CO[C@@H]1[C@@H]([C@H](C[C@@H]([C@H]1O)N)N)O[C@H]1[C@H]([C@H]([C@H]([C@@H](O1)CN)O)O)N)N)O)O
+MOL_37fa7aa4bc80,Target_lig_283,Perazidoparomomycin derivative 10,[C@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCCc1ccccc1)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_56be79c3d4b8,Target_lig_1072,Hit S6,CC1=CC(=NC(=N1)N)N2CCN(CC2)C(=O)CCC3=NN4CCNCC4=C3
+MOL_fe01bfff049e,Target_lig_661,DCC 7 (2017),CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N(C)[C@@H](CCN1C=C(C[C@H](N(C)C(=O)C2=C(CC)N=C3C=C4C=CC=CC4=CC3=C2)C(=O)N2CCC[C@H]2C(=O)N(C)[C@@H](CC2=CC=CC=C2)C(=O)NCCC[NH3+])N=N1)C(=O)N1CCC[C@H]1C(=O)N(C)[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+]
+MOL_d1fb09870177,Target_lig_1069,Hit S3,C1CN2CCC1C(C2)NCC3=C(N=CC=C3)OC4=CC(=C(C=C4)F)F
+MOL_15b28e15e685,Target_lig_509,"DL-TRANS-2,6-DIAMINO-4-HEXENOIC ACID",C(/C=C/C[NH3+])C(C(=O)[O-])[NH3+]
+MOL_8f8fd3770f01,Target_lig_298,Perazidoparomomycin derivative 27,[C@@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCC[C@H]1NCCCC1)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_23dcc7d6c968,Target_lig_1061,NRAS SAR 14,CC1=CC(=CC=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCC5=C(ON=C5C)C
+MOL_943fa2315704,Target_lig_205,"N,N-dimethyl-3-(3-methyl-10H-phenothiazin-10-yl)propan-1-amine",CN(CCCN1C2=CC=CC=C2SC=2C=C(C=CC12)C)C
+MOL_ec7c433f4e3d,Target_lig_648,Acridine 9,NC1=NC(NCCCCNC2=C3C=CC=C(C(=O)NCCC[NH2+]CCC[NH2+]CCCNC(=O)C4=C5[NH+]=C6C=CC=CC6=C(NCCCCNC6=NC(N)=[NH+]C(N)=N6)C5=CC=C4)C3=[NH+]C3=CC=CC=C23)=[NH+]C(N)=N1
+MOL_ccd80b5b7ca1,Target_lig_1164,cltc,CN(C1C(=O)C(=C(C2(C1CC1C(=C(O)c3c(C1(C)O)c(Cl)ccc3O)C2=O)O)O)C(=O)N)C
+MOL_5d42051277cc,Target_lig_868,SMN2_compound_10,C1CN(CCN1)C2=CC3=C(C=C2)C=C(C(=O)O3)C4=CN5C=CC=CC5=N4
+MOL_06110216a04e,Target_lig_744,Carbazole_analog_22,OC(Cn1c2cc(Br)ccc2c2c1cc(Br)cc2)CNc1ccccc1C
+MOL_282403880723,Target_lig_1123,"2,4,6-triamino-1,3,5-triazine",Nc1nc(N)nc(n1)N
+MOL_3ae78a4b1f29,Target_lig_376,Paromomycin_mol derivative 1 16S A-site RNA,C1[C@@H]([C@@H]([C@H]([C@@H]([C@@H]1N)O[C@H]1O[C@H]([C@@H]([C@H]([C@@H]1N)O)O)CO)O[C@@H]1[C@H]([C@H]([C@H](O1)CO)O[C@H]1O[C@@H]([C@@H]([C@H]([C@@H]1N)O)O)CN)OCCN)O)N
+MOL_bff12b267379,Target_lig_436,benzimidazole_analog_rRNA_20,C1CNCCC1C2=NC3=CC=CC=C3N2
+MOL_56de1002ecbe,Target_lig_262,Aminoglycoside derivative 13,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CO)O[C@@H]1[C@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@H]1OC[C@H]([C@@H]1OCCNC1CCCCC1)O[C@H]1[C@@H]([C@H](C[C@H](O1)CN)O)N)N)O)O
+MOL_1bd6d07d0ddd,Target_lig_166,2-aminopurine,C1=C2C(=NC(=N1)N)N=CN2
+MOL_64697bcf793e,Target_lig_1059,NRAS SAR 10,CC1=CC(=CC=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCC5=CN=CN5
+MOL_f2144cf0ae52,Target_lig_374,Neamine mimic_8,[C@H]1([C@@H]([C@@H]([C@H](O[C@H]1CN)O[C@@H]1[C@@H]([C@@H]([C@H](O[C@@H]1CN)OC)N)O[C@H]1[C@H]([C@H]([C@@H](O1)CO)O)O)N)O)O
+MOL_cb1f03970b8c,Target_lig_739,Carbazole_analog_17,C1=CC=C(C=C1)NCC(CN2C3=CC=CC=C3C4=CC=CC=C42)O
+MOL_8b36b09051ae,Target_lig_255,Aminoglycoside derivative 4,[C@@H]1([C@@H]([C@H]([C@H](O[C@@H]1CO)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1OC[C@@H]([C@H]1OCCNCCN)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_39df8b04012d,Target_lig_297,Perazidoparomomycin derivative 26,[C@@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCC[C@H]1CCCNC1)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_9817d83fd023,Target_lig_1071,Hit S5,C1CN(CCC1N2CCC(CC2)O)C3=NC=NC(=C3)CCN
+MOL_5ab9dfbbc0c5,Target_lig_476,Phenothiazine 3,C1=CC2=C(C=C1N=C=S)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O
+MOL_108f632b11e9,Target_lig_219,benzyl_phenothiazin_der,C1=CC=C(C=C1)CNCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
+MOL_f7c8d7bc05e5,Target_lig_1235,N6-1-Iminoethyl-L-lysine,CC(=[NH+]CCCC[C@@H](C(=O)[O-])[NH3+])N
+MOL_b141760a5a8e,Target_lig_670,Methylquinolinium 15,C[N+]1=C(C=CC2=CC=CC=C21)/C=C/C3=CC4=CC=CC=C4N3
+MOL_8e7318094284,Target_lig_129,dihydroquinoline-3-carboxamide_derivative,O=C(NCCN1CCCCC1)c1c(O)c2C=C=C=Cc2[nH]c1=O
+MOL_87c59b1dc215,Target_lig_196,methoxypiperidin_butyl_der,CO[C@H]1CCCN(C1)CCCCN1c2cc(ccc2Sc2c1cccc2)C(=O)C
+MOL_62f90de310d5,Target_lig_692,Isis-22,C[NH+](C)CC1CC2=C3N4CC(C[NH+](C)C)CNC4=[NH+]C3=CC=C2O1
+MOL_4818da0b70f5,Target_lig_85,"5,6-dimethyl-1H-1,3-benzodiazol-2-amine",CC1=CC2=C(C=C1C)N=C(N2)N
+MOL_6668fc301467,Target_lig_422,benzimidazole_analog_rRNA_5,C1=CC2=C(C=C1[N+](=O)[O-])NC(=N2)C3=CC=NC=C3
+MOL_66e100978ca1,Target_lig_191,Wm5,CN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C4=CC=CC=N4)N)C(=O)O
+MOL_c610a68c8cf2,Target_lig_274,Aminoglycoside derivative 33,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CO)O[C@H]1[C@@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@@H]1OC[C@@H]([C@H]1OCCN)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)NCCc1cc2c(cc1)cccc2)N)O)O
+MOL_b9d7c0228f78,Target_lig_313,Retapamulin,CC1CCC23CCC(=O)C2C1(C(CC(C(C3C)O)(C)C=C)OC(=O)CSC4CC5CCC(C4)N5C)C
+MOL_bf49725fe225,Target_lig_750,Regorafenib,CNC(=O)C1=NC=CC(=C1)OC2=CC(=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F)F
+MOL_93fda64524d0,Target_lig_94,methylpyridine_der_3,CC1=CC(=NC=C1)NCCCN
+MOL_b46fbc1fe478,Target_lig_369,Neamine mimic_3,[C@@H]1([C@H]([C@H]([C@H](O[C@@H]1CN)O[C@H]1[C@H]([C@@H]([C@H](O[C@H]1CO)OC)N)O)N)O)O
+MOL_446ec1522627,Target_lig_1209,Neamine_derivative_29,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OCn1ccc(n1)C(F)(F)F)O)O
+MOL_0e0da2cf4409,Target_lig_1041,B10,C1CC2=C(CC1C(=O)O)C(=NC(=N2)NCC3=CC=CC=C3)NCC4=CC=CC=C4
+MOL_857957e18c4e,Target_lig_691,Benzimidazole 12,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OCC(C[NH+](C)C)CC3=C12
+MOL_96d4914f1f0e,Target_lig_215,2-chloro-10-[2-(2-methylpyrrolidin-1-yl)ethyl]_phenothiazine_der,c1cccc2Sc3ccc(cc3N(c12)CCN1CCC[C@@H]1C)Cl
+MOL_3fe615d5d545,Target_lig_372,Neamine mimic_6,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CN)O[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1CN)OC)N)O)N)O)O
+MOL_e05cb68ce51e,Target_lig_299,Benzoyl paromomycin derivative,[C@H]1([C@H]([C@@H]([C@H](C[C@@H]1CO)O[C@@H]1[C@@H]([C@H]([C@@H](C[C@@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@H]1OCCN(CCc1ccccc1)C(=O)c1ccccc1)O[C@@H]1[C@H]([C@H]([C@@H]([C@H](O1)N)O)O)N)CO)N)O)O
+MOL_a8f74e8c72c2,Target_lig_287,Perazidoparomomycin derivative 14,[C@@H]1([C@@H]([C@H]([C@H](O[C@H]1CNCCc1c(cccc1)OC)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_3aaa42fc5e98,Target_lig_380,Heterocyclic paromomycin derivative 2,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)OCN2C=CN=C2)O)O)N
+MOL_5635ae9045e1,Target_lig_213,2-chloro-10-pyrrolidin_phenothiazine_der,c1cccc2Sc3ccc(cc3N(c12)CCCNCCCCC)Cl
+MOL_adef0d9f05fe,Target_lig_460,benzimidazole_analog_rRNA_44,c1(c(cc2c(c1)nc(n2Cc1ncccn1)C1CCNCC1)Cl)Cl
+MOL_e55b7bc97987,Target_lig_384,Quinolinyl_DOS_paromomycin_der_1,C1[C@@H](N)[C@H](O)[C@H]([C@@H]([C@H]1N)OCSc1ccnc2c1ccc(c2)C(F)(F)F)O[C@@H]1O[C@@H]([C@H]([C@H]1O)O[C@H]1[C@@H]([C@H]([C@@H]([C@@H](O1)CN)O)O)N)CO
+MOL_fbefdda5e191,Target_lig_1143,Benzimidazole12,CN(CCCn1c(N)nc2c1c1CC(COc1cc2)CN(C)C)C
+MOL_8a7ea8a708a1,Target_lig_284,Perazidoparomomycin derivative 11,[C@@H]1([C@@H]([C@H]([C@H](O[C@H]1CN(CCc1ccccc1)C)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@@H]([C@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_ee9618186c0e,Target_lig_363,Neamine derivative_4,[C@@H]1([C@@H]([C@H]([C@H](O[C@H]1CN)O[C@@H]1[C@@H]([C@H]([C@@H](C[C@H]1N)N)OCCNCCCN)O)N)O)O
+MOL_27d5769e11eb,Target_lig_130,N-(isochroman-1-ylmethyl)-3-(piperidin-1-yl)propan-1-amine,C1CCN(CC1)CCCNCC2C3=CC=CC=C3CCO2
+MOL_22c70de5019d,Target_lig_1176,Virginiamycin S,CCC1C(=O)N2CCCC2C(=O)N(C(C(=O)N3CCC(=O)CC3C(=O)NC(C(=O)OC(C(C(=O)N1)NC(=O)C4=C(C=CC=N4)O)C)C5=CC=CC=C5)CC6=CC=CC=C6)C
+MOL_27c95752d633,Target_lig_777,PA-3,NCCCCN/C(=C/1\C(=O)C=C2C(C1=O)(C)c1c(O)c(C)c(c(c1O2)C(=O)C)O)/C
+MOL_4584617ed666,Target_lig_1073,Hit S7,CC(CCC1=CC=CO1)NC2CCC3(CC2)CCNCC3
+MOL_97ca86f2381b,Target_lig_98,methylpyridine_der_7,C1=CC=NC(=C1)NCCN
+MOL_bb56f57a4109,Target_lig_232,Clarithromycin,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
+MOL_ec967f08336e,Target_lig_953,Pentamidine,C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N
+MOL_77b49cde855d,Target_lig_24,quinoline_der,CN(C)CCNC1=CC(=NC2=CC=CC=C21)C3=CC=CC=C3
+MOL_0291e0353968,Target_lig_735,Aniline_analog_11,C1=CC(=CC(=C1)Cl)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O
+MOL_50a870b64a62,Target_lig_136,"pyran-3,4-diol_derivative",NC[C@H]1O[C@H](O[C@H]2[C@H](CO)O[C@H](O[C@H]3[C@H]([C@H](N)C[C@H]([C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3N)N)O)[C@H]2O)[C@@H](N)[C@H](O)[C@@H]1O
+MOL_0423da1ab3ba,Target_lig_1076,Hit S11,CC(C)OC(=O)C1=CC=C(C=C1)NC2=NC3=CC=CC=C3C4=NN=CN42
+MOL_2f1f228cb51b,Target_lig_582,NSC657704,C1=CC=C(C(=C1)/C=C\2/C(=O)N(C(=O)N2)/C=C\3/C(=O)C4=CC=CC=C4OC3=O)O
+MOL_4aea3ccad49b,Target_lig_679,D6,C1=CC(=CC=C1C(=O)OC2=CC=C(C=C2)[NH+]=C(N)N)[NH+]=C(N)N
+MOL_147511500073,Target_lig_995,Compound C2,CN1CCN(CC1)c1cc(Nc2nccc(c2)Nc2ccc3c(n2)cccc3)nc(n1)C
+MOL_c5b2b85d0370,Target_lig_1064,NRAS SAR 18,CC1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCC5=CC=C(C=C5)S(=O)(=O)N
+MOL_f1693b82102d,Target_lig_101,N-methylquinolin-2-amine,CNC1=NC2=CC=CC=C2C=C1
+MOL_902196bc6d71,Target_lig_108,3-(1H-benzo[d]imidazol-2-yl)-6-ethyl-7-hydroxy-8-(morpholinomethyl)-4H-chromen-4-one,CCC1=CC2=C(C(=C1O)CN3CCOCC3)OC=C(C2=O)C4=NC5=CC=CC=C5N4
+MOL_cb75f06cd698,Target_lig_647,Acridine 5,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CC[NH3+])=N1
+MOL_bc7704e751e6,Target_lig_265,Aminoglycoside derivative 16,[C@H]1([C@@H]([C@H]([C@@H](O[C@H]1CO)O[C@H]1[C@@H]([C@H]([C@@H](C[C@@H]1N)N)O)O[C@@H]1OC[C@@H]([C@H]1OCCNCc1ccccc1)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_e2966da258c0,Target_lig_1050,AIZA analog 12,NC(=O)c1ncn(c1N)c1ccccn1
+MOL_035a3cdbd09c,Target_lig_452,benzimidazole_analog_rRNA_36,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CN=CC=C4)Cl)Cl
+MOL_862e46d84a0e,Target_lig_310,Nosiheptide,CC=C1C2=NC(=CS2)C(=O)NC3CC(C(=O)OCC4=C5C(=C(C(=O)SCC(C6=NC(=CS6)C7=NC(=C(C=C7C8=NC(=CS8)C(=O)NC(C(=O)N1)C(C)O)O)C9=NC(=CS9)C(=O)NC(=C)C(=O)N)NC(=O)C1=CSC3=N1)NC5=CC=C4)C)O
+MOL_91ac79211833,Target_lig_1279,SMB4,CCCN(C(=O)CN(C(=O)NCc1nnn(c1)CCCCC(=O)CCCOc1c(cc(cc1C(C)(C)C)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C)C(C)(C)C)CCC)CC(=O)N(CC(=O)N(Cc1nnn(c1)CCCCC(=O)CCCOc1c(cc(cc1C(C)(C)C)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C)C(C)(C)C)CC(=O)N)CCC
+MOL_f8d8c29a3bab,Target_lig_815,RGB-1,O=c1n2Cc3nc4scc(c4c(=O)n3Cc2nc2c1c(cs2)c1ccoc1)c1ccco1
+MOL_3c9c15f45152,Target_lig_1052,NRAS compound 1,C1CCN(CC1)C1CCN(CC1)CCCCNc1nc(nc2c1cccc2)c1nnc(o1)c1ccccc1
+MOL_242bad88fad9,Target_lig_1167,cmt5,NNC1=C2C(=O)C3(O)C(CC2C(c2c1c(O)ccc2)(C)O)CC(=O)C(=C3O)C(=O)N
+MOL_3bd95c09de7a,Target_lig_556,D-uridine,C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
+MOL_ba42571183db,Target_lig_698,S-Amino acid conjugate 1b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1
+MOL_8890b1b127fa,Target_lig_296,Perazidoparomomycin derivative 23,[C@H]1([C@H]([C@@H]([C@H](O[C@@H]1CCN1C[C@@H]2[C@H](C1)CCCC2)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_aa8cf32d39d8,Target_lig_637,2HE-5NMe,C[C@H](N(C)C(=O)[C@H](C)N(C)C(=O)[C@H](C)N(C)C(=O)[C@H](C)N(C)C(=O)[C@H](C)N(C)C(=O)C[NH2+]CCCN1C=C(C[N+]2=CC3=C(C)C4=C(NC5=C4C=C(O)C=C5)C(C)=C3C=C2)N=N1)C(=O)N(CCCN1C=C(C[N+]2=CC3=C(C)C4=C(NC5=C4C=C(O)C=C5)C(C)=C3C=C2)N=N1)CC(N)=O
+MOL_93a6cb911ab6,Target_lig_247,Evernimicin,CC1C(C(CC(O1)OC2C(OC3(CC2O)OC4C(OC(C(C4(O3)C)O)OC5C(C(OC(C5OC)C)OC6C(OC(C(C6O)OC)OC7C(C8C(CO7)OC9(O8)C1C(C(CO9)OC(=O)C2=C(C=C(C=C2C)O)O)OCO1)O)COC)O)C)C)OC1CC(C(C(O1)C)OC)(C)[N+](=O)[O-])OC(=O)C1=C(C(=C(C(=C1OC)Cl)O)Cl)C
+MOL_dbeed2a62ddd,Target_lig_867,SMN2_compound_9,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2C)c1ccc(cc1)Cl
+MOL_bc3e515dc228,Target_lig_167,"2,4,6-triaminopyrimidine",C1=C(N=C(N=C1N)N)N
+MOL_2dbb8c9c8f5f,Target_lig_185,Rbt418,C1=CC=C2C(=C1)C=C(O2)C3=CC(=C(C=C3)OCCN=C(N)N)CNCCCCN=C(N)N
+MOL_c29d48c8aab8,Target_lig_354,Bifunctional_aminoglycoside_derivative_2,[C@H]1([C@@H]([C@@H]([C@@H](O[C@H]1CN)O[C@H]1[C@H]([C@H]([C@H](C[C@@H]1N)N)O)OC[C@@H](CN(CCCCN(C[C@@H](CO[C@H]1[C@@H]([C@H](C[C@H]([C@@H]1O)N)N)O[C@H]1[C@H]([C@@H]([C@@H]([C@@H](O1)CN)O)O)N)O)C)C)O)N)O)O
+MOL_de9a6df48395,Target_lig_236,Tiamulin,CCN(CC)CCSCC(=O)OC1CC(C(C(C23CCC(C1(C2C(=O)CC3)C)C)C)O)(C)C=C
+MOL_aae2e2f440ee,Target_lig_1229,Dicarba_derivative_8,C=CC[C@@H](C(=O)N1CCCC1C(=O)NC(C(=O)NCCCN)Cc1ccccc1)NC(=O)c1cc2ccccc2nc1CC
+MOL_49cf8d3062c4,Target_lig_513,hexanamide derivative_3,CCC1=NC2=CC=CC=C2C=C1C(=O)N3CCC[C@H]3C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)NCCCN)NC(=O)[C@@H]4CCCN4C(=O)C5=CC6=CC=CC=C6N=C5CC)C(=O)N[C@@H](CCCCN)C(=O)NCCCN
+MOL_dbb1f4245aa2,Target_lig_1141,Benzimidazole10,CN(CCCOc1ccc2c(c1)n1CC(CNc1n2)CN(C)C)C
+MOL_2ca5c3896899,Target_lig_523,pentanamide derivative_1,[C@@H]1([C@@H]([C@H]([C@H](O[C@@H]1CNC(=O)CCCC)O[C@@H]1[C@@H]([C@H]([C@H](C[C@@H]1N)N)O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)N)O)CO)O)O)O)O
+MOL_f2c3f9c61f67,Target_lig_507,AEC,CCC1CC1(C(=O)O)N
+MOL_bf34b5707a72,Target_lig_1019,DMA-135,CN(C)C1=C(N=C(C(=N1)N)C(=O)[NH+]=C(N)N)C#CC2=CC=CC=C2
+MOL_4e2ebcffd678,Target_lig_377,Paromomycin_mol derivative 2 16S A-site RNA,C1[C@@H]([C@@H]([C@H]([C@H]([C@@H]1N)O[C@@H]1O[C@H]([C@@H]([C@@H]([C@@H]1N)O)O)CO)O[C@@H]1[C@H]([C@H]([C@H](O1)CO)O[C@H]1O[C@H]([C@@H]([C@H]([C@@H]1N)O)O)CN)OCCCN)O)N
+MOL_11653e41e429,Target_lig_1242,"Compound (4S,5R)-2",O=C(Nc1ccc(cc1)C(=O)C)OCC1OC(=O)N[C@H]1CN1CCN(CC1)c1ccccc1
+MOL_1b1edf065e22,Target_lig_1146,Rokitamycin,CCCC(=O)OC1C(OC(CC1(C)OC(=O)CC)OC2C(OC(C(C2N(C)C)O)OC3C(CC(C(C=CC=CCC(OC(=O)CC(C3OC)O)C)O)C)CC=O)C)C
+MOL_8d4229ff2b12,Target_lig_445,benzimidazole_analog_rRNA_29,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CC=C(C=C4)[N+](=O)[O-])Cl)Cl
+MOL_b9f95fd55e74,Target_lig_294,Perazidoparomomycin derivative 21,[C@H]1([C@H]([C@H]([C@H](O[C@H]1CNCCc1cc(ccc1)C(F)(F)F)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_4836bd2f51ae,Target_lig_1025,SMC2,CCCN(C(=O)N(Cc1nnn(c1)CCCCC(=O)CCCOc1c(cc(cc1C(C)(C)C)c1nc2c([nH]1)ccc(c2)N1CCN(CC1)C)C(C)(C)C)CCOCCOCCOP(=O)(OC1C(O)C(OC1n1cnc2c1ncnc2N)COP(=O)(OC1C(O)C(OC1n1cnc2c1ncnc2N)COP(=O)(OC1C(O)C(OC1n1cnc2c1ncnc2N)COP(=O)(OC1C(O)C(OC1n1cnc2c1ncnc2N)COP(=O)(O)O)O)O)O)O)CC(=O)N(C(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)N1CCN(CC1)C)CCC
+MOL_023377d95af1,Target_lig_994,Compound C1,C1=CC(=CC(=C1)C2=NC3=C(N2)C=C(C=C3)N)C4=NC5=C(N4)C=C(C=C5)N
+MOL_7f7c4b4762bb,Target_lig_227,biotin_molecule,C1C2C(C(S1)CCCCC(=O)O)NC(=O)N2
+MOL_24b15b46b2ab,Target_lig_766,Neomycin-4a,NCC1OC(OC2C(Cn3nnc(c3)CCCCC(=O)Nc3cccc(c3)c3csc(n3)NC(=O)C)OC(C2O)OC2C(O)C(N)CC(C2OC2OC(CN)C(C(C2N)O)O)N)C(C(C1O)O)N
+MOL_d7d629314c34,Target_lig_1144,Kitasamycin,CC1CC=CC=CC(C(CC(C(C(C(CC(=O)O1)O)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)C)N(C)C)O)CC=O)C)O
+MOL_07f42a79d3b4,Target_lig_726,Aniline_analog_2,COC1=CC=C(C=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)O
+MOL_699ab74c6117,Target_lig_1171,cmt8,NC(=O)C1=C(O)C2(C(CC1=O)C(O)C1C(=C(O)c3c(C1C)cccc3O)C2=O)O
+MOL_b4b9cbb99ba4,Target_lig_1062,NRAS SAR 16,CC1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)N5CCCCC5
+MOL_732a4ef67d13,Target_lig_1234,SL3_compound_2,CN(c1ncnc2c1n(CCn1cnc3c1ncnc3N(C)C)cn2)C
+MOL_18d19a06f0c0,Target_lig_133,"1-(2,4-dimethoxybenzyl)-4-methyl-1,4-diazepane",CN1CCCN(CC1)CC2=C(C=C(C=C2)OC)OC
+MOL_be8b39aca286,Target_lig_1004,Compound 3ba,NCCCCC(C(=O)OCO[C@H]1CC(O[C@@H]1COCOC(=O)C(CCCCN)N)C(=O)Nc1cccc(c1)c1csc(n1)NC(=O)C)N
+MOL_a8c3402566f5,Target_lig_303,Ether paromomycin derivative 5,[C@H]1([C@H]([C@H]([C@@H](C[C@@H]1CO)O[C@H]1[C@@H]([C@@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@H]1OCCNCN)O)CO)N)O)O
+MOL_67fa92842b05,Target_lig_456,benzimidazole_analog_rRNA_40,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CC=CC=C4Br)Cl)Cl
+MOL_63f55df3f569,Target_lig_18,san,C[N+]1=C2C(=C3C=CC4=C(C3=C1)OCO4)C=CC5=CC6=C(C=C52)OCO6
+MOL_8dd86ef0e3b8,Target_lig_292,Perazidoparomomycin derivative 19,[C@H]1([C@H]([C@H]([C@H](O[C@@H]1CN1C[C@H]2[C@H](C1)CCCC2)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_66828f33daaa,Target_lig_95,methylpyridine_der_4,CC1=CN=C(C=C1)NCCN
+MOL_17cd6aef7e5a,Target_lig_295,Perazidoparomomycin derivative 22,[C@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCCc1cc(ccc1)OC)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_46ce52d5a84e,Target_lig_252,Aminoglycoside derivative 1,[C@H]1([C@H]([C@@H]([C@H](O[C@@H]1CO)O[C@H]1[C@@H]([C@@H]([C@@H](C[C@@H]1N)N)O)O[C@@H]1OC[C@@H]([C@H]1OCCNc1cnccc1)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_41ac3c388aec,Target_lig_441,benzimidazole_analog_rRNA_25,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=CC=C(C=C4)C(F)(F)F)Cl)Cl
+MOL_c1096666fa89,Target_lig_429,benzimidazole_analog_rRNA_12,CN1CCC(CC1)C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-]
+MOL_d11acf3aa750,Target_lig_319,Thiostrepton,CCC(C)C1C(=O)NC(C(=O)NC(=C)C(=O)NC(C(=O)NC23CCC(=NC2C4=CSC(=N4)C(C(OC(=O)C5=NC6=C(C=CC(C6O)N1)C(=C5)C(C)O)C)NC(=O)C7=CSC(=N7)C(NC(=O)C8CSC(=N8)C(=CC)NC(=O)C(NC(=O)C9=CSC3=N9)C(C)O)C(C)(C(C)O)O)C1=NC(=CS1)C(=O)NC(=C)C(=O)NC(=C)C(=O)N)C)C
+MOL_57c96912b187,Target_lig_371,Neamine mimic_5,[C@@H]1([C@H]([C@H]([C@@H](O[C@@H]1CN)O[C@@H]1[C@@H]([C@H]([C@@H](O[C@H]1CN)OC)N)O)N)O)O
+MOL_8c1b6d891993,Target_lig_508,L-3-[(2-AMINOETHYL)-SULFONYL]-ALANINE,C(CS(=O)(=O)C[C@@H](C(=O)[O-])[NH3+])[NH3+]
+MOL_2285472bc8b9,Target_lig_967,Compound7,CN1CCN(CC1)c1ccc(cc1)c1ccc2c(c1)[nH]c(n2)c1ccc(cc1)OCCCC(=O)N(Cc1ccncc1)CCNC(=O)c1ccc(c(c1)C)F
+MOL_93099fae147e,Target_lig_1256,Benzimidazole 3,C[NH+](C)CCCOC1=CC=C2[NH+]=C(N)N(CCC[NH+](C)C)C2=C1
+MOL_203896655f46,Target_lig_617,SL3 RNA_ligand14,CC1=CC=CN2C1=NC3=C(C2=O)C=C(C(=N)N3CC4=CN=CC=C4)C(=O)NCCN5CCOCC5
+MOL_30bfb1a0f9ed,Target_lig_570,carba_der,N([C@H](C(=O)N1[C@H](CCC1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCCN)CC=C)C(=O)c1c2c(nc(c1)CC)cccc2
+MOL_5e6f1206ec37,Target_lig_747,Carbazole_analog_25,CCOc1ccc(cc1)NCC(CN(c1ccc(cc1)Br)c1ccc(cc1)Br)O
+MOL_3b8058c60599,Target_lig_290,Perazidoparomomycin derivative 17,[C@H]1([C@H]([C@H]([C@H](O[C@@H]1CNCCc1ccc(cc1)C(F)(F)F)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@@H]1O[C@@H]([C@@H]([C@@H]1O)O[C@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_5ae3761f2697,Target_lig_244,CMC7_diphenylfuran,CN(C)CCN=C(C1=CC=CC(=C1)C2=CC=C(O2)C3=CC(=CC=C3)C(=NCCN(C)C)N)N
+MOL_bc44fadac79c,Target_lig_104,"1,4-bis((1H-indol-3-yl)methyl)piperazine",C1CN(CCN1CC2=CNC3=CC=CC=C32)CC4=CNC5=CC=CC=C54
+MOL_6cb45e2347a5,Target_lig_864,SMN2_compound_6,CN1CCN(CC1)c1cc(F)c2c(c1)oc(=O)c(c2)c1cccc(c1)Cl
+MOL_2df660c32127,Target_lig_365,Neamine derivative_6,[C@H]1([C@H]([C@@H]([C@@H](O[C@H]1CN)O[C@@H]1[C@@H]([C@H]([C@@H](C[C@@H]1N)NC(=O)Cc1ccc(cc1)N)OCCNCCCCN)O)N)O)O
+MOL_be415885c364,Target_lig_125,7-hydroxy-3-(2-methoxyphenyl)-8-(piperidin-1-ylmethyl)-4H-chromen-4-one,COC1=CC=CC=C1C2=COC3=C(C2=O)C=CC(=C3CN4CCCCC4)O
+MOL_b7d144024ccd,Target_lig_212,3_phenothiazine_analog_3,C1=CC=C2C(=C1)N(C3=C(S2)C=CC(=C3)Cl)CCCNCCO
+MOL_2fe7fbd66d66,Target_lig_134,DIONE_DERIVATIVE,Cn1c2nc(N/N=C\3/C4=C(C=C=C=C4)NC3=O)n(CC3=C=C=C(Cl)C=C3)c2c(=O)[nH]c1=O
+MOL_405d6f43f046,Target_lig_1068,Hit S2,CC1=CN=C(C=C1)NCCCNC(=O)C2=CN(N=N2)CCN
+MOL_797e3b7d97f3,Target_lig_158,"3,7-dimethylxanthine",CN1C=NC2=C1C(=O)NC(=O)N2C
+MOL_965315062264,Target_lig_666,Chelerythrine,C[N+]1=C2C(=C3C=CC(=C(C3=C1)OC)OC)C=CC4=CC5=C(C=C42)OCO5
+MOL_9be5bbaad3d7,Target_lig_461,benzimidazole_analog_rRNA_45,c1(c(cc2c(c1)nc(n2CS(=O)(=O)c1ccc(cc1)C)C1CCNCC1)Cl)Cl
+MOL_e33a43d6a407,Target_lig_1222,Butamben,CCCCOC(=O)C1=CC=C(C=C1)N
+MOL_69d791c47619,Target_lig_510,phenylacetate derivative,C1CN(CCN1C[C@@H]2[C@H](OC(=O)N2)COC(=O)CC3=CC=CC=C3)C4=CC=CC=C4
+MOL_7a4454515900,Target_lig_1022,SMB2,CCCN(C(=O)NCc1nnn(c1)CCCCC(=O)CCCOc1c(cc(cc1C(C)(C)C)c1[nH]c2c(n1)cc(cc2)N1CCN(CC1)C)C(C)(C)C)CC(=O)N(C(=O)CCCOc1ccc(cc1)c1[nH]c2c(n1)cc(cc2)N1CCN(CC1)C)CCC
+MOL_5937b0ac4d38,Target_lig_1187,Ribocil-A,CNc1ncc(cn1)CN1CCC[C@H](C1)c1nc(O)cc(n1)c1cccs1
+MOL_a8ad6ea698e5,Target_lig_418,Nitro substituted benzimidazole 16S A-site RNA,C1CNCCC1C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-]
+MOL_8cddcac01b80,Target_lig_528,HTP 21,c12c(c(c3c(n1)cccc3)Nc1ccc(cc1)CN)cccc2C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)CCCCN)CCCCN)CN
+MOL_0e281f9fe5b7,Target_lig_512,hexanamide derivative_1,NCCCC[C@@H](NC(=O)[C@@H](NC(=O)[C@H]1CCCN1C(=O)c1cc2c(OCO2)cc1)CSSC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)NCCCN)NC(=O)[C@H]1CCCN1C(=O)c1cc2c(OCO2)cc1)C(=O)NCCCN
+MOL_5c03f026bd0a,Target_lig_1211,Neamine_derivative_33,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OCn1cnc2c1nc[nH]c2=O)O)O
+MOL_e73fe5e5c570,Target_lig_131,N1-isopropyl-N2-(2-(4-(4-methylbenzoyl)piperazin-1-yl)ethyl)oxalamide,CC1=CC=C(C=C1)C(=O)N2CCN(CC2)CCNC(=O)C(=O)NC(C)C
+MOL_944475f23db2,Target_lig_443,benzimidazole_analog_rRNA_27,C1CNCCC1C2=NC3=CC(=C(C=C3N2CC4=C(C(=C(C(=C4F)F)F)F)F)Cl)Cl
+MOL_c97212219a53,Target_lig_506,L-4 L_4_Oxalysine,C(COC[C@@H](C(=O)O)N)N
+MOL_d189b45768f7,Target_lig_324,Clindamycin,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl
+MOL_6a3c2c7be14c,Target_lig_171,3-quinolinecarboxamide,C1=CC=C2C(=C1)C=C(C=N2)C(=O)N
+MOL_dbf4960c179e,Target_lig_863,SMN2_compound_5,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2)c1ccc(cc1)Cl
+MOL_2ff0d2ae0cb7,Target_lig_83,"4,6-dimethyl-1H-1,3-benzodiazol-2-amine",CC1=CC(=C2C(=C1)NC(=N2)N)C
+MOL_b061956130c5,Target_lig_1014,ATMND-C3-NH2,CC1=C(C2=C(N=C1C)N=C(C=C2)NCCCN)C
+MOL_d473ca5329b9,Target_lig_107,2-nitro-5-(piperazin-1-yl)-N-(2-(o-tolyloxy)ethyl)aniline,CC1=CC=CC=C1OCCNC2=C(C=CC(=C2)N3CCNCC3)[N+](=O)[O-]
+MOL_431d4f00e4fe,Target_lig_57,L-homoarginine,C(CCN=C(N)N)C[C@@H](C(=O)O)N
+MOL_d78304d73cd5,Target_lig_357,Bifunctional_aminoglycoside_derivative_5,[C@H]1([C@H]([C@@H]([C@H](O[C@H]1CO)OC[C@@H](CN(CCCCCCN(C)C[C@H](CO[C@@H]1O[C@H]([C@@H]([C@@H]([C@H]1N)O)O)CO)O)C)O)N)O)O
+MOL_717d3fee5fda,Target_lig_235,Quinupristin,CCC1C(=O)N2CCCC2C(=O)N(C(C(=O)N3CC(C(=O)CC3C(=O)NC(C(=O)OC(C(C(=O)N1)NC(=O)C4=C(C=CC=N4)O)C)C5=CC=CC=C5)CSC6CN7CCC6CC7)CC8=CC=C(C=C8)N(C)C)C
+MOL_40ecd83b14fe,Target_lig_1128,Rbt537,NCCCOc1ccc(cc1CNCCC1CCNCC1)c1cc2c(s1)cccc2
+MOL_304465295320,Target_lig_1227,ethylquinoline_carboxamide derivative 5,NCCCNC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1C(=O)[C@H](Nc1ccc2c(c1)C(=O)c1c(C2=O)cccc1)CSSC[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)NCCCN)Cc1ccccc1)Nc1ccc2c(c1)C(=O)c1c(C2=O)cccc1
+MOL_17f3235f751b,Target_lig_555,2-deoxy-D-Adenosine,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)CO)O
+MOL_1816839e3d18,Target_lig_71,NMN,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)(O)[O-])O)O)C(=O)N
+MOL_04f0e1c3f534,Target_lig_662,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1
+MOL_0029cc938c7c,Target_lig_866,SMN2_compound_8,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2C)c1cccc(c1)Cl
+MOL_d7a4abf380fb,Target_lig_813,Compound 5,Cn1c(NCc2cccc(c2)C(=O)C)ncc1c1ccc(cc1)C(=O)C
+MOL_0b6b1dfb0710,Target_lig_159,3-methylxanthine,CN1C2=C(C(=O)NC1=O)NC=N2
+MOL_8b24cbf8e67a,Target_lig_203,10-(3-(dimethylamino)propyl)-10H-phenothiazin-4-ol,CN(CCCN1C2=CC=CC=C2SC=2C(=CC=CC12)O)C
+MOL_3819ce1ea9ae,Target_lig_430,benzimidazole_analog_rRNA_13,COC1=CC2=C(C=C1)N=C(N2)C3CCNCC3
+MOL_28c3d42109dc,Target_lig_703,DPQ7,COC1=CC2=[NH+]C(=NC(N)=C2C=C1OC)N1CCN(CC1)C(=O)C(C)C
+MOL_a9d44c81243d,Target_lig_375,Neamine mimic_9,[C@H]1([C@H]([C@@H]([C@@H](O[C@@H]1CN)O[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1CN)OC)N)O[C@@H]1[C@H]([C@H]([C@H]([C@H](O1)C)N)O)O)N)O)O
+MOL_785e7c71ce9a,Target_lig_1275,Compound2,NC(=N)c1ccc(cc1)Nc1ccc(cc1)c1cc2c([nH]1)cc(cc2)C(=N)N
+MOL_175f7ebc5040,Target_lig_180,CMC3-2_Hoechst33258,CN1CCN(CC1)C1=C=C=c2c(=C1)[nH]c(n2)C1=C=C=c2c(=C1)nc([nH]2)C1=C=C=C(C=C1)O
+MOL_197cf9c4981a,Target_lig_66,AMP,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N
+MOL_b331d4be3cc5,Target_lig_1152,Pyronin Y,CN(C)C1=CC2=C(C=C1)C=C3C=CC(=[N+](C)C)C=C3O2.[Cl-]
+MOL_37164f6bed44,Target_lig_431,benzimidazole_analog_rRNA_14,CC1=CC2=C(C=C1)N=C(N2)C3CCNCC3
+MOL_02e7e2e179bc,Target_lig_564,disulfide_der_0,N([C@@H](C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCCCCN)CSSC[C@@H](NC(=O)c1c(nc2c(cccc2)c1)CC)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCCCCN)C(=O)c1c2c(nc(c1)CC)cccc2
+MOL_a060faa3db8c,Target_lig_559,2-O-methyl-D-Adenosine,CO[C@@H]1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)CO)O
+MOL_f56f3f722ce8,Target_lig_511,methyl N-(4-acetylphenyl)carbamate derivative,CC(=O)C1=CC=C(C=C1)NC(=O)OC[C@@H]2[C@H](NC(=O)O2)CN3CCN(CC3)C4=CC=CC=C4
+MOL_30dab31753c9,Target_lig_272,Aminoglycoside derivative 24,[C@H]1([C@H]([C@H]([C@@H](O[C@H]1CO)O[C@@H]1[C@H]([C@@H]([C@@H](C[C@H]1N)N)O)O[C@H]1OC[C@@H]([C@H]1OCCNCCCCc1ccccc1)O[C@H]1[C@@H]([C@H](C[C@H](O1)CN)O)N)N)O)O
+MOL_22b290636e40,Target_lig_702,DPQ6,CCC(=O)N1CCN(CC1)C1=NC(N)=C2C=C(OC)C(OC)=CC2=[NH+]1
+MOL_ebf4e76c234d,Target_lig_675,Compound 1,NC1=CC=C(C=C1)C1=CC2=CC=C(C=C2N1)C1=[NH+]CCN1
+MOL_2252448ba7a5,Target_lig_27,Cibacron blue,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3NC4=CC(=C(C=C4)NC5=NC(=NC(=N5)NC6=CC=CC=C6S(=O)(=O)O)Cl)S(=O)(=O)O)S(=O)(=O)O)N
+MOL_b43f2c6c01c4,Target_lig_1142,Benzimidazole11,CN(CCCn1c(N)nc2c1c1CC(Oc1cc2)CN(C)C)C
+MOL_811b8c60ac5f,Target_lig_673,Methylquinolinium 23,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC3=CC=CC=C3N2)=C1
+MOL_cbb7564d296a,Target_lig_1009,miR-21 binder compound 2,CCCN(C(=O)CN(C(=O)NCc1nnn(c1)CCCNC(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C)CCC)CC(=O)N(CC(=O)N(Cc1nnn(c1)CCCNC(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C)CC(=O)N)CCC
+MOL_a31710ba04ed,Target_lig_263,Aminoglycoside derivative 14,[C@@H]1([C@@H]([C@H]([C@H](O[C@@H]1CO)O[C@@H]1[C@H]([C@@H]([C@@H](C[C@@H]1N)N)O)O[C@H]1OC[C@@H]([C@H]1OCCNCCc1cnccc1)O[C@@H]1[C@H]([C@@H](C[C@@H](O1)CN)O)N)N)O)O
+MOL_aaaa7c41a472,Target_lig_1206,Neamine_derivative_26,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OC[N+]1N=Nc2c1nccc2)O)O
+MOL_edfb02b0e341,Target_lig_557,D-adenosine triphosphate,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N
+MOL_976fa9657f77,Target_lig_1230,Dicarba_derivative_9,NCCCNC(=O)C(Cc1ccccc1)NC(=O)C1CCCN1C(=O)C(NC(=O)c1cc2ccccc2nc1CC)C/C=C/C[C@@H](C(=O)N1CCCC1C(=O)NC(C(=O)NCCCN)Cc1ccccc1)NC(=O)c1cc2ccccc2nc1CC
+MOL_90e745aae906,Target_lig_127,5E1bromophenyl52piperazin1,O=C1NC(=O)N(C2=C=C=C(Br)C=C2)C(=O)/C/1=C/NCCN1CCNCC1
+MOL_9e9c6feabfc5,Target_lig_576,NSC18613,C[N+]1(CCCC2=CC=CC=C21)NCC[N+](C)(C)C.[I-]
+MOL_2d297abc4f9a,Target_lig_327,LINEZOLID_DERIVATIVE_2,CC(=O)NC[C@@H]1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCN(CC3)C(=O)CO)F
+MOL_e642edf168f1,Target_lig_198,"3-(2-methoxy-10H-phenothiazin-10-yl)-N,N-dimethylpropan-1-amine",CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)OC
+MOL_504ccb964bcb,Target_lig_1051,AIZA analog 13,C1=CC(=CN=C1)N2C=NC(=C2N)C(=O)N
+MOL_21140cec7269,Target_lig_381,Heterocyclic paromomycin derivative 3,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)OCN2C=CN=N2)O)O)N
+MOL_ae44cf603502,Target_lig_1267,DM1_compound1,COc1ccc2c(c1)c(NCCCCNc1nc(N)nc(n1)N)c1c(n2)cc(cc1)Cl
+MOL_e02211e0a180,Target_lig_575,NSC54101,CN(C)C1=NC=NC2=C1N=CN2CCN3C=NC4=C3N=CN=C4N(C)C
+MOL_f4af4d3ce6cc,Target_lig_714,Guanine Analog 25f,C1CCC(CC1)NC2=NC3=C(C(=O)N2)NC=N3
+MOL_15de5d624b3e,Target_lig_1203,Neamine_derivative_18,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OCn1ccc(n1)I)O)O
+MOL_4f140238de68,Target_lig_250,"2,5,6-TRIAMINO-PYRIMIDINE-4-ONE",C1(=C(N=C(NC1=O)N)N)N
+MOL_0eb97153a47e,Target_lig_1111,"7-benzyl-3-methyl-8-(piperazin-1-yl)-1H-purine-2,6(3H,7H)-dione",C(C1=CC=CC=C1)N1C(=NC=2N(C(NC(C12)=O)=O)C)N1CCNCC1
+MOL_71aaea32f83c,Target_lig_1056,NRAS SAR 6,CCCSCCCNC1=NC(=NC2=CC=CC=C21)C3=NN=C(O3)C4=CC=CC=C4
+MOL_b60519ffd16c,Target_lig_173,deoxy_adenosylcobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[CH2-]C1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)O.[Co+3]
+MOL_f05954cf6086,Target_lig_188,Thiethylperazine,CCSC1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCN(CC4)C
+MOL_5675671d632c,Target_lig_192,Xanthinol,CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CC(CN(C)CCO)O
+MOL_1c37315dc46f,Target_lig_123,"N1-(3,7-dimethoxynaphthalen-1-yl)pentane-1,4-diamine",COC=1C=C(C2=CC(=CC=C2C1)OC)NCCCC(C)N
+MOL_dbb0ae92e8a8,Target_lig_1049,AIZA analog 10,C1=NC(=C(N1CCO)N)C(=O)N
+MOL_74edaafdaf74,Target_lig_200,"3-(3,7-dimethyl-10H-phenothiazin-10-yl)-N,N-dimethylpropan-1-amine",CC=1C=CC=2N(C3=CC=C(C=C3SC2C1)C)CCCN(C)C
+MOL_3177be9113a3,Target_lig_385,Quinolinyl_DOS_paromomycin_der_2,C1[C@H](N)[C@@H](OCCNCCCN)[C@H]([C@H]([C@@H]1N)OCSc1ccnc2c1ccc(c2)C(F)(F)F)O
+MOL_1a09769535f9,Target_lig_1001,Compound 3cb,CC(=O)Nc1scc(n1)c1cccc(c1)NC(=O)[C@H]1C[C@@H]([C@H](O1)COCOC(=O)C(CCCN=C(N)N)N)O
+MOL_78a7be5706c0,Target_lig_113,4-(4-chlorophenyl)-N-(2-(pyrrolidin-1-yl)ethyl)phthalazin-1-amine,C1CCN(C1)CCNC2=NN=C(C3=CC=CC=C32)C4=CC=C(C=C4)Cl
+MOL_54fa147cc754,Target_lig_425,benzimidazole_analog_rRNA_8,C1=CC(=CC(=C1)N)C2=NC3=C(N2)C=C(C=C3)[N+](=O)[O-]
+MOL_b1afedf838b2,Target_lig_1173,atc,CN(C1C(=O)C(=C(C2(C1CC1C(C)c3cccc(c3C(=C1C2=O)O)O)O)O)C(=O)N)C
+MOL_830c566ce5ee,Target_lig_115,"4-hydroxy-2-oxo-N-(3-(piperidin-1-yl)propyl)-1,2-dihydroquinoline-3-carboxamide",C1CCN(CC1)CCCNC(=O)C2=C(C3=CC=CC=C3NC2=O)O
+MOL_b64d5ceec05f,Target_lig_644,2H-K4NMeS,C[C@H](N(C)C(=O)[C@H](C)N(C)C(=O)[C@H](C)N(C)C(=O)[C@H](C)N(C)C(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(=O)N(CCCCN(C)C(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)CC(N)=O
+MOL_9ee740e84759,Target_lig_1243,Compound cis-2,O=C(Nc1ccc(cc1)C(=O)C)OC[C@H]1OC(=O)N[C@H]1CN1CCN(CC1)c1ccccc1
+MOL_9919b55d823f,Target_lig_190,Usnic acid,CC1=C(C(=C2C(=C1O)C3(C(=CC(=O)C(C3=O)C(=O)C)O2)C)C(=O)C)O
+MOL_dfb84cd3b7d9,Target_lig_578,NSC11936,CN1C2=C(N=C1OCCN(C)C)N(C(=O)N(C2=O)C)C
+MOL_5b44efd19662,Target_lig_1207,Neamine_derivative_27,N[C@@H]1C[C@H](N)[C@H]([C@@H]([C@H]1OC[N+]1N=Nc2c1cccn2)O)O
+MOL_329538e9d7cb,Target_lig_285,Perazidoparomomycin derivative 12,[C@@H]1([C@H]([C@@H]([C@H](O[C@@H]1CNCCCc1ccccc1)O[C@H]1[C@@H]([C@H]([C@H](C[C@H]1N)N)O)O[C@H]1O[C@@H]([C@H]([C@@H]1O)O[C@@H]1CO[C@@H]([C@@H]([C@H]1O)O)CN)CO)N)O)O
+MOL_72c605233d38,Target_lig_89,"N,4-dimethylquinolin-2-amine",CC1=CC2=C(C=C1)C(=CC(=N2)N)C
+MOL_9c8e88fc3dcf,Target_lig_379,Heterocyclic paromomycin derivative 1,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)OCN2C=NC3=C2N=CNC3=O)O)O)N
+MOL_f72284423051,Target_lig_1268,DM1_compound3,[NH2+]=C(c1ccc(cc1)C(=[NH2+])NCCCCNc1nc(N)nc(n1)N)NCCCCNc1nc(N)nc(n1)N
+MOL_575a6eda808c,Target_lig_671,Methylquinolinium 16,CCN1C2=C(C=C(C=C2)/C=C/C3=[N+](C4=CC=CC=C4C=C3)C)C5=CC=CC=C51
+MOL_7803b80ec9e3,Target_lig_1044,AIZA analog 1,C1=NC(=C(N1C2C(C(C(O2)COP(=O)(O)O)O)O)N)C(=O)N
+MOL_fc80f19f4479,Target_lig_669,Staurosporine,C[C@@]12[C@@H]([C@@H](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)NC)OC
+MOL_f00c601889a6,Target_lig_417,Benzimidazole 16S A-site RNA,C1CNCCC1C2=NC3=C(N2)C=C(C=C3)N
+MOL_4965d6e49b1e,Target_lig_206,"N,N-dimethyl-3-(10H-phenothiazin-10-yl)propan-1-amine",CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31
+MOL_b98fd659dd22,Target_lig_126,tetraene_mol,CC(=O)C1=CCC2C1(CC=C3C2CCC4=CC(=O)C=CC43C)C
+MOL_c60586c57065,Target_lig_342,Ellipticine,CC1=C2C=CN=CC2=C(C3=C1NC4=CC=CC=C43)C
+MOL_0c715bcad2b4,Target_lig_1126,Rbt446,NCCCOc1ccc(cc1CNCCc1ccc(cc1)CNC(=N)N)c1cc2c(s1)cccc2
+MOL_4538e9e30d5e,Target_lig_301,Ether paromomycin derivative 3,[C@@H]1([C@H]([C@H]([C@@H](C[C@H]1CO)O[C@H]1[C@H]([C@H]([C@@H](C[C@@H]1N)N)O)O[C@@H]1O[C@@H]([C@H]([C@@H]1OC[C@@H](O)c1ccccc1)O[C@H]1[C@H]([C@@H]([C@H]([C@H](O1)N)O)O)N)CO)N)O)O
+MOL_8b9770b3c2fa,Target_lig_1055,NRAS SAR 3,C1CCC(CC1)NC2=NC(=NC3=CC=CC=C32)C4=NN=C(O4)C5=CC=C(C=C5)F
+MOL_072e59060dba,Target_lig_96,methylpyridine_der_5,C1=CC(=NC=C1[N+](=O)[O-])NCCN
+MOL_1ead01a69cf4,Target_lig_1298,BI compound 11,Cc1ncc2c(n1)[nH]cc2CCN1CCC(C1)OC1CCN(CC1)c1nc2c([nH]1)cccc2
+MOL_4da390518579,Target_lig_0,Spermine,C(CCNCCCN)CNCCCN
+MOL_d982e9f0b6b3,Target_lig_323,Enacyloxin IIa,CC/C=C/[C@H]([C@H]([C@@H](CC(=O)[C@H]([C@@H]([C@H](C)/C(=C/C=C/C=C(\C)/C=C/C=C/C(=O)O[C@@H]1C[C@H](CC[C@@H]1O)C(=O)O)/Cl)O)O)O)Cl)OC(=O)N
+MOL_42c0c8f6d26d,Target_lig_322,Pulvomycin,CC1C(C(C(C(O1)OC(C)C(C=CC=CC=CC(=O)C(C)C(C(C)C2CC=CC=CC=CC(C(=O)C(=CC=CC(=CC(C(=CCC(=O)O2)C)O)C)C)O)O)O)OC)O)OC
+MOL_ad99bed13504,Target_lig_321,Sordarin,CC1CCC2C1CC3(C4CC2(C3(C(=C4)C(C)C)C(=O)O)C=O)COC5C(C(C(C(O5)C)OC)O)O
+MOL_bb06f6ac5cbb,Target_lig_990,cpd25,CC1=C(C(=O)C2=C(C1=O)N3CCC(C3=N2)OC(=O)COC)NC(=O)C
+MOL_a9cddeac9cb2,Target_lig_989,cpd20,CCC1=CC(=NC(=N1)N2CCCC2)N3CCC(CC3)NCCN4C=CN=C4
+MOL_801ede5ead4f,Target_lig_988,cpd19,CCCN(CCC)CC1=CC=C(C=C1)C(=O)N2CCOC(C2)CCN
+MOL_bcd9d88137a4,Target_lig_987,cpd18,CC1=NC2=CC=CC=C2C(=C1)N3CCN(C(C3)CCO)CC=C(C)C
+MOL_8024c636dc73,Target_lig_986,cpd13,CN1C(=CN=C1NCC2=CC=CC=C2OC)C3=CC(=CC=C3)Br
+MOL_46052bd4bcc8,Target_lig_985,cpd8,CC1=CC2=C(C=C1)N=C(C3=NN=CN23)NCCCN4CCOCC4
+MOL_900dc7b3117d,Target_lig_1292,BI compound 8,Cc1ncc(c(n1)N)CCN1CCCC(C1)(O)c1nnn(c1)c1ccc2c(c1)nccn2
+MOL_cbb40feeaa13,Target_lig_241,Kirromycin,CCC(C(=O)NCC=CC=C(C)C(C(C)C1C(C(C(O1)C=CC=CC=C(C)C(=O)C2=C(C=CNC2=O)O)O)O)OC)C3(C(C(C(C(O3)C=CC=CC)(C)C)O)O)O
+MOL_153b8ef296e2,Target_lig_316,T4-MPyP (Tetrakismethylpiridiniumylporphine),CN1C=CC(=C2C3=NC(=C(C4=NC(=C(C5=CC=C([N-]5)C(=C6C=CC2=N6)C7=CC=[N+](C=C7)C)C8=CC=[N+](C=C8)C)C=C4)C9=CC=[N+](C=C9)C)C=C3)C=C1
+MOL_3330f0dfae62,Target_lig_61,guanosine,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2N=C(NC3=O)N)CO)O
+MOL_e4536cde8c82,Target_lig_1291,2HE-5Nme,NC(=O)CN(C(=O)C(N(C(=O)C(N(C(=O)C(N(C(=O)C(N(C(=O)C(N(C(=O)CNCCCn1nnc(c1)C[n+]1ccc2c(c1)c(C)c1c(c2C)[nH]c2c1cc(O)cc2)C)C)C)C)C)C)C)C)C)C)CCCn1nnc(c1)C[n+]1ccc2c(c1)c(C)c1c(c2C)[nH]c2c1cc(O)cc2
+MOL_546b3a24926b,Target_lig_1322,Brc3-preQ1,BrCCCNCc1c[nH]c2c1c(=O)[nH]c(n2)N
+MOL_0415bb2091cd,Target_lig_1293,BI compound 1,CNCc1cnc(nc1N)C
+MOL_c4972ffad80d,Target_lig_1294,BI compound 9,Cc1ncc(c(n1)N)CN1CCC(C1)OC1CCN(CC1)c1nc2c([nH]1)cccc2
+MOL_7da345fda852,Target_lig_1295,BI compound 2,CNCc1ccc2c(c1)nccn2
+MOL_821b1b546e2b,Target_lig_1296,BI compound 10,c1cnc2c(n1)cc(cc2)CN1CCC(C1)OC1CCN(CC1)c1nc2c([nH]1)cccc2
+MOL_37598393f302,Target_lig_1297,BI compound 3,C1CCN(C1)Cc1ccc2c(c1)nccn2
+MOL_da9de259d177,Target_lig_1299,BI compound 4,FC1CCN(C1)Cc1ccc2c(c1)nccn2
+MOL_ded1615fca75,Target_lig_1300,BI compound 12,Cc1ncc2c(n1)[nH]cc2CCN1CC[C@@H](C1)OC1CCN(CC1)c1nc2c([nH]1)cccc2
+MOL_c2d13a6c4956,Target_lig_1301,BI compound 5,FC1(F)CCN(C1)Cc1ccc2c(c1)nccn2
+MOL_a307da0d68f1,Target_lig_1302,BI compound 13,Cc1ncc2c(n1)[nH]cc2CCN1CCC(C1)OC1CCN(CC1)c1nc2c([nH]1)ccnc2
+MOL_52302c178673,Target_lig_1303,BI compound 6,Cc1ncc2c(n1)[nH]cc2
+MOL_19378b417c34,Target_lig_1304,BI-5232,Cc1ncc2c(n1)[nH]cc2CCN1CCC(C1)OC1CCN(CC1)c1nc2c([nH]1)cccn2
+MOL_eaa88b2a5c2a,Target_lig_1305,BI compound 7,NCCc1c[nH]c2c1cnc(n2)C
+MOL_0af932fc742c,Target_lig_1306,Thiamine pyrophosphate,Cc2ncc(C[n+]1csc(CCOP(=O)(O)OP(=O)(O)O)c1C)c(N)n2
+MOL_94281c0bfdbc,Target_lig_1319,TPP analogue S2,Cc1ncc(c(n1)N)C[n+]1csc(c1C)CCOP(=O)(O)O
+MOL_b181470acf49,Target_lig_1393,TPP analogue S3,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)O
+MOL_f28ba2114ea4,Target_lig_1321,TPP analogue S5,OCCC1=C(C)[NH+](N=N1)Cc1cnc(nc1N)C
+MOL_833deef2759e,Target_lig_1249,palmatine_mol,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC
+MOL_35d907f6f406,Target_lig_15,Berberine_mol,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC
+MOL_93dc95e838fe,Target_lig_17,Coralyne,CC1=C2C=C(C(=CC2=CC3=[N+]1C=CC4=CC(=C(C=C43)OC)OC)OC)OC
+MOL_a6b247323ee6,Target_lig_346,Distamycin A,CN1C=C(C=C1C(=O)NC2=CN(C(=C2)C(=O)NC3=CN(C(=C3)C(=O)NC4=CN(C(=C4)C(=O)NC5=CN(C(=C5)C(=O)NCCC(=N)N)C)C)C)C)NC=O
+MOL_bf3df1c581ce,Target_lig_492,Biaryl ligand 4,C1=CSC(=C1)C2=CC(=C(C=C2)OCCN=C(N)N)CNCCCCN=C(N)N
+MOL_64bfcdc1077f,Target_lig_20,Berenil,CC(=O)NCC(=O)O.C1=CC(=CC=C1C(=N)N)NN=NC2=CC=C(C=C2)C(=N)N
+MOL_9a1f519a6c08,Target_lig_21,Dapi,C1=CC(=CC=C1C2=CC3=C(N2)C=C(C=C3)C(=N)N)C(=N)N
+MOL_998e328d6d41,Target_lig_25,Phenylquinoline_derivative_2,c1(c(c(c(cc1)c1nc2c(cccc2)cc1)N1CCN(CC1)C)N1CCN(CC1)C)N1CCN(CC1)C
+MOL_c2a0652e678c,Target_lig_26,Phenylquinoline_derivative_3,c1(c(c(c(cc1)c1nc2c(cccc2)c(c1)NCCN(C)C)N1CCN(CC1)C)N1CCN(CC1)C)N1CCN(CC1)C
+MOL_6cf1ce6fc440,Target_lig_491,Biaryl ligand 3,C1=CC=C2C=C(C=CC2=C1)C3=CC(=C(C=C3)OCCCN)CNCCCCN=C(N)N
+MOL_4fd232dd5b3e,Target_lig_517,carboximidamide derivative,CC(=N)C1=CC=C(C=C1)OCCCCCOC2=CC=C(C=C2)C(=N)N
+MOL_bc041e5011dd,Target_lig_518,pent-4-ynamide derivative,[C@@H]1([C@@H]([C@H]([C@H](O[C@@H]1CNC(=O)CCC#C)O[C@H]1[C@H]([C@H]([C@@H](C[C@@H]1N)N)O[C@H]1O[C@@H]([C@H]([C@H]([C@@H]1O)N)O)CO)O)O)O)O
+MOL_1caa01e81b8f,Target_lig_519,phenoxy_butanamide,C1N(CCN(C1)c1ccc2c(c1)[nH]c(n2)c1ccc2c(c1)[nH]c(n2)c1cccc(c1)OCCCC(=O)NCCC/N=N/N)C
+MOL_e55ad2a87577,Target_lig_485,Bis-guanidinylated ligand 3,COC1=CC(=C(C=C1)OCCCN=C(N)N)CNCCCCN=C(N)N
+MOL_f53b827d6ccd,Target_lig_13,tetra_methylpyridyl_porphyrine_Cu complex,CN1C=CC(=C2C3=CC=C([N-]3)C(=C4C=CN(C=C4)C)C5=CC=C([N-]5)C(=C6C=CN(C=C6)C)C7=CC=C([N-]7)C(=C8C=CN(C=C8)C)C9=CC=C2[N-]9)C=C1.[Cu]
+MOL_b8442762e2e9,Target_lig_486,Bis-guanidinylated ligand 4,COC1=CC(=C(C=C1)OCCCN=C(N)N)CNCCCN=C(N)N
+MOL_b50bdb74d919,Target_lig_487,Bis-guanidinylated ligand 5,COC1=CC(=C(C=C1)OCCCN)CNCCCCN=C(N)N
+MOL_fea4e6d08fcc,Target_lig_488,Bis-guanidinylated ligand 6,c1c(cc(c(c1)OCCCNC(=N)N)CNCCNC(=N)N)OC
+MOL_8edfff3f405f,Target_lig_14,tetra_methylpyridyl_porphyrine_Zn complex,CN1C=CC(=C2C3=NC(=C(C4=NC(=C(C5=CC=C([N-]5)C(=C6C=CC2=N6)C7=CC=[N+](C=C7)C)C8=CC=[N+](C=C8)C)C=C4)C9=CC=[N+](C=C9)C)C=C3)C=C1.[Zn+2]
+MOL_ecca51bb9419,Target_lig_19,Aristololactam_Beta_D_glucoside,COC1=CC=CC2=C3C4=C(C=C21)N(C(=O)C4=CC5=C3OCO5)C6C(C(C(C(O6)CO)O)O)O
+MOL_1b3c2b961f0c,Target_lig_1220,rbt442,NCCCOc1ccc(cc1CNC(=O)CCCNC(=N)N)OC
+MOL_2ada5d70b226,Target_lig_1219,rbt394,NCCOc1ccc(cc1CNCCCCNC(=N)N)OC
+MOL_2eb6c7c1b648,Target_lig_484,Bis-guanidinylated ligand 2,c1c(cc(c(c1)OCCNC(=N)N)CNCCCCCNC(=N)N)OC
+MOL_0afd91c5aa4c,Target_lig_12,tetra_methylpyridyl_porphyrine,CN1C=CC(=C2C3=CC=C([N-]3)C(=C4C=CN(C=C4)C)C5=CC=C([N-]5)C(=C6C=CN(C=C6)C)C7=CC=C([N-]7)C(=C8C=CN(C=C8)C)C9=CC=C2[N-]9)C=C1.[Ni]
+MOL_dda896b00d95,Target_lig_330,radezolid,CC(=O)NCC1CN(C(=O)O1)C2=CC(=C(C=C2)C3=CC=C(C=C3)CNCC4=NNN=C4)F
+MOL_9ff98eac6b86,Target_lig_339,Methylene Blue,CN(C)C1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2.[Cl-]
+MOL_21106e47bef9,Target_lig_525,pentanamide derivative_5,CCCN(CC(=O)N(CCC)CC(=O)N(C(=O)N(C(=O)N(CCCn1cc(CCCCC(=O)NC[C@@H]2O[C@H](O[C@H]3[C@H](N)C[C@@H](N)[C@H](O[C@H]4O[C@H](CO)[C@@H](O)[C@@H](N)[C@H]4O)[C@@H]3O)[C@H](O)[C@H](O)[C@H]2O)nn1)CC(=O)N)CCC)CCC)C(=O)CN(C)CCCn1cc(CCCCC(=O)NC[C@H]2O[C@H](O[C@H]3[C@H](N)C[C@@H](N)[C@H](O[C@H]4O[C@H](CO)[C@@H](O)[C@@H](N)[C@H]4O)[C@H]3O)[C@@H](O)[C@@H](O)[C@@H]2O)nn1
+MOL_47496b64ae21,Target_lig_520,acridine-4-carboxamide-derivative,c1(c(nc(nc1N)N)N)CCCCNc1c2c(nc3c1cccc3C(=O)NCCN(C)C)ccc(c2)OC
+MOL_6288f84c2dc1,Target_lig_468,Ligand5 16S A-site RNA,C1=CC=C(C=C1)C2=CC=CC=C2OCCCC(=N)N
+MOL_d1f90b6d1ae0,Target_lig_466,Ligand3 16S A-site RNA,C1CCN(CC1)CCCNC[C@H]2C3=CC=CC=C3CCO2
+MOL_6071e16c23d3,Target_lig_465,Ligand2 16S A-site RNA,C1CCN(CC1)CCCNC(=O)C2=C(C3=C(CCCC3)NC2=O)O
+MOL_b731f50defe3,Target_lig_338,PROFLAVIN_PLATINUM_DERIVATIVE,c1c2c(nc3c1ccc(c3)NCC[Pt]1(Cl)[N](CC[N]1(C)C)(C)C)cc(cc2)NCC[Pt]1(Cl)[N](C)(C)CC[N]1(C)C
+MOL_cb039ae9176c,Target_lig_337,acridine orange,CN(C)C1=CC2=C(C=C1)C=C3C=CC(=CC3=N2)N(C)C
+MOL_51329912ff63,Target_lig_344,Azacyanine 5,COC1=CC2=C(C=C1)N3C[N+]4=C(N=C3S2)SC5=C4C=CC(=C5)OC
+MOL_4b0f4020dea8,Target_lig_340,Quinacrine,CCN(CC)CCCC(C)NC1=C2C=C(C=CC2=NC3=C1C=CC(=C3)Cl)OC
+MOL_d8fdb24ab586,Target_lig_343,Azacyanine 3,CN1C2=CC=CC=C2N3C1=NC4=[N+](C5=CC=CC=C5N4C3)C
+MOL_73e079f4ded7,Target_lig_137,gentamicin_mol_c2,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)N
+MOL_702cfe49b2a7,Target_lig_870,CCUG_compound_1,CCNC1=NC(=NC2=CC=CC=C21)NC3=CC=C(C=C3)NC(=O)C
+MOL_d5fea9469784,Target_lig_77,Pactamycin,CC1=C(C(=CC=C1)O)C(=O)OCC2(C(C(C(C2(C)O)(C(C)O)NC(=O)N(C)C)N)NC3=CC=CC(=C3)C(=O)C)O
+MOL_c645e84d3ab8,Target_lig_142,Garamine,CC1(COC(C(C1NC)O)OC2C(CC(C(C2O)O)N)N)O
+MOL_11fed9142e97,Target_lig_146,myomycin,C(CC(CC(=O)NCCCC(CC(=O)NC(=NC1C(C(OC(C1O)OC2C(C(C(C(C2O)OC(=O)N)O)OC(=O)N)O)CO)O)N)N)N)CN
+MOL_2aec710fefd2,Target_lig_145,1_N_Acetyl_sisomicin,O([C@@H]1[C@@H](O)[C@@H](O[C@H]2O[C@@H](CC[C@H]2N)CN)[C@@H](N)C[C@H]1NC(=O)C)[C@H]1OC[C@](O)([C@H](NC)[C@H]1O)C
+MOL_6612a07e9f0c,Target_lig_144,dihydro_sisomicin,O([C@@H]1[C@@H](O)[C@@H](O[C@H]2O[C@@H](CC[C@H]2N)CN)[C@@H](N)C[C@H]1N)[C@H]1OC[C@](O)([C@H](NC)[C@H]1O)C
+MOL_fca7e555cd53,Target_lig_950,CCUG_compound_81,Cc1ccc2nc(Nc3ccc4nc(NCCc5ccc(cc5)S(N)(=O)=O)sc4c3)nc(NCCCO)c2c1
+MOL_31a27545556f,Target_lig_141,Kanamycin C,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CO)O)O)N)N
+MOL_52b033c22569,Target_lig_139,gentamicin_mol_B,CC1(COC(C(C1NC)O)OC2C(CC(C(C2O)OC3C(C(C(C(O3)CN)O)O)O)N)N)O
+MOL_6ea55e99a0c1,Target_lig_1216,Diamino_piperidinyl_triazine_8,CC(CC(=O)Nc1ccc(cc1O)Nc1nc(nc(n1)N1C[C@H](N)C[C@H](C1)N)N1C[C@H](N)C[C@@H](C1)N)C
+MOL_403d55b41d51,Target_lig_1185,Florfenicol,CS(=O)(=O)C1=CC=C(C=C1)C(C(CF)NC(=O)C(Cl)Cl)O
+MOL_0c4d591f17e2,Target_lig_500,dimethylamine_derivative,c12ccc3c(c1C[C@H](CO2)CN(C)C)n1c(n3)NC[C@H](C1)CN(C)C
+MOL_7dee76eec923,Target_lig_64,Argininamide,C(CC(C(=O)N)N)CN=C(N)N
+MOL_ef49dbdcb044,Target_lig_1212,Diamino_piperidinyl_triazine_4,N[C@@H]1C[C@H](N)CN(C1)c1nc(nc(n1)N)N1C[C@H](N)C[C@H](C1)N
+MOL_d081fac5cf9a,Target_lig_1213,Diamino_piperidinyl_triazine_5,N[C@@H]1C[C@H](N)CN(C1)c1nc(NC2CCNC2)nc(n1)N1C[C@H](N)C[C@H](C1)N
+MOL_36448bf21ce4,Target_lig_1214,Diamino_piperidinyl_triazine_6,COc1ccc(cc1)Nc1nc(nc(n1)N1C[C@H](N)C[C@H](C1)N)N1C[C@H](N)C[C@@H](C1)N
+MOL_f6dcf6dcd4c4,Target_lig_1215,Diamino_piperidinyl_triazine_7,N[C@@H]1C[C@H](N)CN(C1)c1nc(Nc2ccc(cc2)NC(=O)C)nc(n1)N1C[C@H](N)C[C@H](C1)N
+MOL_310287888dfa,Target_lig_1217,Diamino_piperidinyl_triazine_9,N[C@@H]1C[C@H](N)CN(C1)c1nc(Nc2ccc(c(c2)O)NC(=O)c2ccc(cc2)C)nc(n1)N1C[C@H](N)C[C@H](C1)N
+MOL_e5288c47e276,Target_lig_1259,Quinoxaline 3,NC1=NC2=CC=C(N)C(N)=C2C(N)=[NH+]1
+MOL_29eb9071d4ea,Target_lig_688,IRAB,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(C[NH+](C)C)=CC3=C12
+MOL_6b744f4a4973,Target_lig_685,Lomofungin,COC(=O)C1=C2C(=NC\3=C(N2)C(=O)C=C(/C3=C\O)O)C(=O)C=C1
+MOL_b494b1dbe3fc,Target_lig_348,Spiro-compound_2,C1[C@H]([C@@H](C[C@@]2(O1)[C@H](C[C@H]([C@@H]([C@H]2O)O)NC(=O)[C@H](CCN)O)N)O)O
+MOL_ff8aeaec67d9,Target_lig_349,Spiro-compound_3,C1[C@@H]([C@@H](C[C@]2(O1)[C@H](C[C@H]([C@@H]([C@H]2O)O)NC(=O)[C@H](CCCCN)N)N)O)O
+MOL_0d48d877b1d8,Target_lig_325,Edeine_mol,C1=CC(=CC=C1C(CC(=O)NCC(C(=O)NC(CN)C(=O)NC(CCCC(C(CC(=O)NCC(=O)NCCCNCCCCN)O)N)C(=O)O)O)N)O
+MOL_1e96955e0af0,Target_lig_390,Piperidine_aminoglycoside_16S _A_site_RNA_mimic_1,O1[C@@H]([C@H]([C@@H]([C@@H]([C@@H]1CN)O)O)N)OC[C@H]1[C@@H](CNCC1)CN
+MOL_5f6182bb39c6,Target_lig_393,Piperidine_aminoglycoside_16S _A_site_RNA_mimic_4,O1[C@@H]([C@@H]([C@H]([C@@H]([C@@H]1CO)O)O)N)OC[C@H]1[C@@H]([C@@H](NCC1)O)CN
+MOL_ff68d59b28fb,Target_lig_394,Piperidine_aminoglycoside_16S _A_site_RNA_mimic_5,O1[C@@H]([C@@H]([C@@H]([C@@H]([C@@H]1CN)O)O)N)O[C@@H]1[C@@H](CNC[C@H]1CN)CO
+MOL_8f83355b386d,Target_lig_397,Diamino_piperidinyl_triazine_1,C1[C@@H](CN(C[C@@H]1N)c1nc(nc(N2C[C@H](C[C@@H](C2)N)N)n1)Nc1cc(c(cc1)NC(=O)c1ccc(cc1)Cl)O)N
+MOL_bd672e23c137,Target_lig_399,Diamino_piperidinyl_triazine_3,C(CN(CCN)c1nc(nc(N2C[C@@H](C[C@@H](C2)N)N)n1)Nc1ccc(cc1)NC(=O)c1c(cc2c(c1)cccc2)O)N
+MOL_3fe0618b4b30,Target_lig_347,Spiro-compound_1,C1[C@@H]([C@H](C[C@@]2(O1)[C@H](C[C@H]([C@@H]([C@H]2O)O)N)N)O)O
+MOL_bc55ea4cc8d0,Target_lig_1178,Rx-01_002,CC(=O)NC[C@@H]1OC(=O)N(C1)c1ccc(c(c1)F)c1ccc(cc1)CNC(=O)/C=C/c1c(C)[nH]c(=O)[nH]c1=O
+MOL_6ac7ca953838,Target_lig_1180,Rx-01_133,CC(=O)NC[C@H]1CN(C(=O)O1)c1ccc(c(c1)F)c1ccc(cc1)CNCC(=O)N
+MOL_a6ec15426b7f,Target_lig_1181,Rx-01_149,NC(=N)NCc1ccc(cc1)c1ccc(cc1F)N1C[C@@H](OC1=O)CNC(=O)C
+MOL_ed041e690297,Target_lig_1182,Rx-01_413,CC(=O)NC[C@H]1CN(C(=O)O1)c1ccc(c(c1)F)c1ccc(cc1)n1ccnn1
+MOL_b60760595642,Target_lig_1183,Rx-01_423,FCCCNCc1ccc(cc1)c1ccc(cc1F)N1C[C@@H](OC1=O)CNC(=O)C
+MOL_759cfdd31990,Target_lig_1184,Rx-01_445,CC(=O)NC[C@H]1CN(C(=O)O1)c1ccc(c(c1)F)c1ccc(cc1)n1ncnn1
+MOL_f4208d4c6f06,Target_lig_596,Bis amidophenyl furans derivative 5,c1cc(cc(c1)C(=N)NCC)c1oc(cc1)c1cccc(c1)C(=N)NCC
+MOL_b60419532ac9,Target_lig_597,Bisamidophenyl thiophene derivative 2,c1cc(cc(c1)C(=N)NCCN1CCCC1)c1sc(cc1)c1cccc(c1)C(=N)NN1CCOCC1
+MOL_2c0c8f4369be,Target_lig_598,Bisamidophenyl thiophene derivative 3,c1cc(cc(c1)C(=N)NCCN1CCCC1)c1sc(cc1)c1cccc(c1)C(=N)NCCCN1CCCC[C@@H]1C
+MOL_61252e8aa353,Target_lig_599,Bisamidophenyl thiophene derivative 6,c1cc(cc(c1)C(=N)NCC[C@H]1CCCN1C)c1sc(cc1)c1cccc(c1)C(=N)NCC[C@H]1N(CCC1)C
+MOL_299e627cf3b7,Target_lig_600,Bisamidophenyl thiophene derivative 7,CCN(CC)CCCN=C(C1=CC=CC(=C1)C2=CC=C(S2)C3=CC(=CC=C3)C(=NCCCN(CC)CC)N)N
+MOL_cab0a36e2429,Target_lig_601,Bisamidophenyl thiophene derivative 8,c1cc(cc(c1)C(=N)NCCCN1[C@@H](CCCC1)C)c1sc(cc1)c1cccc(c1)C(=N)NCCCN1CCCC[C@H]1C
+MOL_bb8c627b5728,Target_lig_602,Bisamidophenyl thiophene derivative 9,c1cc(cc(c1)C(=N)NCc1cnccc1)c1sc(cc1)c1cccc(c1)C(=N)NCC[C@H]1N(CCC1)C
+MOL_3f40b5b27225,Target_lig_603,Bisamidophenyl thiophene derivative 10,c1cc(cc(c1)C(=N)NCc1cnccc1)c1sc(cc1)c1cccc(c1)C(=N)NCCCN(CC)CC
+MOL_298c04377aa7,Target_lig_604,Bisamidophenyl thiophene derivative 11,c1cc(cc(c1)C(=N)NCC[C@H]1CCCN1C)c1sc(cc1)c1cccc(c1)C(=N)NCCCN(CC)CC
+MOL_e5e966fe2be3,Target_lig_933,CCUG_compound_64,Cc1ccc2nc(Nc3ccc4ncn(C)c4c3)nc(NCCCO)c2c1
+MOL_98c385e1f6b5,Target_lig_595,Bis amidophenyl furans derivative 4,CN(C)CCCCCCN=C(C1=CC=CC(=C1)C2=CC=C(O2)C3=CC(=CC=C3)C(=NCCCCCCN(C)C)N)N
+MOL_e15376b5fbaa,Target_lig_934,CCUG_compound_65,Cc1ccc2nc(Nc3ccc4nc(sc4c3)-c3ccc(F)cc3)nc(NCCCO)c2c1
+MOL_5b5df26cc70c,Target_lig_935,CCUG_compound_66,Cc1ccc2nc(Nc3ccc4nc(sc4c3)-c3cccc(F)c3)nc(NCCCO)c2c1
+MOL_b70ba28b2239,Target_lig_936,CCUG_compound_67,Cc1ccc2nc(Nc3ccc4nc(sc4c3)-c3ccccc3C)nc(NCCCO)c2c1
+MOL_d44c78ba4225,Target_lig_925,CCUG_compound_56,Cc1n[nH]c2nc(Nc3ccc4OCCOc4c3)nc(NCCCO)c12
+MOL_ebb36fde6170,Target_lig_915,CCUG_compound_46,OCCCNc1nc(Nc2ccc3OC(F)(F)Oc3c2)nc2ccccc12
+MOL_6422a8f8bbf8,Target_lig_916,CCUG_compound_47,Cc1c(Nc2nc(NCCCO)c3ccccc3n2)ccc2OCCOc12
+MOL_a8858c6e419e,Target_lig_917,CCUG_compound_48,CN1CCOc2cc(Nc3nc(NCCCO)c4ccccc4n3)ccc12
+MOL_e1361c4da1e0,Target_lig_918,CCUG_compound_49,Cc1nc2ccc(Nc3nc(NCCCO)c4ccccc4n3)cc2o1
+MOL_6d5c05cd993e,Target_lig_919,CCUG_compound_50,Cc1nc2ccc(Nc3nc(NCCCO)c4ccccc4n3)cc2s1
+MOL_be55ebff85ed,Target_lig_920,CCUG_compound_51,Cn1cnc2ccc(Nc3nc(NCCCO)c4ccccc4n3)cc12
+MOL_a93ba8ee95c3,Target_lig_921,CCUG_compound_52,Cn1nc(Nc2nc(NCCCO)c3ccccc3n2)c2ccccc12
+MOL_4e30a023c60d,Target_lig_922,CCUG_compound_53,CN(c1ccc2OCCOc2c1)c1nc(NCCCO)c2ccccc2n1
+MOL_4fb2da2ba552,Target_lig_923,CCUG_compound_54,OCCCNc1nc(Nc2ccc3OCCOc3c2)nc2CCCCc12
+MOL_b94be0d89910,Target_lig_924,CCUG_compound_55,OCCCNc1nc(Nc2ccc3OCCOc3c2)nc2COCc12
+MOL_3c307b08d49b,Target_lig_937,CCUG_compound_68,Cc1ccc2nc(Nc3ccc4nc(sc4c3)-c3cc[nH]n3)nc(NCCCO)c2c1
+MOL_3f2eacab0b5e,Target_lig_926,CCUG_compound_57,Cc1cccc2c(NCCCO)nc(Nc3ccc4OCCOc4c3)nc12
+MOL_69944db35eed,Target_lig_927,CCUG_compound_58,Cc1ccc2nc(Nc3ccc4OCCOc4c3)nc(NCCCO)c2c1
+MOL_31f2a186f7fa,Target_lig_871,CCUG_compound_2,CC(=O)NC1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)N4CCCC4
+MOL_533259a304af,Target_lig_929,CCUG_compound_60,OCCCNc1nc(Nc2ccc3OCCOc3c2)nc2cc(F)ccc12
+MOL_d58530cbc213,Target_lig_930,CCUG_compound_61,OCCCNc1nc(Nc2ccc3OCCOc3c2)nc2c(F)cccc12
+MOL_b4bacb1fc5af,Target_lig_931,CCUG_compound_62,Cc1nc2ccc(Nc3nc(NCCCO)c4cc(C)ccc4n3)cc2o1
+MOL_0d9bd94ae8e1,Target_lig_932,CCUG_compound_63,Cc1nc2ccc(Nc3nc(NCCCO)c4cc(C)ccc4n3)cc2s1
+MOL_0049f38b0fe0,Target_lig_593,Bis amidophenyl furans derivative 2,c1cc(cc(c1)C(=N)NCCCN(CC)CC)c1oc(cc1)c1cccc(c1)C(=N)NCCCN(CC)CC
+MOL_dc9d1bb17e46,Target_lig_594,Bis amidophenyl furans derivative 3,CN(C)CCCCN=C(C1=CC=CC(=C1)C2=CC=C(O2)C3=CC(=CC=C3)C(=NCCCCN(C)C)N)N
+MOL_7cc6f5450b9e,Target_lig_976,Pentamidine_7,C1=CC=C(C=C1)COC2=C(C=C(C=C2Cl)C(=N)N)Cl
+MOL_c35c93535870,Target_lig_946,CCUG_compound_77,Cc1ccc2nc(Nc3ccc4nc(NCCOc5ccccc5)sc4c3)nc(NCCCO)c2c1
+MOL_3a03a146570f,Target_lig_984,Hoechst_33258_9,C1CN=C(N1)C2=CC=C(C=C2)NC(=O)CNC(=O)NC3=CC=C(C=C3)C4=NCCN4
+MOL_9cce130fcd1e,Target_lig_983,Hoechst_33258_8,COC1=C(C=C(C=C1)C2=NC3=CC=CC=C3N2)OC
+MOL_5345d0aa9032,Target_lig_982,Hoechst_33258_7,C1CN=C(N1)C2=CC(=CC=C2)NC(=O)C3=CC(=CC=C3)C(=O)NC4=CC=CC(=C4)C5=NCCN5
+MOL_20a641a4850e,Target_lig_981,Hoechst_33258_6,C[C@@H]1CNC(=N1)c1ccc(cc1)NC(=O)Nc1ccc(cc1)C1=N[C@H](CN1)C
+MOL_9f6bffe872b1,Target_lig_980,Hoechst_33258_5,C1=CC=C2C(=C1)NC(=N2)CNC3=CC=C(C=C3)C(F)(F)F
+MOL_622b5744e227,Target_lig_979,Hoechst_33258_4,C1=CC(=CC(=C1)C(=O)NC2=CC=CC(=C2)C(=N)N)C(=O)NC3=CC=CC(=C3)C(=N)N
+MOL_2185f459f720,Target_lig_978,Hoechst_33258_2,C1CN=C(N1)N/N=C/C2=CC=C(C=C2)C3=CN4C=C(C=CC4=N3)/C=N\NC5=NCCN5
+MOL_99cb7026bd7f,Target_lig_1276,Hoechst_33258_1,Nc1cccc(c1)c1[nH]c2c(n1)cc(cc2)c1ccc2c(c1)nc([nH]2)c1cccc(c1)N
+MOL_8fc59c4b5506,Target_lig_977,Pentamidine_8,CN=C(C1=CC=C(C=C1)N=C(C2=CC(=CC=C2)C(=NC3=CC=C(C=C3)C(=NC)N)N)N)N
+MOL_18da956e35ca,Target_lig_945,CCUG_compound_76,Cc1ccc2nc(Nc3ccc4nc(NCCOCc5ccccc5)sc4c3)nc(NCCCO)c2c1
+MOL_2bc9115154d6,Target_lig_975,Pentamidine_6,CN=C(C1=CC=C(C=C1)NC(=O)C2=CC=C(C=C2)C(=O)NC3=CC=C(C=C3)C(=NC)N)N
+MOL_fdc3d9871a8c,Target_lig_974,Pentamidine_5,C1=CC(=CC(=C1)OCCOC2=CC=C(C=C2)C(=N)N)N
+MOL_5e099c5bbb6c,Target_lig_973,Pentamidine_4,CN=C(N)NC1=CC=C(C=C1)NC(=O)NC2=CC=C(C=C2)NC(=O)NC3=CC=C(C=C3)NC(=NC)N
+MOL_287796687ae8,Target_lig_972,Pentamidine_3,C1=CC(=CC=C1C(=O)NC2=CC=C(C=C2)N=C(N)N)C(=O)NC3=CC=C(C=C3)N=C(N)N
+MOL_56e326743d67,Target_lig_971,Pentamidine_2,C1=CC(=CC=C1C(=O)NC2=CC=C(C=C2)C(=N)N)C(=O)NC3=CC=C(C=C3)C(=N)N
+MOL_d330354c728f,Target_lig_970,Pentamidine_1,C1=CC(=CC=C1C(=N)N)NC(=O)C2=CC(=C(C=C2)C(=O)NC3=CC=C(C=C3)C(=N)N)N
+MOL_90c05df0cc27,Target_lig_947,CCUG_compound_78,Cc1ccc2nc(Nc3ccc4nc(NCC(C)(C)O)sc4c3)nc(NCCCO)c2c1
+MOL_74bcfff2d7d4,Target_lig_948,CCUG_compound_79,CN(C)CCNc1nc2ccc(Nc3nc(NCCCO)c4cc(C)ccc4n3)cc2s1
+MOL_72f0f78b5579,Target_lig_949,CCUG_compound_80,Cc1ccc2nc(Nc3ccc4nc(sc4c3)N(CCO)CCO)nc(NCCCO)c2c1
+MOL_758bd7c10c98,Target_lig_951,CCUG_compound_82,CN1CCN(CC1)c1nc2ccc(Nc3nc(NCCCO)c4cc(C)ccc4n3)cc2s1
+MOL_f20511467be0,Target_lig_640,2H-3NPr,CCCN([C@H](C)C(=O)N(CCC)[C@H](C)C(=O)N(CCC)[C@H](C)C(=O)NCCNC(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1
+MOL_e0b7e8a9de7b,Target_lig_938,CCUG_compound_69,Cc1ccc2nc(Nc3ccc4nc(sc4c3)-c3ccc(cc3)C(N)=O)nc(NCCCO)c2c1
+MOL_38b03358040c,Target_lig_939,CCUG_compound_70,Cc1ccc2nc(Nc3ccc4nc(sc4c3)-c3ccc4[nH]ccc4c3)nc(NCCCO)c2c1
+MOL_50835e58a5f5,Target_lig_940,CCUG_compound_71,Cc1ccc2nc(Nc3ccc4nc(NC5CCN(Cc6ccccc6)CC5)sc4c3)nc(NCCCO)c2c1
+MOL_1abf69c80531,Target_lig_941,CCUG_compound_72,Cc1ccc2nc(Nc3ccc4nc(sc4c3)N3CCOCC3)nc(NCCCO)c2c1
+MOL_96c2e989e4d3,Target_lig_942,CCUG_compound_73,CC(C)CNc1nc2ccc(Nc3nc(NCCCO)c4cc(C)ccc4n3)cc2s1
+MOL_e6c2d478d606,Target_lig_943,CCUG_compound_74,Cc1ccc2nc(Nc3ccc4nc(NCCN5CCOCC5)sc4c3)nc(NCCCO)c2c1
+MOL_18a52273d084,Target_lig_944,CCUG_compound_75,Cc1ccc2nc(Nc3ccc4nc(NCc5ccc6OCOc6c5)sc4c3)nc(NCCCO)c2c1
+MOL_6d63420aa1d1,Target_lig_638,2H-3G,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(OCCCC(=O)NCCNC(=O)CNC(=O)CNC(=O)CNC(=O)CCCOC2=CC=CC(=C2)C2=NC3=CC(=CC=C3N2)C2=NC3=CC(=CC=C3N2)N2CC[NH+](C)CC2)=CC=C1
+MOL_8fac369b5efe,Target_lig_639,2H-3NMe,C[C@@H](N(C)C(=O)[C@@H](C)N(C)C(=O)[C@@H](C)N(C)C(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(=O)NCCNC(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1
+MOL_cac0c72e3635,Target_lig_928,CCUG_compound_59,OCCCNc1nc(Nc2ccc3OCCOc3c2)nc2ccc(F)cc12
+MOL_bec35ab7e863,Target_lig_1010,miR-21 binder compound 5,CCCN(C(=O)CN(C(=O)NCc1nnn(c1)CCCNC(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C)CCC)CC(=O)N(CC(=O)N(Cc1nnn(c1)CCCNC(=O)CCCOc1ccc(cc1)c1nc2c([nH]1)ccc(c2)c1ccc(cc1)N1CCN(CC1)C)CC(=O)NCC[O+](c1ccc(cc1O)/C=C/1\SC(=C(C1=O)C(=O)OCC)Nc1ccccc1)C[O+](c1ccc(cc1O)/C=C/1\SC(=C(C1=O)C(=O)OCC)Nc1ccccc1)C[O+](c1ccc(cc1O)/C=C/1\SC(=C(C1=O)C(=O)OCC)Nc1ccccc1)COc1ccc(cc1O)/C=C/1\SC(=C(C1=O)C(=O)OCC)Nc1ccccc1)CCC
+MOL_22dfb604f07f,Target_lig_641,2H-K4,CCCN(CC(=O)N[C@H](CCCCNC(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(N)=O)C(=O)CN(CCC)C(=O)CN(CCC)C(=O)CN(CCC)C(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1
+MOL_590aeed49e27,Target_lig_642,2H-K4NH,C[C@@H](NC(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(=O)N[C@H](C)C(=O)N[C@H](C)C(=O)N[C@H](C)C(=O)N[C@H](CCCCNC(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(N)=O
+MOL_7ebb09ea4b18,Target_lig_643,2H-K4NMe,C[C@@H](N(C)C(=O)[C@@H](C)N(C)C(=O)[C@@H](C)N(C)C(=O)[C@@H](C)N(C)C(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(=O)N[C@H](CCCCNC(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(N)=O
+MOL_a11068c581a5,Target_lig_645,2H-K4NPr,CCCN([C@H](C)C(=O)N(CCC)[C@H](C)C(=O)N(CCC)[C@H](C)C(=O)N(CCC)[C@H](C)C(=O)N[C@H](CCCCNC(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1)C(N)=O)C(=O)CCCOC1=CC=CC(=C1)C1=NC2=CC(=CC=C2N1)C1=NC2=CC(=CC=C2N1)N1CC[NH+](C)CC1
+MOL_6330fc0304ac,Target_lig_894,CCUG_compound_25,C1=CC=C2C(=C1)C(=NC(=N2)NC3=CC=C(C=C3)O)NCCCO
+MOL_2bb3aded0f7b,Target_lig_895,CCUG_compound_26,CC(C1=CC(=CC=C1)NC2=NC3=CC=CC=C3C(=N2)N(C)C)O
+MOL_707ae3c25b78,Target_lig_896,CCUG_compound_27,COC1=CC=CC(=C1)NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_581c87b600c0,Target_lig_897,CCUG_compound_28,CC(=O)C1=CC(=CC=C1)NC2=NC3=CC=CC=C3C(=N2)N(C)C
+MOL_7e0aea931e5c,Target_lig_898,CCUG_compound_29,CCNC1=NC(=NC2=CC=CC=C21)NC3=CC=C(C=C3)O
+MOL_dc7678a6979e,Target_lig_899,CCUG_compound_30,CCOC1=C(C=C(C=C1)C(=O)NC2=C(C=CC(=C2)C3=NC4=CC=CC=C4N3)Cl)[N+](=O)[O-]
+MOL_eeb9904ff666,Target_lig_900,CCUG_compound_31,CNC1=NC(=NC2=CC=CC=C21)NC3=CC(=CC=C3)O
+MOL_2b8c2bde2638,Target_lig_901,CCUG_compound_32,CC(=O)NC1=CC=CC(=C1)NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_4d78755c3273,Target_lig_902,CCUG_compound_33,CCNC1=NC(=NC2=CC=CC=C21)NC3=CC(=CC=C3)O
+MOL_6c70b1d132d7,Target_lig_893,CCUG_compound_24,CC(=O)NC1=CC=CC(=C1)NC2=NC3=CC=CC=C3C(=N2)NCC4CCCO4
+MOL_370034f59281,Target_lig_529,Diphenylfuran _analog_1,CN(C)CCCN=C(C1=CC=C(C=C1)C2=CC=C(O2)C3=CC=C(C=C3)C(=NCCCN(C)C)N)N
+MOL_24cd90c2b72d,Target_lig_530,Diphenylfuran _analog_2,CC(C)NC1=CC=C(C=C1)C2=CC=C(O2)C3=CC=C(C=C3)NC(C)C
+MOL_308de944bbac,Target_lig_531,Diphenylfuran _analog_3,CN(C)CCCN=C(C1=CC=C(C=C1)C2=CN=C(O2)C3=CC=C(C=C3)C(=NCCCN(C)C)N)N
+MOL_bfea075a586d,Target_lig_532,Diphenylfuran _analog_4,CN(C)CCCN=C(C1=CC=C(C=C1)C2=CC=C(S2)C3=CC=C(C=C3)C(=NCCCN(C)C)N)N
+MOL_a554171443be,Target_lig_882,CCUG_compound_13,CN(C)C1=NC(=NC2=CC=CC=C21)NC3=CC=C(C=C3)O
+MOL_a1d05f7dd40a,Target_lig_872,CCUG_compound_3,COC1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_3ae2e7af8a54,Target_lig_873,CCUG_compound_4,CN(C)C1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_39df2c93b881,Target_lig_874,CCUG_compound_5,CC(=O)NC1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)NCC4CCCO4
+MOL_afb92397d1ab,Target_lig_875,CCUG_compound_6,CN(C)C1=NC(=NC2=CC=CC=C21)NC3=CC=C(C=C3)C(=O)N
+MOL_2fbaedb8e292,Target_lig_876,CCUG_compound_7,C1COC2=C(O1)C=CC(=C2)NC3=NC4=CC=CC=C4C(=N3)NCCCO
+MOL_3f5e3346e519,Target_lig_877,CCUG_compound_8,COC1=C(C=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)NCCO)Cl
+MOL_7b5dadd29fc5,Target_lig_878,CCUG_compound_9,CC(=O)NC1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)NCCO
+MOL_570f0128fc54,Target_lig_879,CCUG_compound_10,CN(C)C1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)N(C)C
+MOL_164b89c239f5,Target_lig_880,CCUG_compound_11,CN(C)C1=NC(=NC2=CC=CC=C21)NC3=CC=C(C=C3)OC
+MOL_c60f54261799,Target_lig_881,CCUG_compound_12,COC1=C(C=CC(=C1)C2=NC3=C(N2)C=C(C=C3)N4C=NN=N4)OCCN5CCCC5
+MOL_a4a34f020fea,Target_lig_913,CCUG_compound_44,CC(=O)NC1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_7d25d362e49f,Target_lig_883,CCUG_compound_14,CCN1C2=CC=CC=C2C(=N1)CNC(=O)CN(C)C3CCNCC3
+MOL_c7a93a3bcdc9,Target_lig_884,CCUG_compound_15,CC(=O)NC1=CC=CC(=C1)NC2=NC3=CC=CC=C3C(=N2)N4CCCC4
+MOL_c4192d089a73,Target_lig_885,CCUG_compound_16,CC(C1=CC(=CC=C1)NC2=NC3=CC=CC=C3C(=N2)N4CCCC4)O
+MOL_669365fc104f,Target_lig_886,CCUG_compound_17,CN(C)C1=NC(=NC2=CC=CC=C21)NC3=CC(=CC=C3)O
+MOL_ba44dbb2e411,Target_lig_887,CCUG_compound_18,CC(=O)C1=CC(=CC=C1)NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_151262d7c58e,Target_lig_888,CCUG_compound_19,CC(=O)NC1=CC=CC(=C1)NC2=NC3=CC=CC=C3C(=N2)N(C)C
+MOL_230c70f34f73,Target_lig_889,CCUG_compound_20,CN(C)C1=NC(=NC2=CC=CC=C21)NC3=CC4=C(C=C3)OCCO4
+MOL_6d6881a2303a,Target_lig_890,CCUG_compound_21,CC1=CC=CC=C1NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_f4fe57b6bca1,Target_lig_891,CCUG_compound_22,C=CCNC1=NC(=NC2=CC=CC=C21)NC3=CC=C(C=C3)O
+MOL_b41be428a435,Target_lig_892,CCUG_compound_23,CN(C)C1=NC(=NC2=CC=CC=C21)NC3=CC(=CC=C3)OC
+MOL_63e48bbf8b94,Target_lig_914,CCUG_compound_45,C1OC2=C(O1)C=C(C=C2)NC3=NC4=CC=CC=C4C(=N3)NCCCO
+MOL_4063ec3c68f3,Target_lig_534,Diphenylfuran _analog_6,CN(C)CCCN=C(C1=CC=C(C=C1)C2=CC=C(N2)C3=CC=C(C=C3)C(=NCCCN(C)C)N)N
+MOL_84f573aa1178,Target_lig_533,Diphenylfuran _analog_5,CN(C)CCCN=C(C1=CC=C(C=C1)C2=NC(=NC=C2)C3=CC=C(C=C3)C(=NCCCN(C)C)N)N
+MOL_cd27727a7f67,Target_lig_536,Neomycin-acridine conjugated aminoglycoside1,[C@H]1([C@H]([C@@H]([C@@H](O[C@H]1CN)O[C@H]1[C@@H]([C@H]([C@@H](C[C@H]1N)N)O)O[C@H]1[C@@H]([C@H]([C@@H](O1)CSCCNc1c2c(cccc2)nc2c1cccc2)O[C@@H]1[C@H]([C@H]([C@H]([C@H](O1)CN)O)O)N)O)N)O)O
+MOL_8ed61f8b5ee8,Target_lig_537,Neomycin-acridine conjugated aminoglycoside2,[C@H]1([C@@H]([C@@H]([C@@H](O[C@H]1CN)O[C@H]1[C@@H]([C@H]([C@@H](C[C@@H]1N)N)O)O[C@H]1[C@H]([C@@H]([C@H](O1)CNc1c2c(cccc2)nc2c1cccc2)O[C@H]1[C@@H]([C@H]([C@@H]([C@@H](O1)CN)O)O)N)O)N)O)O
+MOL_8749960209f5,Target_lig_538,Neomycin-acridine conjugated aminoglycoside3,[C@H]1([C@@H]([C@@H]([C@@H](O[C@@H]1CN)O[C@@H]1[C@@H]([C@@H]([C@H](C[C@@H]1N)N)O)O[C@@H]1[C@H]([C@H]([C@@H](O1)CSCCSCCNc1c2c(cccc2)nc2c1cccc2)O[C@@H]1[C@@H]([C@H]([C@@H]([C@@H](O1)CN)O)O)N)O)N)O)O
+MOL_1b0d169fbc1c,Target_lig_539,Kanamycin A-acridine conjugate,[C@@H]1([C@@H](C[C@@H]([C@@H]([C@H]1O)O[C@@H]1[C@@H]([C@@H]([C@@H]([C@@H](O1)CN)O)O)O)N)N)O[C@@H]1[C@H]([C@H]([C@H]([C@@H](O1)CNc1c2ccccc2nc2c1cccc2)O)N)O
+MOL_4ef521f0cbbe,Target_lig_903,CCUG_compound_34,C1=CC=C2C(=C1)C(=NC(=N2)NC3=CC(=CC=C3)F)NCCCO
+MOL_06fb967f58ae,Target_lig_905,CCUG_compound_36,CN1CCN(CC1)C2=NC(=NC3=CC=CC=C32)NC4=CC=C(C=C4)O.Cl
+MOL_6fc4c1cd82d7,Target_lig_906,CCUG_compound_37,C1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_11a89320bd1b,Target_lig_907,CCUG_compound_38,CC(C)(C)C(CN1C=CN=C1)NC(=O)NC2=CC3=C(C=C2)NN=C3
+MOL_5ab5b14e40be,Target_lig_908,CCUG_compound_39,C1=CC=C2C(=C1)C(=NC(=N2)NC3=CC(=CC=C3)O)NCCCO
+MOL_66febb8203cb,Target_lig_904,CCUG_compound_35,CC1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)NCCCO
+MOL_f31577687785,Target_lig_909,CCUG_compound_40,COC(=O)C1=CC(=CC=C1)NC2=NC3=CC=CC=C3C(=N2)N
+MOL_e11ce3f1914a,Target_lig_910,CCUG_compound_41,CN1C2=C(C=CC(=C2)NC(=O)NCC3=CN=CN3CCOC)C=N1
+MOL_1739e1f5ff25,Target_lig_911,CCUG_compound_42,CCOC1=C(C=CC(=C1)C2=NC3=C(N2)C=C(C=C3)N4C=NN=N4)O
+MOL_0a9daf1ed871,Target_lig_912,CCUG_compound_43,CN(C)C1=CC=C(C=C1)NC2=NC3=CC=CC=C3C(=N2)N4CCOCC4.Cl
+MOL_68c0d0e0a10f,Target_lig_1190,Spiro-compound_4,OC1C[C@]2(OCC1O)[C@@H](N)C[C@H](C([C@H]2O)O)N
+MOL_08023652dae0,Target_lig_1007,Mitoxantrone_analog_3,C1=CC=C2C(=C1)C(=O)C3=C(C=CC(=C3C2=O)NCCNCCO)NCCNCCO
+MOL_6c9d3c2e0c4c,Target_lig_1192,Spiro-compound_6,N[C@@H]1C[C@H](N)[C@]2([C@@H](C1O)O)CCC=CCO2
+MOL_6fcbf60eacb5,Target_lig_1288,IRE-03,Oc1ccc(c(c1)O)c1n[nH]c(c1c1cnn(c1)c1ccccc1)C
+MOL_6e411618bb3f,Target_lig_1289,IRE-03-3,COc1c(OC)ccc(c1O)c1n[nH]c(c1c1cnn(c1)c1ccccc1)C(F)(F)F
+MOL_f661f0359d7e,Target_lig_846,Pyridazine 21,C1C2CN(CC2CN1)C3=NN=C(C=C3)C4=C(C=C(C=C4)C5=CNN=C5)O
+MOL_feba12d450da,Target_lig_838,Eastern amine 13,C1CNCC(C1OC2=NN=C(C=C2)C3=C(C=C(C=C3)N4C=CC=N4)O)(F)F
+MOL_00846c845428,Target_lig_840,Pyridazine 15,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C4C(=C3)C=CC=N4)O)C
+MOL_cc92c70335fc,Target_lig_841,Pyridazine 16,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C4C=CN=CC4=C3)O)C
+MOL_f6ea4f1b77aa,Target_lig_842,Pyridazine 17,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C(C=C3)N4C=CC(=N4)N)O)C
+MOL_eca3b63bb462,Target_lig_843,Pyridazine 18,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C(C=C3)N4C=C(C=N4)CO)O)C
+MOL_3158d2c45d8a,Target_lig_1086,CD33 compound 9,Cc1cnc2c(c1)nnn2c1ccc(cc1)C(=O)N(c1ncccc1Cl)C1CCCNC1
+MOL_0a782b33201a,Target_lig_1085,CD33 compound 8,Cc1ccc2c(n1)n(nn2)c1ccc(cc1)C(=O)N(c1ncccc1Cl)C1CCCNC1
+MOL_3d5c389e65e2,Target_lig_1084,CD33 compound 7,C1CC(CNC1)N(C2=C(C=CC=N2)Cl)C(=O)C3=CC=C(C=C3)N4C5=C(C=CC=N5)N=N4
+MOL_a37c16c99319,Target_lig_844,Pyridazine 19,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C(C=C3)C4=CNN=C4)O)C
+MOL_f2fbddc52ca5,Target_lig_845,Pyridazine 20,C1CC2(CCN(C2)C3=NN=C(C=C3)C4=C(C=C(C=C4)C5=CNN=C5)O)CNC1
+MOL_c85518573c5f,Target_lig_1191,Spiro-compound_5,O[C@H]1CO[C@@]2(CC[C@H]1O)[C@@H](N)C[C@H](C([C@H]2O)O)N
+MOL_9d70f12095d6,Target_lig_847,Pyridazine 22,CC1(CC(CC(N1)(C)C)CC2=NN=C(C=C2)C3=C(C=C(C=C3)C4=CNN=C4)O)C
+MOL_73ab371d15ec,Target_lig_848,Branaplam,CC1(CC(CC(N1)(C)C)OC2=NN=C(C=C2)C3=C(C=C(C=C3)C4=CNN=C4)O)C
+MOL_fda3e3307d8e,Target_lig_836,Eastern amine 11,CC1(CC(CC(N1)(C)C)OC2=NN=C(C=C2)C3=C(C=C(C=C3)N4C=CC=N4)O)C
+MOL_7042d0cf4e17,Target_lig_721,PK4C9,C1=CC=C2C(=C1)C(=CN2)C(=O)C3=CN=C(N3)C(=O)C4=CNC5=C4C=CC(=C5)O
+MOL_f6c7b1734d23,Target_lig_1193,Spiro-compound_7,C=CCC(CN[C@@H]1C[C@H](N)[C@]2([C@@H](C1O)O)CCC=CCO2)(C)C
+MOL_5317192ab984,Target_lig_820,Guanidinoamine,NC(=N)NCC1OC(OC2C(NC(=N)N)CC(C(C2O)O)NC(=N)N)C(C(C1O)O)NC(=N)N
+MOL_d3e31fc69cfb,Target_lig_828,Pyridazine 2,CC1(CC(CC(N1)(C)C)NC2=NN=C(C=C2)C3=CC4=CC=CC=C4S3)C
+MOL_f93523c43527,Target_lig_829,Pyridazine 3,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=CC4=CC=CC=C4S3)C
+MOL_8e9b22577e3c,Target_lig_830,Pyridazine 4,CC1(CC(CC(N1)(C)C)NC2=NN=C(C=C2)C3=CC4=CC=CC=C4C=C3)C
+MOL_21cfef5cc837,Target_lig_831,Pyridazine 6,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C(C=C3)F)O)C
+MOL_63a3c76fdedf,Target_lig_832,Pyridazine 7,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=CC4=CC=CC=C4C=C3O)C
+MOL_720f52b51f8c,Target_lig_833,Pyridazine 8,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C(C=C3)C#N)O)C
+MOL_b4dd7ff221d0,Target_lig_834,Pyridazine 9,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C(C=C3)C#N)OC)C
+MOL_cc592dad3800,Target_lig_835,Eastern amine 10,CC1(CC(CC(N1)(C)C)N(C)C2=NN=C(C=C2)C3=C(C=C(C=C3)N4C=CC=N4)O)C
+MOL_9c841653c0ad,Target_lig_837,Eastern amine 12,C1CNCCC1OC2=NN=C(C=C2)C3=C(C=C(C=C3)N4C=CC=N4)O
+MOL_a1dbd44ee4ce,Target_lig_23,MPE-Fe(II),C[N+]1=C2C=C(C=CC2=C3C=CC(=CC3=C1C4=CC=C(C=C4)NCCCNC(=O)CN(CCN(CC(=O)O)CC(=O)[O-])CC(=O)O)N)N

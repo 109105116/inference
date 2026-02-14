@@ -1,0 +1,10 @@
+models/
+__pycache__
+archive_v1/
+logs/
+data/processed/
+data/inference_output/
+data/consolidated/
+env_cache/
+databases/
+README.md
